@@ -1,0 +1,1137 @@
+{
+  "meta": {
+    "home": {
+      "title": "Quality Build & Management — Bauunternehmen für Hausbau & Renovierung",
+      "description": "Hausbau, Fassadenarbeiten, Renovierung, Restaurierung und Gartengestaltung aus einer Hand. Qualität in jeder Phase — transparent, termintreu, mit Garantie."
+    },
+    "services": {
+      "title": "Leistungen — Hausbau, Fassade, Renovierung & mehr",
+      "description": "Unser Leistungsspektrum: Bau von Häusern, Fassadenarbeiten, Innenrenovierung, Restaurierung sowie Garten- & Landschaftsbau. Alles aus einer Hand."
+    },
+    "hausbau": {
+      "title": "Bau von Häusern — schlüsselfertig in jedem Stil",
+      "description": "Schlüsselfertiger Hausbau in 10 Architekturstilen: von Hi-Tech bis Klassik. Transparente Kosten, Energieeffizienz und mehrstufige Qualitätskontrolle."
+    },
+    "fassade": {
+      "title": "Fassadenarbeiten — Dämmung, Putz & Sanierung",
+      "description": "Professionelle Fassadenarbeiten: Wärmedämmung, Verputz, Anstrich, Dach und kleinere Reparaturen. Langlebige Ergebnisse mit modernen Materialien."
+    },
+    "innen": {
+      "title": "Innenrenovierung — Reparatur & Ausbau vom Profi",
+      "description": "Komplette Innenrenovierung: von der Planung über Küche und Bad bis zur schlüsselfertigen Übergabe. Festpreis, Termintreue, Garantie."
+    },
+    "restaurierung": {
+      "title": "Restaurierung — Gebäude fachgerecht sanieren",
+      "description": "Fachgerechte Restaurierung von Häusern und historischen Gebäuden: professionelle Bewertung, passende Materialien, dauerhafte Ergebnisse."
+    },
+    "garten": {
+      "title": "Garten- & Landschaftsbau — Außenanlagen mit System",
+      "description": "Gartengestaltung, Wege, Beleuchtung, Bewässerung und Automatisierung. Wir planen und bauen Außenanlagen, die Wert und Wohlbefinden steigern."
+    },
+    "projekte": {
+      "title": "Projekte — unsere Referenzen nach Stil",
+      "description": "Realisierte Projekte von Quality Build: Stadthäuser, Hi-Tech, Klassik, Skandinavisch, Minimalismus und mehr. Lassen Sie sich inspirieren."
+    },
+    "about": {
+      "title": "Über uns — das Team hinter Quality Build",
+      "description": "Quality Build & Management ist ein hochprofessionelles Bauunternehmen mit Fokus auf Qualität, Energieeffizienz und individuellen Stil."
+    },
+    "kontakt": {
+      "title": "Kontakt — kostenlose Beratung anfragen",
+      "description": "Kontaktieren Sie Quality Build & Management: Telefon, E-Mail oder Formular. Wir antworten schnell und beraten Sie kostenlos zu Ihrem Projekt."
+    },
+    "datenschutz": {
+      "title": "Datenschutzerklärung",
+      "description": "Datenschutzerklärung von Quality Build & Management."
+    }
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "serviceItems": {
+      "hausbau": "Bau von Häusern",
+      "fassadenarbeiten": "Fassadenarbeiten",
+      "innenrenovierung": "Innenrenovierung",
+      "restaurierung": "Restaurierung",
+      "garten": "Garten & Landschaftsbau"
+    },
+    "projects": "Projekte",
+    "contact": "Kontakt",
+    "getConsultation": "Beratung anfragen",
+    "menu": "Menü",
+    "close": "Schließen",
+    "breadcrumbHome": "Startseite",
+    "skipToContent": "Zum Inhalt springen"
+  },
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "readMore": "Mehr lesen",
+    "viewAll": "Alle ansehen",
+    "viewProjects": "Projekte ansehen",
+    "moreAboutUs": "Mehr über uns",
+    "contactUs": "Kontaktieren Sie uns",
+    "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder rufen Sie uns an.",
+    "privacyNote": "Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Daten gemäß unserer <link>Datenschutzerklärung</link> zu.",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "address": "Adresse",
+    "hours": "Öffnungszeiten",
+    "free": "Kostenlos"
+  },
+  "hero": {
+    "kicker": "Quality Build & Management",
+    "title1": "Unglaubliches",
+    "title2": "Design",
+    "subtitle": "Wir bauen, sanieren und gestalten — Lösungen für jedes Budget, individuell auf Ihre Wünsche zugeschnitten.",
+    "points": {
+      "p1": "Moderne, einzigartige Stile und praktisches Design",
+      "p2": "Intelligente Planung und Projektierung",
+      "p3": "Kostenlose Auswahl von Varianten für Neubau oder Renovierung",
+      "p4": "3D-Visualisierung mit Anpassungen vor Baubeginn"
+    },
+    "ctaPrimary": "Kostenlose, professionelle Beratung",
+    "ctaSecondary": "Unsere Leistungen",
+    "stats": {
+      "s1": {
+        "value": "10+",
+        "label": "Jahre Erfahrung"
+      },
+      "s2": {
+        "value": "150+",
+        "label": "Realisierte Projekte"
+      },
+      "s3": {
+        "value": "100%",
+        "label": "Qualitätskontrolle"
+      }
+    },
+    "scrollHint": "Scrollen Sie, um mehr zu entdecken"
+  },
+  "servicesStrip": {
+    "eyebrow": "Was wir tun",
+    "title": "Unsere Leistungen",
+    "subtitle": "Alle Arbeiten aus einer Hand — wir kontrollieren jede Phase der Umsetzung.",
+    "items": {
+      "hausbau": {
+        "title": "Bau von Häusern",
+        "description": "Bau von Häusern verschiedener Stilrichtungen, Komplexität und Preisklassen."
+      },
+      "restaurierung": {
+        "title": "Restaurierung des Hauses",
+        "description": "Wiederherstellung des Aussehens des Gebäudes und Verlängerung seiner Lebensdauer."
+      },
+      "innenrenovierung": {
+        "title": "Innenrenovierung",
+        "description": "Das gesamte Spektrum der Renovierungsarbeiten — von der Planung bis zur Übergabe."
+      },
+      "fassadenarbeiten": {
+        "title": "Fassadenarbeiten",
+        "description": "Dämmung, Verputz, Anstrich und Sanierung — langlebig und energieeffizient."
+      },
+      "garten": {
+        "title": "Garten & Landschaftsbau",
+        "description": "Durchdachte Außenanlagen: Wege, Grünflächen, Beleuchtung und Automatisierung."
+      }
+    },
+    "readMore": "Mehr lesen",
+    "prev": "Zurück",
+    "next": "Weiter"
+  },
+  "whoWeAre": {
+    "kicker": "Wer sind wir?",
+    "title": "„Quality Build“ ist ein Team, das sich auf komplexe und hochwertige Problemlösungen spezialisiert hat.",
+    "text": "Ganz gleich, ob Sie ein Haus bauen, eine Fassade sanieren oder eine Renovierung vornehmen wollen, die jahrelang hält — wir sind für alles da. Unsere Spezialisierung ist nicht auf den Bau gewöhnlicher Häuser beschränkt: Wir schaffen sowohl majestätische architektonische Strukturen als auch Häuser in einer Vielzahl von Stilen und von beliebiger Komplexität.",
+    "cta": "Mehr über uns",
+    "callLabel": "Kontaktieren Sie uns"
+  },
+  "quality": {
+    "eyebrow": "Unser Versprechen",
+    "title": "Qualität der Ausführung in allen Phasen unserer Arbeit — ohne Ausnahmen.",
+    "p1": "Wir beraten Sie qualifiziert, damit Sie eine Entscheidung über Ihr Projekt treffen können, mit der Sie zu 100 % zufrieden sind.",
+    "p2": "Wir bieten Lösungsvarianten, führen alles pünktlich, ohne Kostenüberschreitungen und vor allem professionell aus.",
+    "skills": {
+      "s1": {
+        "label": "Auswahl der Lösung",
+        "value": 75
+      },
+      "s2": {
+        "label": "Qualität der Ausführung",
+        "value": 100
+      },
+      "s3": {
+        "label": "Geschwindigkeit",
+        "value": 80
+      },
+      "s4": {
+        "label": "Kosten-Effizienz",
+        "value": 90
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "So arbeiten wir",
+    "title": "Unser Arbeitsprozess in 5 Schritten",
+    "steps": {
+      "s1": {
+        "title": "Definition der Aufgabe",
+        "text": "Bevor wir beginnen, besprechen wir mit Ihnen, was Sie sich vorstellen und welche Anforderungen Sie an uns haben. Wir beraten Sie professionell und beantworten alle Fragen, damit Sie umfassend informiert Ihre eigene, unabhängige Entscheidung treffen können."
+      },
+      "s2": {
+        "title": "Bewertung",
+        "text": "Nach der Abstimmung der Aufgabe kommen wir persönlich vorbei, schätzen die Kosten der Arbeiten und machen, wenn möglich, Vorschläge, wie Sie sparen können — damit das Ergebnis besser wird als geplant. Ein hochwertiges Ergebnis ist keine kolossale Ausgabe, sondern richtig investiertes Geld."
+      },
+      "s3": {
+        "title": "Transparentes Angebot",
+        "text": "Nach der Bewertung legen wir die Kosten des gesamten Projekts sowie die Umsetzungsvariante fest. Die Varianten präsentieren wir als Visualisierung plus Projektkalkulation — so sehen Sie im Detail, wie alles aussehen und was es kosten wird."
+      },
+      "s4": {
+        "title": "Ausführung",
+        "text": "Wir übernehmen sämtliche Prozesse der Projektdurchführung: Materialbeschaffung, Entwurf, Konstruktion, Lieferung und mehr. Jede Phase steht unter persönlicher Kontrolle — dadurch sind Kosten und Termine deutlich niedriger, auch dank zahlreicher Verbesserungen unserer Arbeitsabläufe."
+      },
+      "s5": {
+        "title": "Projektübergabe",
+        "text": "Vor der Übergabe prüfen wir das Projekt anhand der Checkliste, die wir bereits bei der Besprechung erstellt haben. Erst nach vollständiger Kontrolle unsererseits laden wir Sie ein, das Ergebnis abzunehmen — insbesondere die Einhaltung technischer Standards, die Funktionalität und die Übereinstimmung mit Ihren Erwartungen."
+      }
+    },
+    "hud": {
+      "s1": "Briefing",
+      "s2": "Aufmaß",
+      "s3": "Kalkulation",
+      "s4": "Bauphase",
+      "s5": "Abnahme"
+    }
+  },
+  "offerTabs": {
+    "eyebrow": "Ihre Vorteile",
+    "title": "Was Sie mit uns gewinnen",
+    "tabs": {
+      "construction": {
+        "label": "Konstruktion",
+        "title": "Komplexe Konstruktion",
+        "bullets": {
+          "b1": "Niedrigerer Preis, weil alles aus einer Hand kommt",
+          "b2": "Der Preis der Arbeit ändert sich im Projekt nicht",
+          "b3": "Volle Verantwortung für das gesamte Projekt",
+          "b4": "Interessante Projekte für jedes Budget"
+        },
+        "cta": "Mehr zum Hausbau"
+      },
+      "repair": {
+        "label": "Renovierung",
+        "title": "Renovierungsleistungen",
+        "bullets": {
+          "b1": "Garantie auf alle Renovierungsarbeiten",
+          "b2": "Schnelle Umsetzung ohne Qualitätseinbußen",
+          "b3": "Auswahl der Optionen nach Budget und Wünschen"
+        },
+        "cta": "Mehr über die Renovierung"
+      },
+      "design": {
+        "label": "Design",
+        "title": "Unglaubliches Design",
+        "bullets": {
+          "b1": "Moderne, einzigartige Stile und praktisches Design",
+          "b2": "Freie Wahl der Varianten für Renovierung oder Neubau",
+          "b3": "3D-Visualisierung und Anpassung vor Baubeginn"
+        },
+        "cta": "Kostenlose, professionelle Beratung"
+      }
+    }
+  },
+  "offers": {
+    "consultation": {
+      "kicker": "Kostenlos",
+      "title": "Professionelle Beratung",
+      "text": "Ein reines Beratungsgespräch: Wir beantworten Ihre Fragen und geben Ratschläge, damit Sie informiert sind und alle Nuancen verstehen.",
+      "bullets": {
+        "b1": "Wie die Umsetzung funktioniert",
+        "b2": "Wie viel Budget benötigt wird",
+        "b3": "Was Sie generell wissen sollten — und mehr"
+      },
+      "cta": "Beratung erhalten"
+    },
+    "visit": {
+      "kicker": "Vor Ort",
+      "title": "Fachbesuch",
+      "text": "Direkt vor Ort erhalten Sie einen ungefähren Kostenvoranschlag (nach detaillierter Berechnung den genauen Preis) und eine professionelle Beratung.",
+      "bullets": {
+        "b1": "Sofort ein konkretes Angebot",
+        "b2": "Schnell den genauen Preis ermitteln",
+        "b3": "Kostenlos und unverbindlich"
+      },
+      "cta": "Fachbesuch vereinbaren"
+    },
+    "midBlock": {
+      "eyebrow": "Zahlen, die überzeugen",
+      "title": "Vertrauen entsteht durch Ergebnisse",
+      "text": "Von der ersten Beratung bis zur Übergabe: Wir messen uns an Qualität, Transparenz und Termintreue.",
+      "stats": {
+        "s1": {
+          "value": "150+",
+          "label": "Projekte realisiert"
+        },
+        "s2": {
+          "value": "10+",
+          "label": "Jahre Erfahrung"
+        },
+        "s3": {
+          "value": "40+",
+          "label": "Fachkräfte im Team"
+        },
+        "s4": {
+          "value": "100%",
+          "label": "Garantie auf Arbeiten"
+        }
+      }
+    }
+  },
+  "projectsTeaser": {
+    "eyebrow": "Referenzen",
+    "title": "Unsere Projekte",
+    "subtitle": "Ein Blick auf realisierte Häuser und laufende Arbeiten — von Klassik bis Hi-Tech.",
+    "cta": "Alle Projekte ansehen"
+  },
+  "contactCta": {
+    "eyebrow": "Bereit anzufangen?",
+    "title": "Besprechen Sie mit uns Ihr Projekt",
+    "subtitle": "Hinterlassen Sie eine Anfrage — wir melden uns schnellstmöglich mit einer kostenlosen Ersteinschätzung.",
+    "button": "Anfrage senden",
+    "orCall": "Oder rufen Sie uns direkt an:"
+  },
+  "footer": {
+    "tagline": "Bauunternehmen für Hausbau, Renovierung, Restaurierung und Außenanlagen — Qualität in jeder Phase.",
+    "copyright": "Alle Rechte vorbehalten.",
+    "privacyPolicy": "Datenschutzerklärung"
+  },
+  "contactPopup": {
+    "consultation": {
+      "title": "Kostenlose Beratung",
+      "description": "Hinterlassen Sie Ihre Kontaktdaten — wir melden uns und beantworten alle Ihre Fragen."
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns",
+      "description": "Schreiben Sie uns Ihr Anliegen — wir antworten schnellstmöglich."
+    },
+    "callback": {
+      "title": "Rückruf anfordern",
+      "description": "Hinterlassen Sie Ihre Nummer — wir rufen Sie zeitnah zurück."
+    },
+    "visit": {
+      "title": "Fachbesuch vereinbaren",
+      "description": "Wir kommen vor Ort, beraten Sie und erstellen einen konkreten Kostenvoranschlag — kostenlos."
+    },
+    "form": {
+      "name": "Ihr Name",
+      "namePlaceholder": "Max Mustermann",
+      "phone": "Ihr Telefon",
+      "phonePlaceholder": "+49 151 000 00 000",
+      "email": "Ihre E-Mail",
+      "emailPlaceholder": "name@beispiel.de",
+      "service": "Leistung",
+      "servicePlaceholder": "Leistung wählen",
+      "preferredDate": "Wunschtermin",
+      "question": "Ihre Nachricht",
+      "questionPlaceholder": "Beschreiben Sie kurz Ihr Projekt…",
+      "submit": "Senden",
+      "submitting": "Wird gesendet…",
+      "successTitle": "Vielen Dank!",
+      "successMessage": "Ihre Anfrage ist eingegangen. Wir melden uns schnellstmöglich bei Ihnen."
+    }
+  },
+  "about": {
+    "hero": {
+      "kicker": "Über uns",
+      "title": "Unser Team Quality Build",
+      "subtitle": "Ein hochprofessionelles Bauunternehmen — zuverlässig, innovativ und mit Leidenschaft für Details."
+    },
+    "intro": {
+      "kicker": "Wer wir sind",
+      "title": "Ihr zuverlässiger Partner am Bau",
+      "text": "Quality Build ist ein hochprofessionelles Bauunternehmen, das sich auf den Bau von Privathäusern, Gewerbegebäuden und Projekten mit komplexen, nicht standardmäßigen Lösungen spezialisiert hat. Im Laufe der Jahre haben wir uns als zuverlässiger und innovativer Partner im Baubereich etabliert und stehen Ihnen mit unserer ganzen Erfahrung bei der Umsetzung Ihres Projekts zur Verfügung."
+    },
+    "strengths": {
+      "title": "Unsere Stärken",
+      "items": {
+        "s1": {
+          "title": "Qualität und Erfahrung",
+          "text": "Quality Build hält sich stets an höchste Qualitätsstandards und verfügt über umfangreiche Erfahrung im Baubereich."
+        },
+        "s2": {
+          "title": "Energieeffizienz",
+          "text": "Wir entwickeln Projekte unter Berücksichtigung der Energieeffizienz — das senkt Kosten und schont die Umwelt."
+        },
+        "s3": {
+          "title": "Individueller Stil",
+          "text": "Ihr Zuhause ist Ihr Stil. Wir hören Ihnen zu, um ein Projekt zu schaffen, das Ihre Einzigartigkeit widerspiegelt."
+        }
+      }
+    },
+    "numbers": {
+      "title": "Quality Build in Zahlen",
+      "stats": {
+        "s1": {
+          "value": "150+",
+          "label": "Projekte realisiert"
+        },
+        "s2": {
+          "value": "10+",
+          "label": "Jahre am Markt"
+        },
+        "s3": {
+          "value": "40+",
+          "label": "Spezialisten"
+        },
+        "s4": {
+          "value": "98%",
+          "label": "Weiterempfehlungen"
+        }
+      }
+    },
+    "badge": {
+      "value": "10+",
+      "label": "Jahre Erfahrung"
+    },
+    "legal": {
+      "kicker": "Firmendaten",
+      "title": "Offiziell registriertes Unternehmen",
+      "text": "Quality Build & Management Sp. z o.o. ist eine in Polen eingetragene Gesellschaft. Alle Angebote, Verträge und Rechnungen laufen über unsere offizielle Firmierung — transparent, nachvollziehbar und rechtssicher.",
+      "rows": {
+        "company": "Firmierung",
+        "address": "Anschrift",
+        "nip": "NIP",
+        "regon": "REGON",
+        "email": "E-Mail"
+      },
+      "sealCaption": "Firmenstempel der Quality Build & Management Sp. z o.o."
+    }
+  },
+  "servicesHub": {
+    "hero": {
+      "kicker": "Leistungsspektrum",
+      "title": "Unsere Leistungen im Überblick",
+      "subtitle": "Fünf Kernbereiche — ein Anspruch: Qualität in jeder Phase Ihres Projekts."
+    },
+    "items": {
+      "hausbau": {
+        "title": "Bau von Häusern",
+        "description": "Schlüsselfertiger Hausbau in jedem Stil — vom Stadthaus bis zur Luxusvilla."
+      },
+      "fassadenarbeiten": {
+        "title": "Fassadenarbeiten",
+        "description": "Dämmung, Verputz, Anstrich und Dach — energieeffizient und langlebig."
+      },
+      "innenrenovierung": {
+        "title": "Innenrenovierung",
+        "description": "Komplette Renovierung von Küche, Bad und Wohnräumen — schlüsselfertig."
+      },
+      "restaurierung": {
+        "title": "Restaurierung",
+        "description": "Fachgerechte Sanierung — vom Wohnhaus bis zum historischen Gebäude."
+      },
+      "garten": {
+        "title": "Garten & Landschaftsbau",
+        "description": "Außenanlagen mit System: Wege, Grün, Licht, Wasser und Automatisierung."
+      }
+    }
+  },
+  "servicePage": {
+    "requestCta": "Anfrage hinterlassen",
+    "ourApproach": "Unser Ansatz",
+    "processTitle": "So starten wir die Zusammenarbeit",
+    "galleryTitle": "Einblicke in unsere Arbeit",
+    "faqTitle": "Häufige Fragen",
+    "otherServices": "Weitere Leistungen"
+  },
+  "hausbau": {
+    "hero": {
+      "kicker": "Leistung 01",
+      "title": "Bau von Häusern",
+      "subtitle": "Schlüsselfertig, energieeffizient und in dem Stil, der zu Ihnen passt."
+    },
+    "approach": {
+      "title": "Unser Ansatz für die Konstruktion",
+      "text": "Wir bieten ein umfassendes Angebot an hochwertigen und einzigartigen Lösungen für den Bau von Wohn- und Geschäftshäusern. Unser Ansatz basiert auf höchster Ausführungsqualität in jedem Bauprozess, Energieeffizienz-Technologien und intelligenten Lösungen für die effiziente Raumnutzung — kombiniert mit einem Erscheinungsbild, das Blicke auf sich zieht. Das Hausbau-Angebot des Quality-Build-Teams steht für Qualität in jeder Etappe der Zusammenarbeit, verbunden mit vernünftigen und völlig transparenten Kosten.",
+      "skills": {
+        "s1": {
+          "label": "Qualität",
+          "value": 100
+        },
+        "s2": {
+          "label": "Kosten-Effizienz",
+          "value": 90
+        },
+        "s3": {
+          "label": "Geschwindigkeit",
+          "value": 80
+        },
+        "s4": {
+          "label": "Wirkungsgrad",
+          "value": 77
+        }
+      }
+    },
+    "reasons": {
+      "title": "Warum Kunden mit uns bauen",
+      "subtitle": "Nach einer Befragung unserer Kunden haben wir die Hauptgründe ermittelt, warum sie mit uns zusammenarbeiten.",
+      "items": {
+        "r1": {
+          "title": "Schlüsselfertige Konstruktion",
+          "text": "Wir setzen Ihre Idee und die funktionalen Anforderungen perfekt um — ohne vom geplanten Budget abzuweichen."
+        },
+        "r2": {
+          "title": "Qualität",
+          "text": "Jede Phase durchläuft eine mehrstufige Qualitätskontrolle. Die verwendeten Materialien sind ungiftig und langlebig."
+        },
+        "r3": {
+          "title": "Service",
+          "text": "Wir führen regelmäßige Inspektionen und Wartungen von Gebäuden während ihres gesamten Lebenszyklus durch — kosteneffizient und schnell."
+        },
+        "r4": {
+          "title": "Effektive Kosten",
+          "text": "Wir berücksichtigen jede Nuance bei Materialien, Planung und Arbeitsorganisation. So sind die Kosten um ein Vielfaches geringer als der erzielte Wert."
+        }
+      }
+    },
+    "styles": {
+      "title": "Hausstile",
+      "subtitle": "Zehn Architekturrichtungen — und unbegrenzte Möglichkeiten dazwischen. Wählen Sie Ihren Stil.",
+      "items": {
+        "townhouse": {
+          "title": "Stadthaus",
+          "text": "Komfortable Wohnungen mit gemeinsamen Wänden verbinden den Komfort von Zuhause mit der Privatsphäre des Stadtlebens."
+        },
+        "hitech": {
+          "title": "Hi-Tech",
+          "text": "Dank fortschrittlicher Technologien bestechen diese Häuser durch modernes Design und Funktionalität."
+        },
+        "minimalismus": {
+          "title": "Minimalismus",
+          "text": "Schlichtheit und klares Design: minimale Details und einfache Formen schaffen ein modernes Erscheinungsbild."
+        },
+        "skandinavisch": {
+          "title": "Skandinavischer Stil",
+          "text": "Geräumige und helle Strukturen, die natürliches Design mit Komfort verbinden."
+        },
+        "klassisch": {
+          "title": "Klassische Häuser",
+          "text": "Elegante und anspruchsvolle Häuser, die traditionelle architektonische Formen verkörpern."
+        },
+        "preiswert": {
+          "title": "Budget-Lösungen",
+          "text": "Preisgünstige und funktionale Wohnlösungen — durchdacht bis ins Detail."
+        },
+        "bueros": {
+          "title": "Bürogebäude",
+          "text": "Gebäude, die Funktionalität und Ästhetik für effizientes Arbeiten verbinden."
+        },
+        "gewerbe": {
+          "title": "Gewerbebauten",
+          "text": "Objekte für kommerzielle Aktivitäten und erstklassigen Kundenservice."
+        },
+        "raffiniert": {
+          "title": "Luxuriöse Häuser",
+          "text": "Exklusive Gebäude, die den Status und den Stil des Eigentümers unterstreichen."
+        },
+        "nichtstandard": {
+          "title": "Maßgeschneiderte Lösungen",
+          "text": "Architektonische Kreationen, die über Traditionen hinausgehen und unerwartete Designlösungen bieten."
+        }
+      }
+    },
+    "steps": {
+      "title": "Schritte der Zusammenarbeit — was Sie vor dem Start wissen sollten",
+      "items": {
+        "s1": {
+          "title": "Wirksame Kommunikation",
+          "text": "Bei der Besprechung Ihres Bauprojekts beraten wir umfassend und liefern Lösungsvarianten samt Visualisierungen, die helfen, das Aussehen des zukünftigen Hauses zu bestimmen. Durchdachte Kommunikation gibt Ihnen die Sicherheit, dass wir die Aufgabe klar verstehen — und verbessert das Projekt oft durch neue, intelligente Ansätze."
+        },
+        "s2": {
+          "title": "Entwurf und Bewertung",
+          "text": "Nach der Abstimmung Ihrer Vision entwerfen wir das zukünftige Haus unter Berücksichtigung funktionaler Bedürfnisse, Wünsche und aller architektonischen Anforderungen. In dieser Phase legen wir Materialien, Arbeitsumfang und Endkosten fest — mit Anpassungen, bis Anforderungen und Budget perfekt zusammenpassen."
+        },
+        "s3": {
+          "title": "Baustart",
+          "text": "Nach der Projektfreigabe organisieren wir umgehend den Arbeitsablauf, dessen Phasen parallel laufen. Effizientes Management und Technologie verkürzen die Bauzeit erheblich. Wir führen alle Arbeiten aus — vom Fundament über die Wände bis zu Leitungen, Außen- und Innenausbau und der Gestaltung der gesamten Umgebung."
+        },
+        "s4": {
+          "title": "Übergabe des Objekts",
+          "text": "Weil wir von der Qualität unserer Arbeit überzeugt sind, ziehen wir gerne externe Prüfer hinzu. Zusätzlich laden wir Sie ein, alles Besprochene zu kontrollieren: keine Kostenüberschreitungen, volle Funktionalität der Räume und Außenanlagen — und auf Wunsch eine unabhängige Qualitätsprüfung."
+        }
+      }
+    },
+    "build": {
+      "phases": {
+        "p1": "Fundament",
+        "p2": "Rohbau",
+        "p3": "Dach",
+        "p4": "Schlüsselfertig"
+      }
+    },
+    "numbers": {
+      "title": "Hausbau in Zahlen",
+      "stats": {
+        "s1": {
+          "value": "150+",
+          "label": "realisierte Projekte"
+        },
+        "s2": {
+          "value": "10",
+          "label": "Architekturstile"
+        },
+        "s3": {
+          "value": "100%",
+          "label": "Festpreisgarantie"
+        },
+        "s4": {
+          "value": "2",
+          "label": "Länder: DE & PL"
+        }
+      }
+    },
+    "konfigurator": {
+      "kicker": "Ihr Projekt in 60 Sekunden",
+      "title": "Planen Sie Ihr Haus",
+      "subtitle": "Drei kurze Schritte — und Sie erhalten eine kostenlose Erstkalkulation für Ihr Traumhaus.",
+      "steps": {
+        "s1": "Stil",
+        "s2": "Fläche",
+        "s3": "Kontakt"
+      },
+      "styleTitle": "Welcher Stil gefällt Ihnen?",
+      "areaTitle": "Wie groß soll Ihr Haus werden?",
+      "areaUnit": "m²",
+      "contactTitle": "Wohin dürfen wir die Kalkulation senden?",
+      "summaryTitle": "Ihre Auswahl",
+      "back": "Zurück",
+      "next": "Weiter",
+      "privacyNote": "Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Daten gemäß unserer",
+      "privacyLink": "Datenschutzerklärung"
+    }
+  },
+  "fassade": {
+    "hero": {
+      "kicker": "Leistung 02",
+      "title": "Fassadenarbeiten",
+      "subtitle": "Die Fassade entscheidet über Energieeffizienz, Langlebigkeit und den ersten Eindruck Ihres Hauses."
+    },
+    "approach": {
+      "title": "Unser Ansatz für Fassadenarbeiten",
+      "text": "Die Qualität der Außenarbeiten ist einer der wichtigsten Schritte beim Bau. Sie wirkt sich unmittelbar auf die Energieeffizienz und die Dauerhaftigkeit des Gebäudes aus — ganz zu schweigen vom Aussehen. Qualitativ hochwertige und langlebige Fassadenarbeiten erfordern Erfahrung, moderne Materialien und eine professionelle Herangehensweise an jede einzelne Phase.",
+      "skills": {
+        "s1": {
+          "label": "Qualität",
+          "value": 100
+        },
+        "s2": {
+          "label": "Materialien",
+          "value": 80
+        },
+        "s3": {
+          "label": "Geschwindigkeit",
+          "value": 75
+        },
+        "s4": {
+          "label": "Kosten-Effizienz",
+          "value": 83
+        }
+      }
+    },
+    "works": {
+      "kicker": "Was wir tun",
+      "title": "Hauptarten der Arbeit",
+      "items": {
+        "w1": {
+          "title": "Wandgestaltung",
+          "text": "Wände werden gereinigt, gespachtelt, gestrichen und mit zusätzlichem Wetterschutz versehen."
+        },
+        "w2": {
+          "title": "Wärmedämmung",
+          "text": "Von der externen und kombinierten Dämmung bis zum Austausch aller Elemente, die die Energieeffizienz beeinflussen."
+        },
+        "w3": {
+          "title": "Bedachung",
+          "text": "Materialauswahl nach Anforderung und die komplette Montage — jedes Material, jedes Volumen, jede Komplexität."
+        },
+        "w4": {
+          "title": "Kleinere Reparaturen",
+          "text": "Erneuerung des Anstrichs, Ausbesserung von Rissen, Beseitigung von Schimmel, Austausch einzelner Fassadenteile und mehr."
+        }
+      }
+    },
+    "process": {
+      "title": "Wie wir Ihnen den Einstieg empfehlen",
+      "items": {
+        "s1": {
+          "title": "Definition der Aufgabe",
+          "text": "Zunächst stellen wir fest, was genau getan werden muss und welches Ergebnis Sie erreichen möchten. Falls erforderlich, besichtigen wir die betroffenen Stellen und beurteilen ihren Zustand — eine Erstbewertung ist auch anhand von Fotos möglich."
+        },
+        "s2": {
+          "title": "Angebot",
+          "text": "Wir formulieren ein Angebot mit Kosten für Arbeit und Material sowie Fristen und vereinbaren den Starttermin. In dieser Phase besprechen und justieren wir die Umsetzungsvarianten, bis alles Ihren Anforderungen entspricht."
+        },
+        "s3": {
+          "title": "Ausführung",
+          "text": "Wir erstellen Vertrag und vollständigen Arbeitsplan und entsenden kompetente Fachleute mit der nötigen Erfahrung. Um alle mit der Sanierung verbundenen Prozesse kümmern wir uns."
+        },
+        "s4": {
+          "title": "Projektübergabe",
+          "text": "Nach Abschluss und Prüfung der Arbeiten übergeben wir Ihnen das Projekt — damit Sie sicher sind, dass Ergebnis und Ausführung Ihren Erwartungen und dem Vertrag entsprechen."
+        }
+      }
+    },
+    "layers": {
+      "kicker": "Wärmedämmverbundsystem",
+      "title": "So ist eine gedämmte Fassade aufgebaut",
+      "subtitle": "Fünf Schichten, die zusammen Wärme halten, Feuchtigkeit abweisen und Jahrzehnte überdauern.",
+      "hint": "Tippen Sie eine Schicht an, um mehr zu erfahren",
+      "items": {
+        "l1": {
+          "label": "Mauerwerk",
+          "text": "Der tragende Untergrund wird geprüft, gereinigt und ausgeglichen — nur auf einer soliden Basis hält das System dauerhaft."
+        },
+        "l2": {
+          "label": "Klebemörtel",
+          "text": "Vollflächig oder im Wulst-Punkt-Verfahren aufgetragen, verbindet er die Dämmplatten dauerhaft mit der Wand."
+        },
+        "l3": {
+          "label": "Dämmplatte",
+          "text": "EPS oder Mineralwolle — die Stärke berechnen wir nach Energiebedarf. Hier entstehen bis zu 30 % Heizkostenersparnis."
+        },
+        "l4": {
+          "label": "Armierungsgewebe",
+          "text": "In den Unterputz eingebettetes Glasfasergewebe verhindert Risse und macht die Fassade schlagfest."
+        },
+        "l5": {
+          "label": "Putz & Anstrich",
+          "text": "Der Oberputz bestimmt Struktur und Farbe — witterungsbeständig, diffusionsoffen und genau nach Ihrem Geschmack."
+        }
+      }
+    },
+    "check": {
+      "kicker": "Selbst-Diagnose",
+      "title": "Braucht Ihre Fassade Aufmerksamkeit?",
+      "subtitle": "Haken Sie an, was auf Ihr Haus zutrifft — und sehen Sie sofort unsere Empfehlung.",
+      "counterLabel": "Zutreffend",
+      "items": {
+        "c1": "Risse im Putz oder Mauerwerk sichtbar",
+        "c2": "Putz platzt ab oder bröckelt",
+        "c3": "Heizkosten steigen von Jahr zu Jahr",
+        "c4": "Feuchte Flecken oder Moos an der Wand",
+        "c5": "Die Fassade wirkt grau und verwittert"
+      },
+      "verdicts": {
+        "v0": "Sieht gut aus! Beobachten Sie Ihre Fassade weiter — und melden Sie sich, wenn sich etwas verändert.",
+        "v1": "Ein guter Zeitpunkt für einen Check: Kleine Mängel jetzt zu beheben ist deutlich günstiger als später zu sanieren.",
+        "v2": "Ihre Fassade sollte zeitnah geprüft werden. Senden Sie uns Fotos — die Ersteinschätzung ist kostenlos."
+      },
+      "cta": "Kostenlose Einschätzung anfordern",
+      "hint": "Unverbindlich — Antwort innerhalb von 24 Stunden.",
+      "contextLabel": "Fassaden-Check"
+    }
+  },
+  "innen": {
+    "hero": {
+      "kicker": "Leistung 03",
+      "title": "Innenrenovierung",
+      "subtitle": "Vom ersten Entwurf bis zur schlüsselfertigen Übergabe — Räume, in denen Sie sich wohlfühlen."
+    },
+    "approach": {
+      "title": "Unser Ansatz für die Renovierung",
+      "text": "Damit unsere Kunden keine Schwierigkeiten haben und alle Arbeiten nach Plan und Erwartung laufen, halten wir uns an klare Grundsätze: Wir bewerten Arbeits- und Materialkosten präzise, damit der genannte Betrag nicht überschritten wird. Wir ermitteln Ihre Anforderungen, erstellen einen Arbeitsplan und informieren jedes Teammitglied über seine Aufgaben. Und vor allem: Wir organisieren die Arbeit so, dass sie schnell und in höchstmöglicher Qualität ausgeführt wird.",
+      "skills": {
+        "s1": {
+          "label": "Team-Auswahl",
+          "value": 80
+        },
+        "s2": {
+          "label": "Bewertung der Arbeiten",
+          "value": 70
+        },
+        "s3": {
+          "label": "Qualität der Ausführung",
+          "value": 100
+        },
+        "s4": {
+          "label": "Kosten-Effizienz",
+          "value": 75
+        },
+        "s5": {
+          "label": "Entwurf & Design",
+          "value": 72
+        }
+      }
+    },
+    "styles": {
+      "title": "Stile für die Inneneinrichtung",
+      "subtitle": "Wir arbeiten mit allen Stilen — von Klassik bis Industrial.",
+      "items": {
+        "klassik": "Klassischer Stil",
+        "modern": "Modern",
+        "skandinavisch": "Skandinavischer Stil",
+        "minimalismus": "Minimalismus",
+        "rustikal": "Rustikal",
+        "industriell": "Industriell"
+      }
+    },
+    "usp": {
+      "items": {
+        "u1": {
+          "title": "Alle Arten von Renovierungen",
+          "text": "Unabhängig von Komplexität und Budget helfen wir Ihnen, die Variante zu finden, mit der Sie zu 100 % zufrieden sind."
+        },
+        "u2": {
+          "title": "Projekt und Visualisierung",
+          "text": "Sie sehen vorab, wie Ihre Wohnung aussehen wird, und können rechtzeitig Vorschläge einbringen — damit das Ergebnis Ihren Erwartungen entspricht."
+        },
+        "u3": {
+          "title": "Schlüsselfertige Arbeit",
+          "text": "Wir übernehmen die gesamte Palette der Arbeiten — das ist günstiger, effizienter und erspart Ihnen unnötige Sorgen."
+        }
+      }
+    },
+    "services": {
+      "kicker": "Was wir tun",
+      "title": "Vollständige Palette von Leistungen",
+      "items": {
+        "l1": {
+          "title": "Projekt",
+          "text": "Wir erstellen Projekt und Design Ihres zukünftigen Zuhauses von Grund auf — nach Ihren Anforderungen und Ihrem Budget. Auf Wunsch helfen wir bei der Auswahl."
+        },
+        "l2": {
+          "title": "Umbau & Sanierung",
+          "text": "Bei Bedarf führen wir eine komplette, sinnvolle Sanierung durch — inklusive aller verbundenen Arbeiten, vom Mauerbau bis zur Erweiterung."
+        },
+        "l3": {
+          "title": "Ausführung",
+          "text": "Das komplette Arbeitspaket: Materialbeschaffung, Installationen, Malerarbeiten, Spachteln, Bodenbeläge — alles, um Ihre Idee zum Leben zu erwecken."
+        },
+        "l4": {
+          "title": "Einrichtung",
+          "text": "Räume abgrenzen, dekorative Elemente ergänzen, alles in einem einheitlichen Stil gestalten — wir übernehmen das gerne."
+        }
+      }
+    },
+    "repairTypes": {
+      "title": "Die häufigsten Arten von Renovierungsarbeiten",
+      "items": {
+        "r1": {
+          "title": "Komplettsanierung",
+          "text": "Die vollständige Wiederherstellung oder sogar der Umbau einer Immobilie: Austausch elektrischer und anderer Leitungen, Sanierung, neue Fenster und Türen, Erneuerung der Innenflächen und mehr. Relevant für alle, die den Zustand des Gebäudes erheblich verbessern oder die Funktionalität verändern möchten."
+        },
+        "r2": {
+          "title": "Kosmetische Renovierung",
+          "text": "Die kostengünstige Auffrischung, wenn die Wohnung Alterungsspuren und kleinere Mängel zeigt. Regelmäßig durchgeführt, vermeidet sie erhebliche Kosten in der Zukunft — kleinere Ausbesserungen und der teilweise Ersatz abgenutzter Materialien."
+        },
+        "r3": {
+          "title": "Küchenrenovierung",
+          "text": "Erneuerung und Installation der Küchenausstattung, Austausch des Bodens (häufig Fliesen), neues Dekor sowie Wand- und Deckenfinish. Küchen erfordern eine andere Herangehensweise, andere Materialien und Planung — Abnutzung und Ersatzbedarf sind deutlich höher."
+        },
+        "r4": {
+          "title": "Badrenovierung",
+          "text": "Austausch von Armaturen (Badewanne, WC, Waschbecken), Renovierung von Wänden und Böden, Austausch oder Reparatur der Lüftung. Gerade die Belüftung ist entscheidend: Funktioniert sie nicht richtig, bilden sich Schimmel und Feuchteschäden."
+        },
+        "r5": {
+          "title": "Gemeinschaftsflächen",
+          "text": "Renovierung von Fluren, Treppen, Aufzügen, Balkonen, Terrassen und Technikräumen: Einbau aller nötigen Elemente, hochwertige Beleuchtung und die Gestaltung von Wänden, Decken und Böden — für angenehme Nutzung und Sicherheit."
+        }
+      }
+    },
+    "guide": {
+      "title": "Was Sie vor der Renovierung wissen sollten",
+      "text": "Entscheiden Sie sich zunächst für Design und Stil — ausgehend von Ihren Bedürfnissen und Ihrem Geschmack. Eng damit verbunden ist das geplante Budget. Berücksichtigen Sie bei der Wahl Ihren Lebensstil: Nur schön ist nicht immer praktisch. Die beste Lösung ist, Spezialisten hinzuzuziehen, die Ihren Plan umsetzen. Bei einer Sanierung denken Sie an alle baurechtlichen Genehmigungen. Und das Wichtigste: Verlangen Sie klar definierte Fristen und eine vertraglich fixierte Summe."
+    },
+    "compare": {
+      "kicker": "Ehrlicher Vergleich",
+      "title": "Selbst renovieren oder Profis beauftragen?",
+      "aspectHead": "Kriterium",
+      "diyHead": "In Eigenregie",
+      "proHead": "Mit Quality Build",
+      "rows": {
+        "c1": {
+          "aspect": "Werkzeug",
+          "diy": "Miete oder Kauf teurer Profigeräte — ohne Übung bleibt das Ergebnis sichtbar.",
+          "pro": "Professionelle Ausstattung für jedes Gewerk ist im Preis inbegriffen."
+        },
+        "c2": {
+          "aspect": "Erfahrung",
+          "diy": "Fehler bei Material und Reihenfolge kosten Zeit, Geld und Nerven.",
+          "pro": "Eingespielte Teams, geprüfte Materialien und feste Lieferanten."
+        },
+        "c3": {
+          "aspect": "Sicherheit",
+          "diy": "Verletzungsrisiko und versteckte Gefahren bei Elektrik, Statik und Feuchte.",
+          "pro": "Zertifizierte Fachleute, Arbeitsschutz und Versicherung inklusive."
+        },
+        "c4": {
+          "aspect": "Garantie",
+          "diy": "Für Eigenleistungen haftet niemand — Nachbesserungen zahlen Sie doppelt.",
+          "pro": "Vertraglich fixierte Fristen, Festpreis und Gewährleistung auf alle Arbeiten."
+        }
+      }
+    }
+  },
+  "restaurierung": {
+    "hero": {
+      "kicker": "Leistung 04",
+      "title": "Restaurierung des Hauses",
+      "subtitle": "Wir geben Gebäuden ihr Gesicht zurück — und verlängern ihre Lebensdauer um Jahrzehnte."
+    },
+    "intro": {
+      "kicker": "Was ist Restaurierung?",
+      "title": "Wann und für wen ist sie nötig?",
+      "p1": "Unter Restaurierung versteht man die Wiederherstellung eines Gebäudes und die Verlängerung seines komfortablen Betriebs über einen langen Zeitraum.",
+      "question": "Woher weiß man, ob ein Gebäude saniert werden muss?",
+      "p2": "Nichtfachleute können das oft nicht selbst feststellen — die meisten sagen: „Ein kleiner Riss an der Fassade ist kein Problem, das hält schon.“ In manchen Fällen können jedoch selbst kleine Risse und eindringende Feuchtigkeit kritisch sein und zu ernsthaften Schäden führen — je nach Materialien und Konstruktion des Gebäudes.",
+      "p3": "Die einfachste Lösung: Machen Sie detaillierte Fotos des Hauses und der Problembereiche und senden Sie sie uns für eine erste Einschätzung. Sie erhalten Empfehlungen zur Pflege und verstehen die Situation — dieser Service ist bei uns kostenlos."
+    },
+    "problems": {
+      "title": "Häufige Probleme bei der Restaurierung — und ihre Folgen",
+      "items": {
+        "p1": {
+          "title": "Restaurierung in Eigenregie",
+          "text": "Ohne geeignete Werkzeuge, Kenntnisse und Erfahrung verschlechtert sich der Zustand des Gebäudes oft. Unprofessionelle Lösungen verschleiern das Problem nur und verschlimmern es — was in der Zukunft zu erheblichen Kosten führt."
+        },
+        "p2": {
+          "title": "Unprofessionelle Bewertung",
+          "text": "Häufig fehlt eine Person mit klarer Spezialisierung. Die verbauten Materialien müssen eindeutig identifiziert, Fundament und tragende Strukturen geprüft werden. Bei Fehlern zeigt sich das Problem oft schon nach 1–2 Jahren — an Stellen, für die dann niemand Verantwortung übernimmt."
+        },
+        "p3": {
+          "title": "Falsch gewählte Materialien",
+          "text": "„Wir verwenden die besten Materialien“ — doch entscheidend ist die Kompatibilität von Alt und Neu, das Budget und die Region: Die „besten Materialien“ entsprechen nicht immer den Betriebsbedingungen vor Ort. Auch die Besonderheiten der Sanierungsstellen bestimmen die richtige Methode."
+        },
+        "p4": {
+          "title": "Verlust des ursprünglichen Erscheinungsbildes",
+          "text": "Ein auf den ersten Blick unbedeutender, aber häufiger Fehler: Farben, Technologien und Materialien verändern das Aussehen des Gebäudes erheblich. Nach der Restaurierung wirkt das Gebäude schlechter, weil der einheitliche Stil verloren geht."
+        }
+      },
+      "hint": "Tippen Sie die markierten Stellen am Gebäude an"
+    },
+    "approach": {
+      "title": "Unser Ansatz: So vermeiden wir diese Probleme",
+      "items": {
+        "a1": {
+          "title": "Nur erfahrene Teams",
+          "text": "Wir verfügen über einen großen Mitarbeiterstab mit vielfältiger Erfahrung und professionellem Werkzeug. Wir setzen die Technologien und Materialien ein, die für das jeweilige Gebäude das beste Ergebnis liefern."
+        },
+        "a2": {
+          "title": "Professionelle Bewertung",
+          "text": "Wir bewerten umfassend — nicht nur die betroffene Stelle —, um den tatsächlichen Zustand des Gebäudes zu erfassen. Äußere Mängel zu beseitigen und innere Schäden zu belassen, ist keine Option: Wir übernehmen die volle Verantwortung für die Qualität."
+        },
+        "a3": {
+          "title": "Sorgfältige Materialauswahl",
+          "text": "Die Auswahl erfolgt erst nach der Analyse der verbauten Materialien und der strukturellen Merkmale. Oft muss verstärkt oder ein inneres Element komplett ersetzt werden. Auch die Klimazone fließt in die Entscheidung ein."
+        },
+        "a4": {
+          "title": "Definierte Technologie",
+          "text": "Vor Beginn bestimmen wir per Materialvergleich die Technologie und Tiefe des Restaurierungsprozesses — von der Farbbeständigkeit bis zum Verhalten der restaurierten Bereiche im Laufe der Zeit."
+        }
+      }
+    },
+    "why": {
+      "title": "Warum Sie uns kontaktieren sollten",
+      "text": "Ganz einfach: Qualität ist die Hauptspezialisierung unseres Teams — und bei der Gebäudesanierung ist nichts wichtiger. Möchten Sie sich von unserer Professionalität überzeugen? Fordern Sie eine kostenlose Beratung an und bilden Sie sich selbst eine Meinung.",
+      "cta": "Kostenlose Beratung anfordern"
+    },
+    "benefits": {
+      "title": "Was eine professionelle Restaurierung leistet",
+      "items": {
+        "b1": {
+          "title": "Durchdachte Erneuerung",
+          "text": "Wir berücksichtigen Energieeffizienz ebenso wie die Wiederherstellung — und auf Wunsch Verbesserung — des ursprünglichen Aussehens."
+        },
+        "b2": {
+          "title": "Intelligenter Ansatz",
+          "text": "Selbst schwierigste Fälle sind lösbar: dank umfassender Methodik, professioneller Bewertung und reicher Erfahrung mit fast zerstörtem Wohnraum."
+        },
+        "b3": {
+          "title": "Wirksame Kontrolle",
+          "text": "Jeder Arbeitsschritt wird vom Verantwortlichen überwacht und vom nächsten Meister geprüft — vom Material bis zur Außenbeschichtung."
+        },
+        "b4": {
+          "title": "Investition",
+          "text": "Ein rechtzeitig restauriertes Gebäude verliert nicht an Wert: Eine fachgerechte Restaurierung steigert ihn und deckt die Kosten um ein Vielfaches."
+        },
+        "b5": {
+          "title": "Substanz statt Kosmetik",
+          "text": "Wir reparieren nicht oberflächlich, sondern im Kern des Problems — mit gleichwertigem oder besserem Material — und stellen das ursprüngliche Bild wieder her."
+        },
+        "b6": {
+          "title": "Erbe bewahren",
+          "text": "Wir restaurieren auch historische Gebäude und wertvolles Kulturgut — bis sie wieder so dastehen wie unmittelbar nach ihrer Fertigstellung."
+        }
+      }
+    }
+  },
+  "garten": {
+    "hero": {
+      "kicker": "Leistung 05",
+      "title": "Garten & Landschaftsbau",
+      "subtitle": "Außenanlagen, die Schönheit, Sicherheit und Funktion vereinen."
+    },
+    "approach": {
+      "title": "Unser Ansatz für die Landschaftsgestaltung",
+      "text": "In der Regel übernehmen wir komplexe Aufträge, denn die Gestaltung des Grundstücks umfasst viele Gewerke. Wichtig ist nicht nur die hochwertige Ausführung selbst — unsere Spezialität bei Quality Build —, sondern auch die richtige Organisation des Ablaufs: Wie lässt sich Ihr Plan so effizient und präzise wie möglich umsetzen?",
+      "skills": {
+        "s1": {
+          "label": "Komplexität",
+          "value": 70
+        },
+        "s2": {
+          "label": "Qualität",
+          "value": 90
+        },
+        "s3": {
+          "label": "Geschwindigkeit",
+          "value": 85
+        },
+        "s4": {
+          "label": "Kosten-Effizienz",
+          "value": 80
+        }
+      }
+    },
+    "why": {
+      "title": "Warum sich durchdachte Außenanlagen lohnen",
+      "p1": "Bei der Landschaftsgestaltung geht es nicht nur um ein schöneres Umfeld. Ästhetik, Schönheit und eine angenehme Atmosphäre sind eine Freude für das Auge — und tragen nachweislich zum Wohlbefinden bei.",
+      "p2": "Dazu gehören auch lebenswichtige Versorgungseinrichtungen: Strom und Wasser ebenso wie Sicherheitssysteme — Alarmanlagen, Videoüberwachung, gute Beleuchtung und Automatisierung, die den Alltag erleichtert.",
+      "p3": "Richtig ausgeführte Arbeiten schaffen daher nicht nur ein schönes Bild, sondern auch ein Gefühl von Sicherheit und Komfort — im Haus und auf dem gesamten Grundstück."
+    },
+    "scope": {
+      "title": "Was gehört zur Landschaftsgestaltung? Was können wir für Sie tun?",
+      "items": {
+        "g1": {
+          "title": "Landschaftsgestaltung",
+          "text": "Grünflächen, Beete, Bäume und Rasen — geplant als stimmiges Gesamtbild."
+        },
+        "g2": {
+          "title": "Automatisierte Systeme",
+          "text": "Bewässerung, Beleuchtung und smarte Steuerung für weniger Aufwand im Alltag."
+        },
+        "g3": {
+          "title": "Wege & Zufahrten",
+          "text": "Pflasterung von Wegen und Straßen — langlebig, eben und passend zum Stil des Hauses."
+        },
+        "g4": {
+          "title": "Erholungsbereiche",
+          "text": "Terrassen, Sitzecken und Spielzonen — Orte, an denen man gerne Zeit verbringt."
+        },
+        "g5": {
+          "title": "Versorgungsleitungen",
+          "text": "Strom- und Wasserleitungen, fachgerecht geplant und verlegt."
+        },
+        "g6": {
+          "title": "Weitere Elemente",
+          "text": "Zäune, Stützmauern, Außenbeleuchtung und alles, was Ihr Grundstück komplett macht."
+        }
+      },
+      "hint": "Wählen Sie eine Zone auf dem Plan"
+    },
+    "process": {
+      "title": "Wie wir die Zusammenarbeit beginnen",
+      "items": {
+        "s1": {
+          "title": "Vision und Anforderungen",
+          "text": "Im Gespräch ermitteln wir Ihre Anforderungen und visuellen Vorstellungen und erstellen verschiedene Visualisierungsvarianten, damit das Endergebnis ohne Missverständnisse feststeht. Ein sauber definiertes Zielbild bedeutet: Auch die Ausführung wird gut."
+        },
+        "s2": {
+          "title": "Start der Arbeiten",
+          "text": "Nach der Abstimmung vermessen wir das Gelände präzise und erstellen Arbeitsplan und Materialliste als transparenten „Kostenplan“, den wir gemeinsam anpassen, bis alles zu Budget und Zielbild passt. Danach unterzeichnen wir den Vertrag und legen los."
+        }
+      }
+    },
+    "gallery": {
+      "title": "Fertig gestaltete Außenanlagen"
+    }
+  },
+  "projectsExplorer": {
+    "hero": {
+      "kicker": "Referenzen",
+      "title": "Unsere Projekte",
+      "subtitle": "Gebaut, saniert, gestaltet — entdecken Sie unsere Arbeiten nach Kategorie."
+    },
+    "all": "Alle",
+    "countLabel": "{count, plural, one {Projekt} other {Projekte}}",
+    "categories": {
+      "raffiniert": "Luxuriöse Häuser",
+      "townhouse": "Stadthäuser",
+      "bueros": "Bürogebäude",
+      "gewerbe": "Gewerbebauten",
+      "hitech": "Hi-Tech",
+      "klassisch": "Klassische Häuser",
+      "skandinavisch": "Skandinavischer Stil",
+      "minimalismus": "Minimalismus",
+      "preiswert": "Preiswerte Häuser",
+      "nichtstandard": "Nicht-Standard-Lösungen"
+    },
+    "projectLabel": "Projekt"
+  },
+  "kontakt": {
+    "hero": {
+      "kicker": "Kontakt",
+      "title": "Sprechen wir über Ihr Projekt",
+      "subtitle": "Rufen Sie an, schreiben Sie uns oder nutzen Sie das Formular — wir antworten schnellstmöglich."
+    },
+    "form": {
+      "title": "Anfrage senden"
+    },
+    "cards": {
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "address": "Adresse",
+      "hours": "Öffnungszeiten"
+    }
+  },
+  "datenschutz": {
+    "title": "Datenschutzerklärung",
+    "updated": "Stand: August 2026",
+    "backHome": "Zurück zur Startseite",
+    "sections": {
+      "s1": {
+        "title": "1. Verantwortlicher",
+        "text": "Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) für die Verarbeitung personenbezogener Daten auf dieser Website ist die Quality Build & Management Sp. z o.o., Plac Przyjaźni 18/12, 69-100 Słubice, Polen (NIP: 5981661547, REGON: 54288397100000). Sie erreichen uns per E-Mail unter info@quality-b.com sowie telefonisch unter +49 (0) 151 270 39 320. Bei allen Fragen zum Datenschutz und zur Verarbeitung Ihrer personenbezogenen Daten können Sie sich jederzeit über diese Kontaktwege an uns wenden."
+      },
+      "s2": {
+        "title": "2. Allgemeine Hinweise und Verschlüsselung",
+        "text": "Wir nehmen den Schutz Ihrer personenbezogenen Daten sehr ernst und behandeln sie vertraulich, entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Die Nutzung unserer Website ist ohne Angabe personenbezogener Daten möglich; Daten werden nur verarbeitet, soweit dies technisch erforderlich ist oder Sie sie uns freiwillig, etwa über ein Kontaktformular, mitteilen. Zum Schutz der Übertragung vertraulicher Inhalte nutzt diese Website eine TLS/SSL-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile Ihres Browsers mit \"https://\" beginnt und ein Schloss-Symbol anzeigt; bei aktivierter Verschlüsselung können die Daten, die Sie an uns übermitteln, nicht ohne Weiteres von Dritten mitgelesen werden."
+      },
+      "s3": {
+        "title": "3. Hosting und Server-Logfiles",
+        "text": "Diese Website wird bei einem externen Hosting-Anbieter betrieben. Beim Aufruf der Seiten verarbeitet der Anbieter automatisch technisch notwendige Daten in sogenannten Server-Logfiles, insbesondere die IP-Adresse des zugreifenden Geräts, Datum und Uhrzeit des Zugriffs sowie den verwendeten Browser und das Betriebssystem (User-Agent). Diese Verarbeitung dient ausschließlich der Sicherstellung eines störungsfreien und sicheren Betriebs der Website und erfolgt auf Grundlage unseres berechtigten Interesses nach Art. 6 Abs. 1 lit. f DSGVO. Die Logdaten werden nicht mit anderen Datenquellen zusammengeführt und nicht zur Identifizierung einzelner Besucher verwendet."
+      },
+      "s4": {
+        "title": "4. Kontakt- und Anfrageformulare",
+        "text": "Wenn Sie uns über eines der Formulare auf dieser Website eine Anfrage senden, verarbeiten wir die dort angegebenen Daten: Name, Telefonnummer, E-Mail-Adresse, die gewählte Leistung, einen etwaigen Wunschtermin sowie den Inhalt Ihrer Nachricht. Zur schnellen Bearbeitung wird Ihre Anfrage über den Messenger-Dienst Telegram (Telegram FZ-LLC) an unser Team übermittelt; Telegram ist damit Empfänger dieser Daten, und eine Verarbeitung außerhalb der EU bzw. des EWR kann dabei nicht ausgeschlossen werden. Rechtsgrundlagen der Verarbeitung sind Art. 6 Abs. 1 lit. b DSGVO (Durchführung vorvertraglicher Maßnahmen auf Ihre Anfrage) sowie Art. 6 Abs. 1 lit. f DSGVO (unser berechtigtes Interesse an einer effizienten Kundenkommunikation)."
+      },
+      "s5": {
+        "title": "5. Zwecke und Rechtsgrundlagen",
+        "text": "Zusammenfassend verarbeiten wir personenbezogene Daten ausschließlich, um den technischen Betrieb und die Sicherheit der Website zu gewährleisten (Art. 6 Abs. 1 lit. f DSGVO), um Ihre Anfragen zu beantworten und vorvertragliche Maßnahmen wie Beratung, Terminvereinbarung oder Angebotserstellung durchzuführen (Art. 6 Abs. 1 lit. b DSGVO) sowie zur effizienten Kommunikation im Rahmen unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO). Eine Verarbeitung zu anderen Zwecken findet nicht statt; sollte sie künftig erforderlich werden, informieren wir Sie vorab und holen, soweit erforderlich, Ihre Einwilligung ein."
+      },
+      "s6": {
+        "title": "6. Speicherdauer",
+        "text": "Wir speichern personenbezogene Daten nur so lange, wie es für die Bearbeitung Ihres Anliegens erforderlich ist. Daten aus Anfragen werden gelöscht, sobald die Kommunikation abgeschlossen ist und keine Anschlussfragen mehr zu erwarten sind, es sei denn, gesetzliche Aufbewahrungspflichten – etwa aus dem Handels- oder Steuerrecht – verpflichten uns zu einer längeren Speicherung. In diesem Fall werden die Daten nach Ablauf der jeweiligen Fristen gelöscht."
+      },
+      "s7": {
+        "title": "7. Empfänger der Daten",
+        "text": "Empfänger Ihrer Daten sind ausschließlich unser Hosting-Anbieter, der die technische Bereitstellung der Website übernimmt, sowie der Messenger-Dienst Telegram als Übermittlungskanal für Formularanfragen an unser Team. Eine Weitergabe Ihrer Daten an Dritte zu Werbezwecken findet nicht statt; wir verkaufen keine personenbezogenen Daten und übermitteln sie an weitere Stellen nur dann, wenn wir gesetzlich dazu verpflichtet sind."
+      },
+      "s8": {
+        "title": "8. Ihre Rechte",
+        "text": "Sie haben das Recht auf Auskunft über die zu Ihrer Person gespeicherten Daten (Art. 15 DSGVO), auf Berichtigung unrichtiger Daten (Art. 16 DSGVO), auf Löschung (Art. 17 DSGVO), auf Einschränkung der Verarbeitung (Art. 18 DSGVO), auf Datenübertragbarkeit (Art. 20 DSGVO) sowie das Recht, der Verarbeitung Ihrer Daten zu widersprechen (Art. 21 DSGVO). Eine einmal erteilte Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen (Art. 7 Abs. 3 DSGVO). Zur Ausübung Ihrer Rechte genügt eine formlose Mitteilung per E-Mail an info@quality-b.com."
+      },
+      "s9": {
+        "title": "9. Beschwerderecht",
+        "text": "Wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen die DSGVO verstößt, haben Sie das Recht, Beschwerde bei einer Datenschutzaufsichtsbehörde einzulegen, insbesondere in dem Mitgliedstaat Ihres gewöhnlichen Aufenthaltsorts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes. Für uns als Verantwortlichen mit Sitz in Polen ist der Präsident des Amtes für den Schutz personenbezogener Daten (Prezes Urzędu Ochrony Danych Osobowych, UODO) mit Sitz in Warschau zuständig."
+      },
+      "s10": {
+        "title": "10. Cookies, Analyse und Aktualität dieser Erklärung",
+        "text": "Diese Website setzt keine Tracking- oder Marketing-Cookies und keine Analyse- oder Werbetools ein; es kommen ausschließlich technisch notwendige Funktionen zum Einsatz, die für die Darstellung der Seiten und den Versand von Formularanfragen erforderlich sind. Ein Einwilligungsbanner ist daher nicht erforderlich. Wir behalten uns vor, diese Datenschutzerklärung anzupassen, wenn sich die Rechtslage oder der Funktionsumfang unserer Website ändert; es gilt jeweils die auf dieser Seite veröffentlichte aktuelle Fassung."
+      }
+    }
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "backHome": "Zurück zur Startseite"
+  }
+}

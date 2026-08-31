@@ -1,0 +1,1137 @@
+{
+  "meta": {
+    "home": {
+      "title": "Quality Build & Management — budowa domów i remonty",
+      "description": "Budowa domów, elewacje, remonty, renowacje i zagospodarowanie ogrodów — wszystko w jednym miejscu. Jakość na każdym etapie — terminowo i z gwarancją."
+    },
+    "services": {
+      "title": "Usługi — budowa domów, elewacje, remonty i więcej",
+      "description": "Zakres naszych usług: budowa domów, prace elewacyjne, remonty wnętrz, renowacja budynków oraz ogrody i architektura krajobrazu. Wszystko w jednych rękach."
+    },
+    "hausbau": {
+      "title": "Budowa domów — pod klucz, w każdym stylu",
+      "description": "Budowa domów pod klucz w 10 stylach architektonicznych — od Hi-Tech po klasykę. Przejrzyste koszty, energooszczędność i wieloetapowa kontrola jakości."
+    },
+    "fassade": {
+      "title": "Prace elewacyjne — ocieplenie, tynki i renowacja",
+      "description": "Profesjonalne prace elewacyjne: ocieplenie, tynkowanie, malowanie, dach i drobne naprawy. Trwałe efekty dzięki nowoczesnym materiałom."
+    },
+    "innen": {
+      "title": "Remonty wnętrz — kompleksowo i pod klucz",
+      "description": "Kompleksowe remonty wnętrz: od projektu, przez kuchnię i łazienkę, po oddanie pod klucz. Stała cena, dotrzymane terminy, gwarancja."
+    },
+    "restaurierung": {
+      "title": "Renowacja budynków — fachowa odnowa na lata",
+      "description": "Fachowa renowacja domów i budynków zabytkowych: profesjonalna ocena stanu, właściwie dobrane materiały, trwałe efekty."
+    },
+    "garten": {
+      "title": "Ogrody i architektura krajobrazu — projekt i wykonanie",
+      "description": "Projektowanie ogrodów, ścieżki, oświetlenie, nawadnianie i automatyka. Planujemy i budujemy otoczenie domu, które podnosi wartość i komfort życia."
+    },
+    "projekte": {
+      "title": "Projekty — nasze realizacje według stylu",
+      "description": "Zrealizowane projekty Quality Build: domy szeregowe, Hi-Tech, klasyka, styl skandynawski, minimalizm i nie tylko. Znajdź inspirację dla siebie."
+    },
+    "about": {
+      "title": "O nas — zespół Quality Build",
+      "description": "Quality Build & Management to profesjonalna firma budowlana, która stawia na jakość, energooszczędność i indywidualny styl każdego projektu."
+    },
+    "kontakt": {
+      "title": "Kontakt — umów bezpłatną konsultację",
+      "description": "Skontaktuj się z Quality Build & Management: telefonicznie, mailowo lub przez formularz. Odpowiadamy szybko i bezpłatnie doradzamy w sprawie Twojego projektu."
+    },
+    "datenschutz": {
+      "title": "Polityka prywatności",
+      "description": "Polityka prywatności Quality Build & Management."
+    }
+  },
+  "nav": {
+    "home": "Strona główna",
+    "about": "O nas",
+    "services": "Usługi",
+    "serviceItems": {
+      "hausbau": "Budowa domów",
+      "fassadenarbeiten": "Prace elewacyjne",
+      "innenrenovierung": "Remonty wnętrz",
+      "restaurierung": "Renowacja",
+      "garten": "Ogrody i architektura krajobrazu"
+    },
+    "projects": "Projekty",
+    "contact": "Kontakt",
+    "getConsultation": "Umów konsultację",
+    "menu": "Menu",
+    "close": "Zamknij",
+    "breadcrumbHome": "Strona główna",
+    "skipToContent": "Przejdź do treści"
+  },
+  "common": {
+    "learnMore": "Dowiedz się więcej",
+    "readMore": "Czytaj więcej",
+    "viewAll": "Zobacz wszystkie",
+    "viewProjects": "Zobacz projekty",
+    "moreAboutUs": "Więcej o nas",
+    "contactUs": "Skontaktuj się z nami",
+    "error": "Coś poszło nie tak. Spróbuj ponownie lub zadzwoń do nas.",
+    "privacyNote": "Wysyłając formularz, wyrażasz zgodę na przetwarzanie danych zgodnie z naszą <link>Polityką prywatności</link>.",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "address": "Adres",
+    "hours": "Godziny otwarcia",
+    "free": "Bezpłatnie"
+  },
+  "hero": {
+    "kicker": "Quality Build & Management",
+    "title1": "Niezwykły",
+    "title2": "design",
+    "subtitle": "Budujemy, remontujemy i projektujemy — rozwiązania na każdy budżet, dopasowane do Twoich potrzeb i wyobrażeń.",
+    "points": {
+      "p1": "Nowoczesne, wyraziste style i funkcjonalny design",
+      "p2": "Przemyślane planowanie i projektowanie",
+      "p3": "Bezpłatny dobór wariantów budowy lub remontu",
+      "p4": "Wizualizacja 3D z możliwością zmian przed startem budowy"
+    },
+    "ctaPrimary": "Bezpłatna profesjonalna konsultacja",
+    "ctaSecondary": "Nasze usługi",
+    "stats": {
+      "s1": {
+        "value": "10+",
+        "label": "lat doświadczenia"
+      },
+      "s2": {
+        "value": "150+",
+        "label": "zrealizowanych projektów"
+      },
+      "s3": {
+        "value": "100%",
+        "label": "kontroli jakości"
+      }
+    },
+    "scrollHint": "Przewiń, aby zobaczyć więcej"
+  },
+  "servicesStrip": {
+    "eyebrow": "Czym się zajmujemy",
+    "title": "Nasze usługi",
+    "subtitle": "Wszystkie prace w jednych rękach — kontrolujemy każdy etap realizacji.",
+    "items": {
+      "hausbau": {
+        "title": "Budowa domów",
+        "description": "Budujemy domy w różnych stylach, o różnej skali złożoności i na różne budżety."
+      },
+      "restaurierung": {
+        "title": "Renowacja domu",
+        "description": "Przywracamy budynkom dawny wygląd i wydłużamy ich żywotność."
+      },
+      "innenrenovierung": {
+        "title": "Remonty wnętrz",
+        "description": "Pełen zakres prac remontowych — od projektu po odbiór."
+      },
+      "fassadenarbeiten": {
+        "title": "Prace elewacyjne",
+        "description": "Ocieplenie, tynkowanie, malowanie i renowacja — trwale i energooszczędnie."
+      },
+      "garten": {
+        "title": "Ogrody i architektura krajobrazu",
+        "description": "Przemyślane otoczenie domu: ścieżki, zieleń, oświetlenie i automatyka."
+      }
+    },
+    "readMore": "Czytaj więcej",
+    "prev": "Wstecz",
+    "next": "Dalej"
+  },
+  "whoWeAre": {
+    "kicker": "Kim jesteśmy?",
+    "title": "„Quality Build” to zespół, który specjalizuje się w rozwiązywaniu złożonych zadań na najwyższym poziomie.",
+    "text": "Niezależnie od tego, czy planujesz budowę domu, renowację elewacji, czy remont, który posłuży przez lata — jesteśmy do Twojej dyspozycji. Nasza specjalizacja nie ogranicza się do budowy typowych domów: tworzymy zarówno efektowne obiekty architektoniczne, jak i domy w najróżniejszych stylach, o dowolnym stopniu złożoności.",
+    "cta": "Więcej o nas",
+    "callLabel": "Skontaktuj się z nami"
+  },
+  "quality": {
+    "eyebrow": "Nasza obietnica",
+    "title": "Jakość wykonania na każdym etapie naszej pracy — bez wyjątków.",
+    "p1": "Doradzamy fachowo i rzetelnie, aby decyzja w sprawie Twojego projektu dawała Ci 100% satysfakcji.",
+    "p2": "Proponujemy warianty rozwiązań i realizujemy wszystko terminowo, bez przekraczania budżetu — a przede wszystkim profesjonalnie.",
+    "skills": {
+      "s1": {
+        "label": "Dobór rozwiązania",
+        "value": 75
+      },
+      "s2": {
+        "label": "Jakość wykonania",
+        "value": 100
+      },
+      "s3": {
+        "label": "Tempo pracy",
+        "value": 80
+      },
+      "s4": {
+        "label": "Efektywność kosztowa",
+        "value": 90
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Jak pracujemy",
+    "title": "Nasz proces pracy w 5 krokach",
+    "steps": {
+      "s1": {
+        "title": "Określenie zadania",
+        "text": "Zanim zaczniemy, wspólnie omawiamy Twoje wyobrażenia i oczekiwania wobec nas. Doradzamy profesjonalnie i odpowiadamy na wszystkie pytania — tak, aby decyzja, którą podejmiesz, była w pełni świadoma i niezależna."
+      },
+      "s2": {
+        "title": "Wycena",
+        "text": "Po ustaleniu zakresu przyjeżdżamy na miejsce, szacujemy koszt prac i — jeśli to możliwe — podpowiadamy, gdzie można zaoszczędzić, aby efekt był lepszy niż zakładany. Wysoka jakość to nie ogromny wydatek, lecz dobrze zainwestowane pieniądze."
+      },
+      "s3": {
+        "title": "Przejrzysta oferta",
+        "text": "Po wycenie ustalamy koszt całego projektu oraz wariant realizacji. Warianty prezentujemy w formie wizualizacji wraz z kosztorysem — dzięki temu dokładnie widzisz, jak wszystko będzie wyglądać i ile będzie kosztować."
+      },
+      "s4": {
+        "title": "Realizacja",
+        "text": "Bierzemy na siebie wszystkie procesy związane z realizacją projektu: zakup materiałów, projektowanie, konstrukcję, logistykę i wiele więcej. Każdy etap jest pod osobistym nadzorem — dzięki temu, a także dzięki licznym usprawnieniom naszych procesów, koszty są znacząco niższe, a terminy — krótsze."
+      },
+      "s5": {
+        "title": "Odbiór projektu",
+        "text": "Przed przekazaniem sprawdzamy projekt według checklisty przygotowanej już na etapie pierwszych rozmów. Dopiero po pełnej kontroli z naszej strony zapraszamy Cię do odbioru — zwłaszcza pod kątem zgodności z normami technicznymi, funkcjonalności i Twoich oczekiwań."
+      }
+    },
+    "hud": {
+      "s1": "Brief",
+      "s2": "Obmiar",
+      "s3": "Kosztorys",
+      "s4": "Budowa",
+      "s5": "Odbiór"
+    }
+  },
+  "offerTabs": {
+    "eyebrow": "Twoje korzyści",
+    "title": "Co zyskujesz z nami",
+    "tabs": {
+      "construction": {
+        "label": "Budowa",
+        "title": "Kompleksowa budowa",
+        "bullets": {
+          "b1": "Niższa cena, bo wszystko realizujemy własnymi siłami",
+          "b2": "Cena prac nie zmienia się w trakcie projektu",
+          "b3": "Pełna odpowiedzialność za cały projekt",
+          "b4": "Ciekawe projekty na każdy budżet"
+        },
+        "cta": "Więcej o budowie domów"
+      },
+      "repair": {
+        "label": "Remont",
+        "title": "Usługi remontowe",
+        "bullets": {
+          "b1": "Gwarancja na wszystkie prace remontowe",
+          "b2": "Szybka realizacja bez kompromisów w jakości",
+          "b3": "Dobór wariantów według budżetu i oczekiwań"
+        },
+        "cta": "Więcej o remontach"
+      },
+      "design": {
+        "label": "Design",
+        "title": "Niezwykły design",
+        "bullets": {
+          "b1": "Nowoczesne, wyraziste style i funkcjonalny design",
+          "b2": "Swobodny wybór wariantów remontu lub budowy",
+          "b3": "Wizualizacja 3D i korekty przed startem budowy"
+        },
+        "cta": "Bezpłatna profesjonalna konsultacja"
+      }
+    }
+  },
+  "offers": {
+    "consultation": {
+      "kicker": "Bezpłatnie",
+      "title": "Profesjonalna konsultacja",
+      "text": "Rozmowa czysto doradcza: odpowiadamy na pytania i dzielimy się wskazówkami, aby wszystkie niuanse były dla Ciebie jasne.",
+      "bullets": {
+        "b1": "Jak przebiega realizacja",
+        "b2": "Jakiego budżetu potrzeba",
+        "b3": "Co warto wiedzieć na start — i nie tylko"
+      },
+      "cta": "Umów konsultację"
+    },
+    "visit": {
+      "kicker": "Na miejscu",
+      "title": "Wizyta specjalisty",
+      "text": "Bezpośrednio na miejscu otrzymasz wstępny kosztorys (a po szczegółowych obliczeniach — dokładną cenę) oraz profesjonalną poradę.",
+      "bullets": {
+        "b1": "Konkretna oferta od ręki",
+        "b2": "Szybka droga do dokładnej ceny",
+        "b3": "Bezpłatnie i bez zobowiązań"
+      },
+      "cta": "Umów wizytę specjalisty"
+    },
+    "midBlock": {
+      "eyebrow": "Liczby, które przekonują",
+      "title": "Zaufanie buduje się wynikami",
+      "text": "Od pierwszej konsultacji po odbiór — naszą miarą są jakość, przejrzystość i terminowość.",
+      "stats": {
+        "s1": {
+          "value": "150+",
+          "label": "zrealizowanych projektów"
+        },
+        "s2": {
+          "value": "10+",
+          "label": "lat doświadczenia"
+        },
+        "s3": {
+          "value": "40+",
+          "label": "specjalistów w zespole"
+        },
+        "s4": {
+          "value": "100%",
+          "label": "gwarancji na prace"
+        }
+      }
+    }
+  },
+  "projectsTeaser": {
+    "eyebrow": "Realizacje",
+    "title": "Nasze projekty",
+    "subtitle": "Zobacz zrealizowane domy i trwające prace — od klasyki po Hi-Tech.",
+    "cta": "Zobacz wszystkie projekty"
+  },
+  "contactCta": {
+    "eyebrow": "Zaczynamy?",
+    "title": "Porozmawiajmy o Twoim projekcie",
+    "subtitle": "Zostaw zapytanie — odezwiemy się jak najszybciej z bezpłatną wstępną wyceną.",
+    "button": "Wyślij zapytanie",
+    "orCall": "Albo zadzwoń do nas bezpośrednio:"
+  },
+  "footer": {
+    "tagline": "Firma budowlana: budowa domów, remonty, renowacje i zagospodarowanie terenu — jakość na każdym etapie.",
+    "copyright": "Wszelkie prawa zastrzeżone.",
+    "privacyPolicy": "Polityka prywatności"
+  },
+  "contactPopup": {
+    "consultation": {
+      "title": "Bezpłatna konsultacja",
+      "description": "Zostaw swoje dane kontaktowe — odezwiemy się i odpowiemy na wszystkie pytania."
+    },
+    "contact": {
+      "title": "Skontaktuj się z nami",
+      "description": "Napisz, w czym możemy pomóc — odpowiemy jak najszybciej."
+    },
+    "callback": {
+      "title": "Zamów oddzwonienie",
+      "description": "Zostaw swój numer — oddzwonimy w najbliższym czasie."
+    },
+    "visit": {
+      "title": "Umów wizytę specjalisty",
+      "description": "Przyjedziemy na miejsce, doradzimy i przygotujemy konkretny kosztorys — bezpłatnie."
+    },
+    "form": {
+      "name": "Imię i nazwisko",
+      "namePlaceholder": "Jan Kowalski",
+      "phone": "Telefon",
+      "phonePlaceholder": "+49 151 000 00 000",
+      "email": "E-mail",
+      "emailPlaceholder": "jan@przyklad.pl",
+      "service": "Usługa",
+      "servicePlaceholder": "Wybierz usługę",
+      "preferredDate": "Preferowany termin",
+      "question": "Twoja wiadomość",
+      "questionPlaceholder": "Opisz krótko swój projekt…",
+      "submit": "Wyślij",
+      "submitting": "Wysyłanie…",
+      "successTitle": "Dziękujemy!",
+      "successMessage": "Twoje zapytanie do nas dotarło. Odezwiemy się jak najszybciej."
+    }
+  },
+  "about": {
+    "hero": {
+      "kicker": "O nas",
+      "title": "Zespół Quality Build",
+      "subtitle": "Profesjonalna firma budowlana — solidna, innowacyjna i dbająca o każdy detal."
+    },
+    "intro": {
+      "kicker": "Kim jesteśmy",
+      "title": "Twój niezawodny partner w budownictwie",
+      "text": "Quality Build to wysoce profesjonalna firma budowlana, specjalizująca się w budowie domów prywatnych, obiektów komercyjnych oraz projektów wymagających złożonych, niestandardowych rozwiązań. Przez lata zbudowaliśmy pozycję solidnego i innowacyjnego partnera w branży budowlanej — a całym naszym doświadczeniem chętnie wesprzemy realizację Twojego projektu."
+    },
+    "strengths": {
+      "title": "Nasze mocne strony",
+      "items": {
+        "s1": {
+          "title": "Jakość i doświadczenie",
+          "text": "Quality Build konsekwentnie trzyma się najwyższych standardów jakości i dysponuje bogatym doświadczeniem w branży budowlanej."
+        },
+        "s2": {
+          "title": "Energooszczędność",
+          "text": "Projektujemy z myślą o efektywności energetycznej — to obniża koszty i chroni środowisko."
+        },
+        "s3": {
+          "title": "Indywidualny styl",
+          "text": "Twój dom to Twój styl. Słuchamy uważnie, aby stworzyć projekt, który odzwierciedli Twoją wyjątkowość."
+        }
+      }
+    },
+    "numbers": {
+      "title": "Quality Build w liczbach",
+      "stats": {
+        "s1": {
+          "value": "150+",
+          "label": "zrealizowanych projektów"
+        },
+        "s2": {
+          "value": "10+",
+          "label": "lat na rynku"
+        },
+        "s3": {
+          "value": "40+",
+          "label": "specjalistów"
+        },
+        "s4": {
+          "value": "98%",
+          "label": "klientów nas poleca"
+        }
+      }
+    },
+    "badge": {
+      "value": "10+",
+      "label": "lat doświadczenia"
+    },
+    "legal": {
+      "kicker": "Dane firmy",
+      "title": "Oficjalnie zarejestrowana spółka",
+      "text": "Quality Build & Management Sp. z o.o. to spółka zarejestrowana w Polsce. Wszystkie oferty, umowy i faktury wystawiamy pod oficjalną nazwą firmy — przejrzyście i zgodnie z prawem.",
+      "rows": {
+        "company": "Pełna nazwa",
+        "address": "Adres",
+        "nip": "NIP",
+        "regon": "REGON",
+        "email": "E-mail"
+      },
+      "sealCaption": "Pieczęć firmowa Quality Build & Management Sp. z o.o."
+    }
+  },
+  "servicesHub": {
+    "hero": {
+      "kicker": "Zakres usług",
+      "title": "Nasze usługi w skrócie",
+      "subtitle": "Pięć kluczowych obszarów — jeden standard: jakość na każdym etapie Twojego projektu."
+    },
+    "items": {
+      "hausbau": {
+        "title": "Budowa domów",
+        "description": "Domy pod klucz w każdym stylu — od domu szeregowego po luksusową willę."
+      },
+      "fassadenarbeiten": {
+        "title": "Prace elewacyjne",
+        "description": "Ocieplenie, tynki, malowanie i dach — energooszczędnie i na lata."
+      },
+      "innenrenovierung": {
+        "title": "Remonty wnętrz",
+        "description": "Kompleksowy remont kuchni, łazienki i pokoi — pod klucz."
+      },
+      "restaurierung": {
+        "title": "Renowacja",
+        "description": "Fachowa odnowa budynków — od domu mieszkalnego po obiekt zabytkowy."
+      },
+      "garten": {
+        "title": "Ogrody i architektura krajobrazu",
+        "description": "Otoczenie domu z pomysłem: ścieżki, zieleń, światło, woda i automatyka."
+      }
+    }
+  },
+  "servicePage": {
+    "requestCta": "Zostaw zapytanie",
+    "ourApproach": "Nasze podejście",
+    "processTitle": "Jak zaczynamy współpracę",
+    "galleryTitle": "Zajrzyj do naszych realizacji",
+    "faqTitle": "Częste pytania",
+    "otherServices": "Pozostałe usługi"
+  },
+  "hausbau": {
+    "hero": {
+      "kicker": "Usługa 01",
+      "title": "Budowa domów",
+      "subtitle": "Pod klucz, energooszczędnie i w stylu, który do Ciebie pasuje."
+    },
+    "approach": {
+      "title": "Nasze podejście do budowy",
+      "text": "Oferujemy szeroki wachlarz wysokiej jakości, unikalnych rozwiązań w budowie domów mieszkalnych i obiektów komercyjnych. Nasze podejście opiera się na najwyższej jakości wykonania na każdym etapie budowy, technologiach energooszczędnych oraz inteligentnych rozwiązaniach pozwalających efektywnie wykorzystać przestrzeń — w połączeniu z architekturą, która przyciąga spojrzenia. Budowa domu z zespołem Quality Build to jakość na każdym etapie współpracy oraz rozsądne, całkowicie przejrzyste koszty.",
+      "skills": {
+        "s1": {
+          "label": "Jakość",
+          "value": 100
+        },
+        "s2": {
+          "label": "Efektywność kosztowa",
+          "value": 90
+        },
+        "s3": {
+          "label": "Tempo pracy",
+          "value": 80
+        },
+        "s4": {
+          "label": "Skuteczność",
+          "value": 77
+        }
+      }
+    },
+    "reasons": {
+      "title": "Dlaczego klienci budują z nami",
+      "subtitle": "Zapytaliśmy naszych klientów i zebraliśmy główne powody, dla których wybierają współpracę z nami.",
+      "items": {
+        "r1": {
+          "title": "Budowa pod klucz",
+          "text": "Precyzyjnie realizujemy Twój pomysł i wymagania funkcjonalne — bez odstępstw od zaplanowanego budżetu."
+        },
+        "r2": {
+          "title": "Jakość",
+          "text": "Każdy etap przechodzi wieloetapową kontrolę jakości. Stosowane przez nas materiały są nietoksyczne i trwałe."
+        },
+        "r3": {
+          "title": "Serwis",
+          "text": "Prowadzimy regularne przeglądy i konserwację budynków przez cały cykl ich życia — szybko i w rozsądnej cenie."
+        },
+        "r4": {
+          "title": "Optymalne koszty",
+          "text": "Uwzględniamy każdy niuans w doborze materiałów, planowaniu i organizacji pracy. Dzięki temu koszty są wielokrotnie niższe niż uzyskana wartość."
+        }
+      }
+    },
+    "styles": {
+      "title": "Style domów",
+      "subtitle": "Dziesięć kierunków architektonicznych — i nieograniczone możliwości pomiędzy nimi. Wybierz swój styl.",
+      "items": {
+        "townhouse": {
+          "title": "Dom szeregowy",
+          "text": "Komfortowa zabudowa szeregowa, która łączy wygodę własnego domu z prywatnością w miejskim otoczeniu."
+        },
+        "hitech": {
+          "title": "Hi-Tech",
+          "text": "Dzięki zaawansowanym technologiom te domy zachwycają nowoczesnym designem i funkcjonalnością."
+        },
+        "minimalismus": {
+          "title": "Minimalizm",
+          "text": "Prostota i czysty design: minimum detali i proste formy tworzą nowoczesny charakter budynku."
+        },
+        "skandinavisch": {
+          "title": "Styl skandynawski",
+          "text": "Przestronne, pełne światła budynki, które łączą naturalny design z komfortem."
+        },
+        "klassisch": {
+          "title": "Domy klasyczne",
+          "text": "Eleganckie, wyrafinowane domy, które ucieleśniają tradycyjne formy architektoniczne."
+        },
+        "preiswert": {
+          "title": "Rozwiązania budżetowe",
+          "text": "Przystępne cenowo, funkcjonalne rozwiązania mieszkaniowe — przemyślane w każdym detalu."
+        },
+        "bueros": {
+          "title": "Budynki biurowe",
+          "text": "Obiekty, które łączą funkcjonalność i estetykę, sprzyjając efektywnej pracy."
+        },
+        "gewerbe": {
+          "title": "Obiekty komercyjne",
+          "text": "Budynki dla biznesu i obsługi klienta na najwyższym poziomie."
+        },
+        "raffiniert": {
+          "title": "Domy luksusowe",
+          "text": "Ekskluzywne rezydencje, które podkreślają status i styl właściciela."
+        },
+        "nichtstandard": {
+          "title": "Rozwiązania niestandardowe",
+          "text": "Architektura wykraczająca poza tradycję — z zaskakującymi rozwiązaniami projektowymi."
+        }
+      }
+    },
+    "steps": {
+      "title": "Etapy współpracy — co warto wiedzieć przed startem",
+      "items": {
+        "s1": {
+          "title": "Skuteczna komunikacja",
+          "text": "Omawiając projekt budowy, doradzamy kompleksowo i przedstawiamy warianty rozwiązań wraz z wizualizacjami, które pomagają określić wygląd przyszłego domu. Przemyślana komunikacja daje Ci pewność, że dobrze rozumiemy zadanie — a często dodatkowo ulepsza projekt dzięki nowym, inteligentnym pomysłom."
+        },
+        "s2": {
+          "title": "Projekt i wycena",
+          "text": "Po ustaleniu Twojej wizji projektujemy przyszły dom z uwzględnieniem potrzeb funkcjonalnych, oczekiwań i wszystkich wymagań architektonicznych. Na tym etapie określamy materiały, zakres prac i ostateczny koszt — z korektami, aż wymagania i budżet będą idealnie dopasowane."
+        },
+        "s3": {
+          "title": "Start budowy",
+          "text": "Po zatwierdzeniu projektu niezwłocznie organizujemy proces prac, którego etapy biegną równolegle. Sprawne zarządzanie i technologia znacząco skracają czas budowy. Wykonujemy wszystkie prace — od fundamentów, przez ściany i instalacje, po wykończenie zewnętrzne i wewnętrzne oraz zagospodarowanie całego otoczenia."
+        },
+        "s4": {
+          "title": "Odbiór obiektu",
+          "text": "Ponieważ jesteśmy pewni jakości naszej pracy, chętnie zapraszamy zewnętrznych inspektorów. Dodatkowo zapraszamy Cię do sprawdzenia wszystkiego, co ustaliliśmy: brak przekroczeń budżetu, pełna funkcjonalność pomieszczeń i otoczenia — a na życzenie niezależna kontrola jakości."
+        }
+      }
+    },
+    "build": {
+      "phases": {
+        "p1": "Fundamenty",
+        "p2": "Stan surowy",
+        "p3": "Dach",
+        "p4": "Pod klucz"
+      }
+    },
+    "numbers": {
+      "title": "Budowa domów w liczbach",
+      "stats": {
+        "s1": {
+          "value": "150+",
+          "label": "zrealizowanych projektów"
+        },
+        "s2": {
+          "value": "10",
+          "label": "stylów architektonicznych"
+        },
+        "s3": {
+          "value": "100%",
+          "label": "gwarancji stałej ceny"
+        },
+        "s4": {
+          "value": "2",
+          "label": "kraje: DE i PL"
+        }
+      }
+    },
+    "konfigurator": {
+      "kicker": "Twój projekt w 60 sekund",
+      "title": "Zaplanuj swój dom",
+      "subtitle": "Trzy krótkie kroki — a otrzymasz bezpłatną wstępną kalkulację wymarzonego domu.",
+      "steps": {
+        "s1": "Styl",
+        "s2": "Powierzchnia",
+        "s3": "Kontakt"
+      },
+      "styleTitle": "Który styl Ci się podoba?",
+      "areaTitle": "Jak duży ma być Twój dom?",
+      "areaUnit": "m²",
+      "contactTitle": "Dokąd mamy wysłać kalkulację?",
+      "summaryTitle": "Twój wybór",
+      "back": "Wstecz",
+      "next": "Dalej",
+      "privacyNote": "Wysyłając formularz, wyrażasz zgodę na przetwarzanie danych zgodnie z naszą",
+      "privacyLink": "Polityką prywatności"
+    }
+  },
+  "fassade": {
+    "hero": {
+      "kicker": "Usługa 02",
+      "title": "Prace elewacyjne",
+      "subtitle": "Elewacja decyduje o energooszczędności, trwałości i pierwszym wrażeniu, jakie robi Twój dom."
+    },
+    "approach": {
+      "title": "Nasze podejście do prac elewacyjnych",
+      "text": "Jakość prac zewnętrznych to jeden z najważniejszych etapów budowy. Wpływa bezpośrednio na efektywność energetyczną i trwałość budynku — nie wspominając o jego wyglądzie. Wysokiej jakości, trwałe prace elewacyjne wymagają doświadczenia, nowoczesnych materiałów i profesjonalnego podejścia do każdego etapu.",
+      "skills": {
+        "s1": {
+          "label": "Jakość",
+          "value": 100
+        },
+        "s2": {
+          "label": "Materiały",
+          "value": 80
+        },
+        "s3": {
+          "label": "Tempo pracy",
+          "value": 75
+        },
+        "s4": {
+          "label": "Efektywność kosztowa",
+          "value": 83
+        }
+      }
+    },
+    "works": {
+      "kicker": "Czym się zajmujemy",
+      "title": "Główne rodzaje prac",
+      "items": {
+        "w1": {
+          "title": "Wykończenie ścian",
+          "text": "Ściany czyścimy, szpachlujemy, malujemy i zabezpieczamy dodatkową ochroną przed warunkami atmosferycznymi."
+        },
+        "w2": {
+          "title": "Ocieplenie",
+          "text": "Od izolacji zewnętrznej i łączonej po wymianę wszystkich elementów wpływających na efektywność energetyczną."
+        },
+        "w3": {
+          "title": "Pokrycia dachowe",
+          "text": "Dobór materiału pod konkretne wymagania i kompletny montaż — każdy materiał, każda skala, każdy poziom trudności."
+        },
+        "w4": {
+          "title": "Drobne naprawy",
+          "text": "Odświeżenie powłoki malarskiej, naprawa pęknięć, usuwanie pleśni, wymiana pojedynczych elementów elewacji i więcej."
+        }
+      }
+    },
+    "process": {
+      "title": "Jak najlepiej zacząć",
+      "items": {
+        "s1": {
+          "title": "Określenie zadania",
+          "text": "Najpierw ustalamy, co dokładnie trzeba zrobić i jaki efekt chcesz osiągnąć. W razie potrzeby oglądamy problematyczne miejsca i oceniamy ich stan — wstępna ocena możliwa jest także na podstawie zdjęć."
+        },
+        "s2": {
+          "title": "Oferta",
+          "text": "Przygotowujemy ofertę z kosztami robocizny i materiałów oraz terminami i ustalamy datę startu. Na tym etapie omawiamy i dopracowujemy warianty realizacji, aż wszystko będzie odpowiadać Twoim wymaganiom."
+        },
+        "s3": {
+          "title": "Realizacja",
+          "text": "Przygotowujemy umowę i pełny harmonogram prac oraz kierujemy na miejsce kompetentnych fachowców z odpowiednim doświadczeniem. Wszystkimi procesami związanymi z renowacją zajmujemy się my."
+        },
+        "s4": {
+          "title": "Odbiór projektu",
+          "text": "Po zakończeniu i kontroli prac przekazujemy Ci projekt — tak, aby nie było wątpliwości, że efekt i wykonanie są zgodne z Twoimi oczekiwaniami i umową."
+        }
+      }
+    },
+    "layers": {
+      "kicker": "System ociepleń ETICS",
+      "title": "Jak zbudowana jest ocieplona elewacja",
+      "subtitle": "Pięć warstw, które razem trzymają ciepło, odpychają wilgoć i służą przez dziesięciolecia.",
+      "hint": "Dotknij warstwy, aby dowiedzieć się więcej",
+      "items": {
+        "l1": {
+          "label": "Mur nośny",
+          "text": "Podłoże sprawdzamy, czyścimy i wyrównujemy — tylko na solidnej bazie system trzyma się trwale."
+        },
+        "l2": {
+          "label": "Zaprawa klejowa",
+          "text": "Nakładana całopowierzchniowo lub metodą obwodowo-punktową, trwale łączy płyty izolacyjne z murem."
+        },
+        "l3": {
+          "label": "Płyta izolacyjna",
+          "text": "Styropian lub wełna mineralna — grubość dobieramy według potrzeb energetycznych. To tu powstaje do 30% oszczędności na ogrzewaniu."
+        },
+        "l4": {
+          "label": "Siatka zbrojąca",
+          "text": "Zatopiona w warstwie zaprawy siatka z włókna szklanego zapobiega pęknięciom i wzmacnia elewację."
+        },
+        "l5": {
+          "label": "Tynk i farba",
+          "text": "Tynk zewnętrzny nadaje strukturę i kolor — odporny na pogodę, paroprzepuszczalny i dokładnie w Twoim guście."
+        }
+      }
+    },
+    "check": {
+      "kicker": "Autodiagnoza",
+      "title": "Czy Twoja elewacja wymaga uwagi?",
+      "subtitle": "Zaznacz, co dotyczy Twojego domu — i od razu zobacz naszą rekomendację.",
+      "counterLabel": "Dotyczy",
+      "items": {
+        "c1": "Widoczne pęknięcia tynku lub muru",
+        "c2": "Tynk odpada lub się kruszy",
+        "c3": "Koszty ogrzewania rosną z roku na rok",
+        "c4": "Wilgotne plamy lub mech na ścianie",
+        "c5": "Elewacja wygląda szaro i staro"
+      },
+      "verdicts": {
+        "v0": "Wygląda dobrze! Obserwuj elewację dalej — i odezwij się, gdy coś się zmieni.",
+        "v1": "Dobry moment na przegląd: usunięcie drobnych usterek teraz jest znacznie tańsze niż remont później.",
+        "v2": "Twoja elewacja wymaga szybkiej oceny. Wyślij nam zdjęcia — wstępna ocena jest bezpłatna."
+      },
+      "cta": "Zamów bezpłatną ocenę",
+      "hint": "Bez zobowiązań — odpowiedź w ciągu 24 godzin.",
+      "contextLabel": "Diagnoza elewacji"
+    }
+  },
+  "innen": {
+    "hero": {
+      "kicker": "Usługa 03",
+      "title": "Remonty wnętrz",
+      "subtitle": "Od pierwszego projektu po oddanie pod klucz — wnętrza, w których czujesz się dobrze."
+    },
+    "approach": {
+      "title": "Nasze podejście do remontów",
+      "text": "Aby nasi klienci uniknęli trudności, a wszystkie prace przebiegały zgodnie z planem i oczekiwaniami, trzymamy się jasnych zasad: precyzyjnie wyceniamy robociznę i materiały, aby ustalona kwota nie została przekroczona. Poznajemy Twoje wymagania, tworzymy harmonogram prac i informujemy każdego członka zespołu o jego zadaniach. A przede wszystkim organizujemy pracę tak, by przebiegała szybko i w najwyższej możliwej jakości.",
+      "skills": {
+        "s1": {
+          "label": "Dobór zespołu",
+          "value": 80
+        },
+        "s2": {
+          "label": "Wycena prac",
+          "value": 70
+        },
+        "s3": {
+          "label": "Jakość wykonania",
+          "value": 100
+        },
+        "s4": {
+          "label": "Efektywność kosztowa",
+          "value": 75
+        },
+        "s5": {
+          "label": "Projekt i design",
+          "value": 72
+        }
+      }
+    },
+    "styles": {
+      "title": "Style wykończenia wnętrz",
+      "subtitle": "Pracujemy we wszystkich stylach — od klasyki po industrial.",
+      "items": {
+        "klassik": "Styl klasyczny",
+        "modern": "Nowoczesny",
+        "skandinavisch": "Styl skandynawski",
+        "minimalismus": "Minimalizm",
+        "rustikal": "Rustykalny",
+        "industriell": "Industrialny"
+      }
+    },
+    "usp": {
+      "items": {
+        "u1": {
+          "title": "Wszystkie rodzaje remontów",
+          "text": "Niezależnie od stopnia złożoności i budżetu pomożemy Ci znaleźć wariant, który da Ci 100% satysfakcji."
+        },
+        "u2": {
+          "title": "Projekt i wizualizacja",
+          "text": "Z wyprzedzeniem zobaczysz, jak będzie wyglądać Twoje mieszkanie, i na czas wniesiesz swoje uwagi — aby efekt odpowiadał Twoim oczekiwaniom."
+        },
+        "u3": {
+          "title": "Praca pod klucz",
+          "text": "Bierzemy na siebie cały zakres prac — to taniej, sprawniej i bez zbędnych nerwów."
+        }
+      }
+    },
+    "services": {
+      "kicker": "Czym się zajmujemy",
+      "title": "Pełen zakres usług",
+      "items": {
+        "l1": {
+          "title": "Projekt",
+          "text": "Tworzymy projekt i design Twojego przyszłego wnętrza od podstaw — według Twoich wymagań i budżetu. Na życzenie pomagamy w wyborze."
+        },
+        "l2": {
+          "title": "Przebudowa i modernizacja",
+          "text": "W razie potrzeby przeprowadzamy kompletną, przemyślaną modernizację — wraz ze wszystkimi pracami towarzyszącymi, od stawiania ścian po rozbudowę."
+        },
+        "l3": {
+          "title": "Realizacja",
+          "text": "Kompletny pakiet prac: zakup materiałów, instalacje, malowanie, szpachlowanie, podłogi — wszystko, czego trzeba, by Twój pomysł ożył."
+        },
+        "l4": {
+          "title": "Aranżacja",
+          "text": "Wydzielenie stref, dodanie elementów dekoracyjnych, spójna stylistyka całości — chętnie się tym zajmiemy."
+        }
+      }
+    },
+    "repairTypes": {
+      "title": "Najczęstsze rodzaje prac remontowych",
+      "items": {
+        "r1": {
+          "title": "Remont generalny",
+          "text": "Pełne odtworzenie, a nawet przebudowa nieruchomości: wymiana instalacji elektrycznej i pozostałych, modernizacja, nowe okna i drzwi, odnowienie powierzchni wewnętrznych i więcej. Dla wszystkich, którzy chcą znacząco poprawić stan budynku lub zmienić jego funkcjonalność."
+        },
+        "r2": {
+          "title": "Remont kosmetyczny",
+          "text": "Niedrogie odświeżenie, gdy mieszkanie nosi ślady upływu czasu i drobne usterki. Wykonywany regularnie, pozwala uniknąć poważnych wydatków w przyszłości — drobne poprawki i częściowa wymiana zużytych materiałów."
+        },
+        "r3": {
+          "title": "Remont kuchni",
+          "text": "Odnowienie i montaż wyposażenia kuchni, wymiana podłogi (najczęściej płytek), nowy wystrój oraz wykończenie ścian i sufitu. Kuchnia wymaga innego podejścia, innych materiałów i planowania — zużycie i potrzeba wymiany są tu znacznie większe."
+        },
+        "r4": {
+          "title": "Remont łazienki",
+          "text": "Wymiana armatury i ceramiki (wanna, WC, umywalka), odnowienie ścian i podłóg, wymiana lub naprawa wentylacji. Właśnie wentylacja jest kluczowa: gdy nie działa prawidłowo, pojawiają się pleśń i zawilgocenia."
+        },
+        "r5": {
+          "title": "Części wspólne",
+          "text": "Remonty korytarzy, klatek schodowych, wind, balkonów, tarasów i pomieszczeń technicznych: montaż wszystkich niezbędnych elementów, dobre oświetlenie oraz wykończenie ścian, sufitów i podłóg — dla wygody użytkowania i bezpieczeństwa."
+        }
+      }
+    },
+    "guide": {
+      "title": "Co warto wiedzieć przed remontem",
+      "text": "Najpierw zdecyduj o designie i stylu — wychodząc od swoich potrzeb i gustu. Ściśle wiąże się z tym planowany budżet. Przy wyborze weź pod uwagę swój styl życia: to, co ładne, nie zawsze jest praktyczne. Najlepszym rozwiązaniem jest zaproszenie specjalistów, którzy zrealizują Twój plan. Przy przebudowie pamiętaj o wymaganych formalnościach — pozwoleniu na budowę lub zgłoszeniu. I najważniejsze: wymagaj jasno określonych terminów oraz kwoty zapisanej w umowie."
+    },
+    "compare": {
+      "kicker": "Uczciwe porównanie",
+      "title": "Remont samodzielnie czy z profesjonalistami?",
+      "aspectHead": "Kryterium",
+      "diyHead": "Na własną rękę",
+      "proHead": "Z Quality Build",
+      "rows": {
+        "c1": {
+          "aspect": "Narzędzia",
+          "diy": "Wynajem lub zakup drogiego sprzętu — bez wprawy efekt i tak będzie widoczny.",
+          "pro": "Profesjonalne wyposażenie dla każdej branży jest wliczone w cenę."
+        },
+        "c2": {
+          "aspect": "Doświadczenie",
+          "diy": "Błędy w materiałach i kolejności prac kosztują czas, pieniądze i nerwy.",
+          "pro": "Zgrane ekipy, sprawdzone materiały i stali dostawcy."
+        },
+        "c3": {
+          "aspect": "Bezpieczeństwo",
+          "diy": "Ryzyko urazów i ukryte zagrożenia przy elektryce, konstrukcji i wilgoci.",
+          "pro": "Certyfikowani fachowcy, BHP i ubezpieczenie w standardzie."
+        },
+        "c4": {
+          "aspect": "Gwarancja",
+          "diy": "Za pracę własną nikt nie odpowiada — poprawki płacisz podwójnie.",
+          "pro": "Umowne terminy, stała cena i gwarancja na wszystkie prace."
+        }
+      }
+    }
+  },
+  "restaurierung": {
+    "hero": {
+      "kicker": "Usługa 04",
+      "title": "Renowacja domu",
+      "subtitle": "Przywracamy budynkom dawny charakter — i wydłużamy ich żywotność o dziesięciolecia."
+    },
+    "intro": {
+      "kicker": "Czym jest renowacja?",
+      "title": "Kiedy i komu jest potrzebna?",
+      "p1": "Renowacja to przywrócenie budynkowi dobrego stanu i zapewnienie mu komfortowego użytkowania przez długie lata.",
+      "question": "Skąd wiadomo, że budynek wymaga renowacji?",
+      "p2": "Osoby bez fachowej wiedzy często nie potrafią tego same ocenić — większość mówi: „Małe pęknięcie na elewacji to nie problem, jeszcze wytrzyma”. Tymczasem w niektórych przypadkach nawet drobne pęknięcia i wnikająca wilgoć bywają krytyczne i prowadzą do poważnych uszkodzeń — w zależności od materiałów i konstrukcji budynku.",
+      "p3": "Najprostsze rozwiązanie: zrób szczegółowe zdjęcia domu i problematycznych miejsc i prześlij je nam do wstępnej oceny. Otrzymasz zalecenia dotyczące pielęgnacji budynku i lepiej zrozumiesz sytuację — ta usługa jest u nas bezpłatna."
+    },
+    "problems": {
+      "title": "Częste problemy przy renowacji — i ich konsekwencje",
+      "items": {
+        "p1": {
+          "title": "Renowacja na własną rękę",
+          "text": "Bez odpowiednich narzędzi, wiedzy i doświadczenia stan budynku często się pogarsza. Nieprofesjonalne rozwiązania jedynie maskują problem i go pogłębiają — co w przyszłości oznacza znaczne koszty."
+        },
+        "p2": {
+          "title": "Nieprofesjonalna ocena",
+          "text": "Często brakuje osoby o jasnej specjalizacji. Trzeba jednoznacznie zidentyfikować użyte materiały oraz sprawdzić fundamenty i konstrukcję nośną. Przy błędach problem ujawnia się często już po 1–2 latach — w miejscach, za które nikt nie chce potem wziąć odpowiedzialności."
+        },
+        "p3": {
+          "title": "Źle dobrane materiały",
+          "text": "„Używamy najlepszych materiałów” — ale kluczowa jest zgodność starego z nowym, budżet i region: „najlepsze materiały” nie zawsze odpowiadają lokalnym warunkom użytkowania. Także specyfika naprawianych miejsc decyduje o właściwej metodzie."
+        },
+        "p4": {
+          "title": "Utrata pierwotnego wyglądu",
+          "text": "Z pozoru drobny, ale częsty błąd: kolory, technologie i materiały istotnie zmieniają wygląd budynku. Po renowacji budynek prezentuje się gorzej, bo znika spójny styl."
+        }
+      },
+      "hint": "Dotknij zaznaczonych miejsc na budynku"
+    },
+    "approach": {
+      "title": "Nasze podejście: jak unikamy tych problemów",
+      "items": {
+        "a1": {
+          "title": "Wyłącznie doświadczone ekipy",
+          "text": "Dysponujemy licznym zespołem o wszechstronnym doświadczeniu i profesjonalnymi narzędziami. Stosujemy technologie i materiały, które w danym budynku dają najlepszy efekt."
+        },
+        "a2": {
+          "title": "Profesjonalna ocena",
+          "text": "Oceniamy całościowo — nie tylko uszkodzone miejsce — aby poznać rzeczywisty stan budynku. Usunięcie wad zewnętrznych i pozostawienie ukrytych uszkodzeń nie wchodzi w grę: bierzemy pełną odpowiedzialność za jakość."
+        },
+        "a3": {
+          "title": "Staranny dobór materiałów",
+          "text": "Materiały dobieramy dopiero po analizie tych użytych w budynku i cech jego konstrukcji. Często konieczne jest wzmocnienie albo pełna wymiana elementu wewnętrznego. W decyzji uwzględniamy także strefę klimatyczną."
+        },
+        "a4": {
+          "title": "Zdefiniowana technologia",
+          "text": "Przed rozpoczęciem prac, porównując materiały, określamy technologię i zakres renowacji — od trwałości kolorów po to, jak odnawiane miejsca zachowają się w czasie."
+        }
+      }
+    },
+    "why": {
+      "title": "Dlaczego warto się do nas zgłosić",
+      "text": "To proste: jakość to główna specjalizacja naszego zespołu — a przy renowacji budynków nie ma nic ważniejszego. Chcesz przekonać się o naszym profesjonalizmie? Zamów bezpłatną konsultację i wyrób sobie własne zdanie.",
+      "cta": "Zamów bezpłatną konsultację"
+    },
+    "benefits": {
+      "title": "Co daje profesjonalna renowacja",
+      "items": {
+        "b1": {
+          "title": "Przemyślana odnowa",
+          "text": "Uwzględniamy zarówno efektywność energetyczną, jak i przywrócenie — a na życzenie ulepszenie — pierwotnego wyglądu."
+        },
+        "b2": {
+          "title": "Inteligentne podejście",
+          "text": "Nawet najtrudniejsze przypadki da się rozwiązać: dzięki kompleksowej metodyce, profesjonalnej ocenie i bogatemu doświadczeniu z niemal zrujnowanymi budynkami."
+        },
+        "b3": {
+          "title": "Skuteczna kontrola",
+          "text": "Każdy etap prac nadzoruje osoba odpowiedzialna, a weryfikuje kolejny fachowiec — od materiału po powłokę zewnętrzną."
+        },
+        "b4": {
+          "title": "Inwestycja",
+          "text": "Budynek odnowiony w porę nie traci na wartości: fachowa renowacja ją podnosi, a poniesione koszty zwracają się wielokrotnie."
+        },
+        "b5": {
+          "title": "Istota, nie kosmetyka",
+          "text": "Nie naprawiamy powierzchownie, lecz u źródła problemu — materiałem równorzędnym lub lepszym — i przywracamy pierwotny wygląd."
+        },
+        "b6": {
+          "title": "Ochrona dziedzictwa",
+          "text": "Odnawiamy również budynki historyczne i cenne obiekty kultury — aż znów wyglądają jak tuż po zakończeniu budowy."
+        }
+      }
+    }
+  },
+  "garten": {
+    "hero": {
+      "kicker": "Usługa 05",
+      "title": "Ogrody i architektura krajobrazu",
+      "subtitle": "Otoczenie domu, które łączy piękno, bezpieczeństwo i funkcjonalność."
+    },
+    "approach": {
+      "title": "Nasze podejście do architektury krajobrazu",
+      "text": "Z reguły podejmujemy się zleceń kompleksowych, bo zagospodarowanie działki obejmuje wiele branż. Ważne jest nie tylko samo solidne wykonanie — specjalność Quality Build — lecz także właściwa organizacja procesu: jak zrealizować Twój plan możliwie sprawnie i precyzyjnie?",
+      "skills": {
+        "s1": {
+          "label": "Kompleksowość",
+          "value": 70
+        },
+        "s2": {
+          "label": "Jakość",
+          "value": 90
+        },
+        "s3": {
+          "label": "Tempo pracy",
+          "value": 85
+        },
+        "s4": {
+          "label": "Efektywność kosztowa",
+          "value": 80
+        }
+      }
+    },
+    "why": {
+      "title": "Dlaczego przemyślane otoczenie domu się opłaca",
+      "p1": "W architekturze krajobrazu nie chodzi tylko o ładniejsze otoczenie. Estetyka, piękno i przyjemna atmosfera cieszą oko — i w wymierny sposób poprawiają samopoczucie.",
+      "p2": "To także niezbędna infrastruktura: prąd i woda, ale również systemy bezpieczeństwa — alarmy, monitoring, dobre oświetlenie i automatyka, która ułatwia codzienność.",
+      "p3": "Dobrze wykonane prace tworzą więc nie tylko piękny obraz, ale i poczucie bezpieczeństwa oraz komfortu — w domu i na całej działce."
+    },
+    "scope": {
+      "title": "Co obejmuje architektura krajobrazu? Co możemy dla Ciebie zrobić?",
+      "items": {
+        "g1": {
+          "title": "Aranżacja zieleni",
+          "text": "Tereny zielone, rabaty, drzewa i trawniki — zaplanowane jako spójna całość."
+        },
+        "g2": {
+          "title": "Systemy automatyki",
+          "text": "Nawadnianie, oświetlenie i inteligentne sterowanie — mniej codziennych obowiązków."
+        },
+        "g3": {
+          "title": "Ścieżki i podjazdy",
+          "text": "Utwardzanie ścieżek i dróg — trwale, równo i w stylu pasującym do domu."
+        },
+        "g4": {
+          "title": "Strefy wypoczynku",
+          "text": "Tarasy, miejsca do siedzenia i strefy zabaw — miejsca, w których chce się spędzać czas."
+        },
+        "g5": {
+          "title": "Przyłącza i instalacje",
+          "text": "Instalacje elektryczne i wodne — fachowo zaprojektowane i ułożone."
+        },
+        "g6": {
+          "title": "Pozostałe elementy",
+          "text": "Ogrodzenia, murki oporowe, oświetlenie zewnętrzne i wszystko, czego potrzeba, aby działka była kompletna."
+        }
+      },
+      "hint": "Wybierz strefę na planie"
+    },
+    "process": {
+      "title": "Jak zaczynamy współpracę",
+      "items": {
+        "s1": {
+          "title": "Wizja i wymagania",
+          "text": "W rozmowie poznajemy Twoje wymagania i wyobrażenia oraz przygotowujemy różne warianty wizualizacji, aby efekt końcowy był ustalony bez niedomówień. Precyzyjnie zdefiniowany cel oznacza, że i wykonanie będzie dobre."
+        },
+        "s2": {
+          "title": "Start prac",
+          "text": "Po ustaleniach dokładnie mierzymy teren i przygotowujemy harmonogram prac oraz listę materiałów w formie przejrzystego kosztorysu, który wspólnie dopracowujemy, aż wszystko zgra się z budżetem i wizją. Potem podpisujemy umowę i ruszamy."
+        }
+      }
+    },
+    "gallery": {
+      "title": "Zrealizowane aranżacje terenu"
+    }
+  },
+  "projectsExplorer": {
+    "hero": {
+      "kicker": "Realizacje",
+      "title": "Nasze projekty",
+      "subtitle": "Zbudowane, odnowione, zaprojektowane — poznaj nasze prace według kategorii."
+    },
+    "all": "Wszystkie",
+    "countLabel": "{count, plural, one {projekt} few {projekty} many {projektów} other {projektu}}",
+    "categories": {
+      "raffiniert": "Domy luksusowe",
+      "townhouse": "Domy szeregowe",
+      "bueros": "Budynki biurowe",
+      "gewerbe": "Obiekty komercyjne",
+      "hitech": "Hi-Tech",
+      "klassisch": "Domy klasyczne",
+      "skandinavisch": "Styl skandynawski",
+      "minimalismus": "Minimalizm",
+      "preiswert": "Domy ekonomiczne",
+      "nichtstandard": "Rozwiązania niestandardowe"
+    },
+    "projectLabel": "Projekt"
+  },
+  "kontakt": {
+    "hero": {
+      "kicker": "Kontakt",
+      "title": "Porozmawiajmy o Twoim projekcie",
+      "subtitle": "Zadzwoń, napisz lub skorzystaj z formularza — odpowiemy jak najszybciej."
+    },
+    "form": {
+      "title": "Wyślij zapytanie"
+    },
+    "cards": {
+      "phone": "Telefon",
+      "email": "E-mail",
+      "address": "Adres",
+      "hours": "Godziny otwarcia"
+    }
+  },
+  "datenschutz": {
+    "title": "Polityka prywatności",
+    "updated": "Ostatnia aktualizacja: sierpień 2026",
+    "backHome": "Powrót do strony głównej",
+    "sections": {
+      "s1": {
+        "title": "1. Administrator danych",
+        "text": "Administratorem danych osobowych w rozumieniu ogólnego rozporządzenia o ochronie danych (RODO), przetwarzanych w związku z korzystaniem z tej strony internetowej, jest Quality Build & Management Sp. z o.o., Plac Przyjaźni 18/12, 69-100 Słubice, Polska (NIP: 5981661547, REGON: 54288397100000). Możesz skontaktować się z nami e-mailem pod adresem info@quality-b.com lub telefonicznie pod numerem +49 (0) 151 270 39 320. We wszystkich sprawach dotyczących ochrony danych osobowych i ich przetwarzania jesteśmy dostępni za pośrednictwem powyższych kanałów kontaktu."
+      },
+      "s2": {
+        "title": "2. Informacje ogólne i szyfrowanie",
+        "text": "Ochronę danych osobowych traktujemy bardzo poważnie i przetwarzamy je z zachowaniem poufności, zgodnie z przepisami o ochronie danych oraz niniejszą polityką prywatności. Korzystanie z naszej strony jest możliwe bez podawania danych osobowych; dane przetwarzamy tylko w zakresie niezbędnym technicznie lub wtedy, gdy przekazujesz je nam dobrowolnie, na przykład za pośrednictwem formularza kontaktowego. W celu ochrony przesyłanych treści strona korzysta z szyfrowania TLS/SSL. Szyfrowane połączenie rozpoznasz po tym, że adres w pasku przeglądarki zaczyna się od \"https://\" i widoczna jest ikona kłódki; przy aktywnym szyfrowaniu dane przekazywane do nas nie mogą być w prosty sposób odczytane przez osoby trzecie."
+      },
+      "s3": {
+        "title": "3. Hosting i logi serwera",
+        "text": "Strona jest utrzymywana przez zewnętrznego dostawcę hostingu. Podczas wyświetlania stron dostawca automatycznie przetwarza dane niezbędne ze względów technicznych w tzw. logach serwera, w szczególności adres IP urządzenia, datę i godzinę wejścia oraz używaną przeglądarkę i system operacyjny (user agent). Przetwarzanie to służy wyłącznie zapewnieniu niezawodnego i bezpiecznego działania strony i odbywa się na podstawie naszego prawnie uzasadnionego interesu zgodnie z art. 6 ust. 1 lit. f RODO. Dane z logów nie są łączone z innymi źródłami danych ani wykorzystywane do identyfikacji poszczególnych odwiedzających."
+      },
+      "s4": {
+        "title": "4. Formularze kontaktowe i zapytania",
+        "text": "Gdy wysyłasz do nas zapytanie przez jeden z formularzy na tej stronie, przetwarzamy podane w nim dane: imię i nazwisko, numer telefonu, adres e-mail, wybraną usługę, ewentualny preferowany termin oraz treść wiadomości. Aby zapewnić szybką obsługę, zapytanie jest przekazywane do naszego zespołu za pośrednictwem komunikatora Telegram (Telegram FZ-LLC); Telegram jest tym samym odbiorcą tych danych, a przetwarzania poza UE lub EOG nie można w tym zakresie wykluczyć. Podstawą prawną przetwarzania jest art. 6 ust. 1 lit. b RODO (działania podejmowane na Twoje żądanie przed zawarciem umowy) oraz art. 6 ust. 1 lit. f RODO (nasz prawnie uzasadniony interes polegający na sprawnej komunikacji z klientami)."
+      },
+      "s5": {
+        "title": "5. Cele i podstawy prawne przetwarzania",
+        "text": "Podsumowując, dane osobowe przetwarzamy wyłącznie w celu zapewnienia technicznego działania i bezpieczeństwa strony (art. 6 ust. 1 lit. f RODO), udzielania odpowiedzi na zapytania i podejmowania działań przed zawarciem umowy, takich jak konsultacje, umawianie terminów czy przygotowanie oferty (art. 6 ust. 1 lit. b RODO), a także w celu sprawnej komunikacji w ramach naszego prawnie uzasadnionego interesu (art. 6 ust. 1 lit. f RODO). Nie przetwarzamy danych w innych celach; gdyby w przyszłości okazało się to konieczne, poinformujemy Cię o tym z wyprzedzeniem i w razie potrzeby poprosimy o zgodę."
+      },
+      "s6": {
+        "title": "6. Okres przechowywania danych",
+        "text": "Dane osobowe przechowujemy tylko tak długo, jak jest to niezbędne do obsługi Twojej sprawy. Dane z zapytań usuwamy, gdy korespondencja zostanie zakończona i nie należy spodziewać się dalszych pytań, chyba że przepisy prawa – na przykład podatkowe lub rachunkowe – nakładają na nas obowiązek dłuższego przechowywania. W takim przypadku dane są usuwane po upływie odpowiednich terminów."
+      },
+      "s7": {
+        "title": "7. Odbiorcy danych",
+        "text": "Odbiorcami Twoich danych są wyłącznie nasz dostawca hostingu, który odpowiada za techniczne utrzymanie strony, oraz komunikator Telegram jako kanał przekazywania zapytań z formularzy do naszego zespołu. Nie przekazujemy danych podmiotom trzecim w celach reklamowych, nie sprzedajemy danych osobowych, a innym podmiotom udostępniamy je tylko wtedy, gdy wymagają tego od nas przepisy prawa."
+      },
+      "s8": {
+        "title": "8. Twoje prawa",
+        "text": "Przysługuje Ci prawo dostępu do danych osobowych, które przechowujemy na Twój temat (art. 15 RODO), prawo do sprostowania nieprawidłowych danych (art. 16 RODO), usunięcia danych (art. 17 RODO), ograniczenia przetwarzania (art. 18 RODO), przenoszenia danych (art. 20 RODO) oraz prawo wniesienia sprzeciwu wobec przetwarzania (art. 21 RODO). Udzieloną zgodę możesz w każdej chwili wycofać ze skutkiem na przyszłość (art. 7 ust. 3 RODO). Aby skorzystać ze swoich praw, wystarczy przesłać wiadomość e-mail na adres info@quality-b.com."
+      },
+      "s9": {
+        "title": "9. Prawo wniesienia skargi",
+        "text": "Jeżeli uważasz, że przetwarzanie Twoich danych osobowych narusza RODO, masz prawo wnieść skargę do organu nadzorczego ds. ochrony danych, w szczególności w państwie członkowskim swojego zwykłego pobytu, miejsca pracy lub miejsca domniemanego naruszenia. Organem właściwym dla nas jako administratora z siedzibą w Polsce jest Prezes Urzędu Ochrony Danych Osobowych (UODO) z siedzibą w Warszawie."
+      },
+      "s10": {
+        "title": "10. Pliki cookie, analityka i aktualność polityki",
+        "text": "Strona nie korzysta ze śledzących ani marketingowych plików cookie, nie stosuje też narzędzi analitycznych ani reklamowych; wykorzystywane są wyłącznie funkcje niezbędne technicznie do wyświetlania stron i wysyłania zapytań z formularzy. Z tego powodu baner zgody na pliki cookie nie jest wymagany. Zastrzegamy sobie prawo do aktualizacji niniejszej polityki prywatności w razie zmiany przepisów lub funkcji strony; obowiązuje każdorazowo aktualna wersja opublikowana na tej stronie."
+      }
+    }
+  },
+  "notFound": {
+    "title": "Nie znaleziono strony",
+    "description": "Strona, której szukasz, nie istnieje lub została przeniesiona.",
+    "backHome": "Powrót do strony głównej"
+  }
+}

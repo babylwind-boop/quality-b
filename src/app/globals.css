@@ -1,0 +1,223 @@
+@import 'tailwindcss';
+
+/* ──────────────────────── Quality Build design tokens ────────────────────────
+   Identity preserved from the original site: neutral cool dark gray + flat
+   bronze (#A98B56 buttons, #906E49 Elementor kit primary), white headings,
+   rectangular controls. Refreshed, not reinvented. */
+
+@theme {
+  /* Ink — deep neutral dark backgrounds (original site: #1a1a1a / #313131 kit) */
+  --color-ink-950: #121212;
+  --color-ink-900: #1a1a1a;
+  --color-ink-850: #202020;
+  --color-ink-800: #282828;
+  --color-ink-700: #363636;
+
+  /* Bronze — brand (original flat button tone #A98B56) */
+  --color-bronze-200: #e3cfa8;
+  --color-bronze-300: #d0b586;
+  --color-bronze-400: #bc9d68;
+  --color-bronze-500: #a98b56;
+  --color-bronze-600: #906e49;
+  --color-bronze-700: #6f5638;
+  --color-bronze-800: #533f29;
+
+  /* Sand — neutral typography on dark (original white/gray text) */
+  --color-sand-50: #f7f7f7;
+  --color-sand-100: #ececec;
+  --color-sand-300: #c9c9c9;
+  --color-sand-400: #9b9b9b;
+  --color-sand-500: #767676;
+
+  --font-display: var(--font-display-stack);
+  --font-body: var(--font-body-stack);
+
+  --ease-luxe: cubic-bezier(0.22, 1, 0.36, 1);
+
+  --animate-marquee: marquee 42s linear infinite;
+  --animate-fade-up: fade-up 0.9s var(--ease-luxe) both;
+  --animate-shimmer: shimmer 2.8s var(--ease-luxe) infinite;
+
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+  @keyframes fade-up {
+    from { opacity: 0; transform: translateY(28px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes shimmer {
+    0% { background-position: -200% center; }
+    100% { background-position: 200% center; }
+  }
+}
+
+:root {
+  --font-display-stack: var(--font-oswald), 'Oswald', 'Arial Narrow', sans-serif;
+  --font-body-stack: var(--font-roboto), 'Roboto', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  /* Header height used for scroll offsets */
+  --header-h: 4.5rem;
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --header-h: 5.25rem;
+  }
+}
+
+/* Prevent iOS Safari from auto-zooming when a field is focused: any control
+   under 16px triggers it, so floor all form controls at 16px on small screens. */
+@media (max-width: 639px) {
+  input,
+  select,
+  textarea {
+    font-size: 16px;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--header-h) + 1rem);
+  -webkit-text-size-adjust: 100%;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  background-color: var(--color-ink-900);
+  color: var(--color-sand-50);
+  font-family: var(--font-body-stack);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+  /* Long German compounds must never overflow at 360px */
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+input,
+select,
+textarea {
+  color-scheme: dark;
+}
+
+::selection {
+  background-color: rgb(169 139 86 / 0.35);
+  color: var(--color-sand-50);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-bronze-400);
+  outline-offset: 2px;
+}
+
+/* Branded slim scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-bronze-700) var(--color-ink-950);
+}
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-ink-950);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-bronze-700);
+  border-radius: 8px;
+  border: 2px solid var(--color-ink-950);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-bronze-600);
+}
+
+/* ── Premium utilities ─────────────────────────────────────────────── */
+
+/* Flat bronze accent for single highlighted words in display headings
+   (the original site used flat colors — no gradients). */
+.text-bronze-sheen {
+  color: var(--color-bronze-400);
+}
+
+/* Frosted-glass surface for cards/nav that sit over imagery or video.
+   Solid fallback first for browsers without backdrop-filter. */
+.glass {
+  background-color: rgb(18 18 18 / 0.92);
+  border: 1px solid rgb(247 247 247 / 0.1);
+}
+@supports (backdrop-filter: blur(1px)) {
+  .glass {
+    background-color: rgb(18 18 18 / 0.55);
+    backdrop-filter: blur(16px) saturate(1.4);
+    -webkit-backdrop-filter: blur(16px) saturate(1.4);
+  }
+}
+
+/* Matte glass card over section imagery: semi-transparent with a LIGHT blur
+   (8px — half the cost of .glass) and no saturation boost, so a row of cards
+   stays cheap to composite while the photo shows through. */
+.glass-card {
+  background-color: rgb(16 18 20 / 0.9);
+  border: 1px solid rgb(247 247 247 / 0.08);
+}
+@supports (backdrop-filter: blur(1px)) {
+  .glass-card {
+    background-color: rgb(16 18 20 / 0.62);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+}
+
+/* Lighter glass for chips/badges on media. */
+.glass-soft {
+  background-color: rgb(18 18 18 / 0.8);
+  border: 1px solid rgb(247 247 247 / 0.14);
+}
+@supports (backdrop-filter: blur(1px)) {
+  .glass-soft {
+    background-color: rgb(247 247 247 / 0.08);
+    backdrop-filter: blur(10px) saturate(1.3);
+    -webkit-backdrop-filter: blur(10px) saturate(1.3);
+  }
+}
+
+/* Flat dark card on plain dark backgrounds (original site used flat panels;
+   no backdrop-filter — a blur there is invisible but costs a page re-sample
+   on every scroll frame). */
+.card-luxe {
+  background: rgb(32 32 32 / 0.92);
+  border: 1px solid rgb(247 247 247 / 0.08);
+}
+
+.hairline {
+  border-color: rgb(247 247 247 / 0.08);
+}
+
+.tnum {
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
