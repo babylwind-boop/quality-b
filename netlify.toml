@@ -2,10 +2,17 @@
 # The Next.js Runtime handles SSR, API routes, the next-intl middleware and
 # image optimization. It is declared explicitly because auto-detection did not
 # attach it on the first deploy (deploy shipped a bare .next folder → 404s).
-# With runtime v5 the publish directory must NOT be set — the runtime owns it.
+#
+# --webpack: plugin-nextjs 5.15.x cannot bundle the Turbopack-built middleware
+# ("Cannot find module './chunks/[turbopack]_runtime.js'" during Edge Functions
+# bundling), so the Netlify build opts out of Turbopack. Local dev stays fast.
+#
+# publish must stay ".next" — this file overrides whatever the UI has; the
+# plugin rejects a publish dir equal to the repo root.
 
 [build]
-  command = "npm run build"
+  command = "npx next build --webpack"
+  publish = ".next"
 
 [build.environment]
   # Next.js 16 requires Node 20.9+.
