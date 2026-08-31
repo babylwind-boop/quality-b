@@ -1,12 +1,15 @@
 # Netlify configuration for the Quality Build Next.js 16 site.
-# The Next.js Runtime (@netlify/plugin-nextjs) is installed automatically and
-# handles SSR, API routes, next-intl middleware and image optimization — no
-# manual plugin entry needed.
+# The Next.js Runtime handles SSR, API routes, the next-intl middleware and
+# image optimization. It is declared explicitly because auto-detection did not
+# attach it on the first deploy (deploy shipped a bare .next folder → 404s).
+# With runtime v5 the publish directory must NOT be set — the runtime owns it.
 
 [build]
   command = "npm run build"
-  publish = ".next"
 
 [build.environment]
   # Next.js 16 requires Node 20.9+.
   NODE_VERSION = "20"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
