@@ -3,7 +3,7 @@ import { getTranslations } from 'next-intl/server';
 import { Container } from '@/components/ui/Container';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionHeading } from '@/components/ui/SectionHeading';
-import { SkillBars } from '@/components/ui/SkillBars';
+import { SkillGauges } from '@/components/ui/SkillGauges';
 import { QualityMedia } from './QualityMedia';
 import type { Locale } from '@/i18n/routing';
 
@@ -65,7 +65,7 @@ export async function QualityPromise({ locale }: { locale: Locale }) {
               <p className="max-w-prose leading-relaxed text-sand-300">{t('p2')}</p>
             </Reveal>
             <Reveal delay={0.2} className="mt-9">
-              <SkillBars skills={skills} className="max-w-xl" />
+              <SkillGauges skills={skills} className="max-w-xl" />
             </Reveal>
           </div>
 

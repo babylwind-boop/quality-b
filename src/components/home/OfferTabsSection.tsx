@@ -34,15 +34,6 @@ export async function OfferTabsSection({ locale }: { locale: Locale }) {
       image: '/images/restaurierung-work.jpg',
       icon: 'repair',
     },
-    {
-      key: 'design',
-      label: t('tabs.design.label'),
-      title: t('tabs.design.title'),
-      bullets: (['b1', 'b2', 'b3'] as const).map((k) => t(`tabs.design.bullets.${k}`)),
-      cta: { label: t('tabs.design.cta'), lead: true },
-      image: '/images/planning.jpg',
-      icon: 'design',
-    },
   ];
 
   return (

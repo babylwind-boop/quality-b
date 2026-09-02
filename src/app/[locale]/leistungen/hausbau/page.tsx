@@ -7,7 +7,7 @@ import { JsonLd, serviceJsonLd } from '@/components/seo/JsonLd';
 import { Container } from '@/components/ui/Container';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { Reveal, RevealItem } from '@/components/ui/Reveal';
-import { SkillBars } from '@/components/ui/SkillBars';
+import { SkillGauges } from '@/components/ui/SkillGauges';
 import { StatCounter } from '@/components/ui/StatCounter';
 import { DrawIcon } from '@/components/ui/DrawIcon';
 import { IllustratedSteps } from '@/components/ui/IllustratedSteps';
@@ -137,7 +137,7 @@ export default async function HausbauPage({ params }: Props) {
                 <p className="max-w-2xl leading-relaxed text-sand-400">
                   {t('approach.text')}
                 </p>
-                <SkillBars skills={skills} className="mt-10 max-w-xl" />
+                <SkillGauges skills={skills} className="mt-10 max-w-xl" />
                 <div className="mt-10">
                   <LeadCtaButton
                     label={tService('requestCta')}

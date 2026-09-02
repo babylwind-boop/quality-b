@@ -21,7 +21,7 @@
       "description": "Kompleksowe remonty wnętrz: od projektu, przez kuchnię i łazienkę, po oddanie pod klucz. Stała cena, dotrzymane terminy, gwarancja."
     },
     "restaurierung": {
-      "title": "Renowacja budynków — fachowa odnowa na lata",
+      "title": "Remont kapitalny — fachowa odnowa budynku na lata",
       "description": "Fachowa renowacja domów i budynków zabytkowych: profesjonalna ocena stanu, właściwie dobrane materiały, trwałe efekty."
     },
     "garten": {
@@ -53,7 +53,7 @@
       "hausbau": "Budowa domów",
       "fassadenarbeiten": "Prace elewacyjne",
       "innenrenovierung": "Remonty wnętrz",
-      "restaurierung": "Renowacja",
+      "restaurierung": "Remont kapitalny",
       "garten": "Ogrody i architektura krajobrazu"
     },
     "projects": "Projekty",
@@ -81,14 +81,14 @@
   },
   "hero": {
     "kicker": "Quality Build & Management",
-    "title1": "Niezwykły",
-    "title2": "design",
-    "subtitle": "Budujemy, remontujemy i projektujemy — rozwiązania na każdy budżet, dopasowane do Twoich potrzeb i wyobrażeń.",
+    "title1": "Solidne budownictwo",
+    "title2": "od A do Z",
+    "subtitle": "Budowa domów pod klucz, remonty kapitalne i elewacje — kompleksowe rozwiązania, jeden partner, stała cena i dotrzymane terminy.",
     "points": {
-      "p1": "Nowoczesne, wyraziste style i funkcjonalny design",
-      "p2": "Przemyślane planowanie i projektowanie",
-      "p3": "Bezpłatny dobór wariantów budowy lub remontu",
-      "p4": "Wizualizacja 3D z możliwością zmian przed startem budowy"
+      "p1": "Kompleksowo: projekt, budowa i wykończenie w jednych rękach",
+      "p2": "Wieloetapowa kontrola jakości na każdym etapie budowy",
+      "p3": "Przejrzyste stałe ceny bez renegocjacji",
+      "p4": "Energooszczędne, trwałe materiały i technologie"
     },
     "ctaPrimary": "Bezpłatna profesjonalna konsultacja",
     "ctaSecondary": "Nasze usługi",
@@ -118,7 +118,7 @@
         "description": "Budujemy domy w różnych stylach, o różnej skali złożoności i na różne budżety."
       },
       "restaurierung": {
-        "title": "Renowacja domu",
+        "title": "Remont kapitalny",
         "description": "Przywracamy budynkom dawny wygląd i wydłużamy ich żywotność."
       },
       "innenrenovierung": {
@@ -226,16 +226,6 @@
           "b3": "Dobór wariantów według budżetu i oczekiwań"
         },
         "cta": "Więcej o remontach"
-      },
-      "design": {
-        "label": "Design",
-        "title": "Niezwykły design",
-        "bullets": {
-          "b1": "Nowoczesne, wyraziste style i funkcjonalny design",
-          "b2": "Swobodny wybór wariantów remontu lub budowy",
-          "b3": "Wizualizacja 3D i korekty przed startem budowy"
-        },
-        "cta": "Bezpłatna profesjonalna konsultacja"
       }
     }
   },
@@ -426,7 +416,7 @@
         "description": "Kompleksowy remont kuchni, łazienki i pokoi — pod klucz."
       },
       "restaurierung": {
-        "title": "Renowacja",
+        "title": "Remont kapitalny",
         "description": "Fachowa odnowa budynków — od domu mieszkalnego po obiekt zabytkowy."
       },
       "garten": {
@@ -874,7 +864,7 @@
   "restaurierung": {
     "hero": {
       "kicker": "Usługa 04",
-      "title": "Renowacja domu",
+      "title": "Remont kapitalny",
       "subtitle": "Przywracamy budynkom dawny charakter — i wydłużamy ich żywotność o dziesięciolecia."
     },
     "intro": {
@@ -1089,7 +1079,7 @@
     "sections": {
       "s1": {
         "title": "1. Administrator danych",
-        "text": "Administratorem danych osobowych w rozumieniu ogólnego rozporządzenia o ochronie danych (RODO), przetwarzanych w związku z korzystaniem z tej strony internetowej, jest Quality Build & Management Sp. z o.o., Plac Przyjaźni 18/12, 69-100 Słubice, Polska (NIP: 5981661547, REGON: 54288397100000). Możesz skontaktować się z nami e-mailem pod adresem info@quality-b.com lub telefonicznie pod numerem +49 (0) 151 270 39 320. We wszystkich sprawach dotyczących ochrony danych osobowych i ich przetwarzania jesteśmy dostępni za pośrednictwem powyższych kanałów kontaktu."
+        "text": "Administratorem danych osobowych w rozumieniu ogólnego rozporządzenia o ochronie danych (RODO), przetwarzanych w związku z korzystaniem z tej strony internetowej, jest Quality Build & Management Sp. z o.o., Plac Przyjaźni 18/12, 69-100 Słubice, Polska (NIP: 5981661547, REGON: 54288397100000). Możesz skontaktować się z nami e-mailem pod adresem info@quality-b.com lub telefonicznie pod numerem +49 152 372 284 36. We wszystkich sprawach dotyczących ochrony danych osobowych i ich przetwarzania jesteśmy dostępni za pośrednictwem powyższych kanałów kontaktu."
       },
       "s2": {
         "title": "2. Informacje ogólne i szyfrowanie",

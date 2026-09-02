@@ -7,9 +7,9 @@ export const site = {
   domain: 'quality-b.com',
   url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://quality-b.com',
   email: 'info@quality-b.com',
-  phones: ['+49 (0) 151 270 39 320'],
-  phoneHref: '+4915127039320',
-  whatsapp: 'https://wa.me/4915127039320',
+  phones: ['+49 152 372 284 36'],
+  phoneHref: '+4915237228436',
+  whatsapp: 'https://wa.me/4915237228436',
   address: {
     company: 'Quality Build & Management Sp. z o.o.',
     street: 'Plac Przyjaźni 18/12',

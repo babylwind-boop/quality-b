@@ -14,7 +14,7 @@ const EASE = [0.22, 1, 0.36, 1] as const;
 const linkButtonClasses =
   'inline-flex min-h-12 cursor-pointer items-center justify-center gap-2.5 bg-bronze-500 px-8 py-3 text-[0.82rem] font-bold tracking-[0.12em] uppercase underline underline-offset-4 decoration-1 text-ink-950 transition-colors duration-300 select-none hover:bg-bronze-400';
 
-export type OfferIconKind = 'construction' | 'repair' | 'design';
+export type OfferIconKind = 'construction' | 'repair';
 
 export interface OfferTab {
   key: string;
@@ -41,12 +41,6 @@ const ICON_PATHS: Record<OfferIconKind, string[]> = {
     'M36 22 v9', // stem
     'M32 31 h8 v9 h-8 Z', // grip
     'M9 26 h8 M9 32 h12 M9 38 h6', // fresh strokes on the wall
-  ],
-  design: [
-    'M24 8 L13 40', // compass leg A
-    'M24 8 L35 40', // compass leg B
-    'M24 5 a3.2 3.2 0 1 1 -0.1 0', // hinge
-    'M16 32 A 13.5 13.5 0 0 0 32 32', // drawn arc
   ],
 };
 

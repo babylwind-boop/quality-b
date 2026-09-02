@@ -7,7 +7,7 @@ export const SERVICES = [
   { key: 'hausbau', href: '/leistungen/hausbau' },
   { key: 'fassadenarbeiten', href: '/leistungen/fassadenarbeiten' },
   { key: 'innenrenovierung', href: '/leistungen/innenrenovierung' },
-  { key: 'restaurierung', href: '/leistungen/restaurierung' },
+  { key: 'restaurierung', href: '/leistungen/kernsanierung' },
   { key: 'garten', href: '/leistungen/garten-landschaftsbau' },
 ] as const;
 

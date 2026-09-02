@@ -15,7 +15,7 @@ import { ContactCta } from '@/components/home/ContactCta';
 import { LeadCtaButton } from '@/components/lead/LeadCtaButton';
 import { BuildingProblems } from '@/components/services/restaurierung/BuildingProblems';
 
-const PATH = '/leistungen/restaurierung';
+const PATH = '/leistungen/kernsanierung';
 const HERO_IMAGE = '/images/service-restaurierung.jpg';
 
 type Props = { params: Promise<{ locale: string }> };

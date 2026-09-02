@@ -7,7 +7,7 @@ import { STROKE_ICONS } from '@/lib/icon-strokes';
 import { Container } from '@/components/ui/Container';
 import { Reveal, RevealItem } from '@/components/ui/Reveal';
 import { SectionHeading } from '@/components/ui/SectionHeading';
-import { SkillBars } from '@/components/ui/SkillBars';
+import { SkillGauges } from '@/components/ui/SkillGauges';
 import { DrawIcon } from '@/components/ui/DrawIcon';
 import { JsonLd, serviceJsonLd } from '@/components/seo/JsonLd';
 import { ServiceHero } from '@/components/services/ServiceHero';
@@ -143,7 +143,7 @@ export default async function InnenrenovierungPage({ params }: Props) {
               </Reveal>
             </div>
             <Reveal delay={0.15} className="card-luxe rounded-sm p-7 sm:p-9">
-              <SkillBars skills={skills} />
+              <SkillGauges skills={skills} />
             </Reveal>
           </div>
         </Container>

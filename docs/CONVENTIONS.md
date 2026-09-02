@@ -101,8 +101,8 @@ no decorative glows, no grain.
 
 - `@/components/ui/Breadcrumbs` — server; `{locale: Locale, items: {name: string; path: string}[]}` —
   renders visual trail + BreadcrumbList JSON-LD. Last item = current page (not a link).
-- `@/components/ui/SkillBars` — client; `{skills: {label: string; value: number}[]; className?}` —
-  animated bronze progress bars (animate width scaleX on in-view, value counts up, tnum).
+- `@/components/ui/SkillGauges` — client; `{skills: {label: string; value: number}[]; className?}` —
+  animated bronze ring gauges (arc draws to value on in-view, dot rides the arc tip, count-up, tnum).
 - `@/components/ui/StatCounter` — client; `{value: string; label: string; className?}` — counts up the
   numeric part of `value` (e.g. "150+") when in view; large display digits.
 - `@/components/ui/ProcessSteps` — client; `{steps: {title: string; text: string}[]; className?}` —

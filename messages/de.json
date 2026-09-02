@@ -2,11 +2,11 @@
   "meta": {
     "home": {
       "title": "Quality Build & Management — Bauunternehmen für Hausbau & Renovierung",
-      "description": "Hausbau, Fassadenarbeiten, Renovierung, Restaurierung und Gartengestaltung aus einer Hand. Qualität in jeder Phase — transparent, termintreu, mit Garantie."
+      "description": "Hausbau, Fassadenarbeiten, Renovierung, Kernsanierung und Gartengestaltung aus einer Hand. Qualität in jeder Phase — transparent, termintreu, mit Garantie."
     },
     "services": {
       "title": "Leistungen — Hausbau, Fassade, Renovierung & mehr",
-      "description": "Unser Leistungsspektrum: Bau von Häusern, Fassadenarbeiten, Innenrenovierung, Restaurierung sowie Garten- & Landschaftsbau. Alles aus einer Hand."
+      "description": "Unser Leistungsspektrum: Bau von Häusern, Fassadenarbeiten, Innenrenovierung, Kernsanierung sowie Garten- & Landschaftsbau. Alles aus einer Hand."
     },
     "hausbau": {
       "title": "Bau von Häusern — schlüsselfertig in jedem Stil",
@@ -21,8 +21,8 @@
       "description": "Komplette Innenrenovierung: von der Planung über Küche und Bad bis zur schlüsselfertigen Übergabe. Festpreis, Termintreue, Garantie."
     },
     "restaurierung": {
-      "title": "Restaurierung — Gebäude fachgerecht sanieren",
-      "description": "Fachgerechte Restaurierung von Häusern und historischen Gebäuden: professionelle Bewertung, passende Materialien, dauerhafte Ergebnisse."
+      "title": "Kernsanierung — Gebäude fachgerecht sanieren",
+      "description": "Fachgerechte Kernsanierung von Häusern und historischen Gebäuden: professionelle Bewertung, passende Materialien, dauerhafte Ergebnisse."
     },
     "garten": {
       "title": "Garten- & Landschaftsbau — Außenanlagen mit System",
@@ -53,7 +53,7 @@
       "hausbau": "Bau von Häusern",
       "fassadenarbeiten": "Fassadenarbeiten",
       "innenrenovierung": "Innenrenovierung",
-      "restaurierung": "Restaurierung",
+      "restaurierung": "Kernsanierung",
       "garten": "Garten & Landschaftsbau"
     },
     "projects": "Projekte",
@@ -81,14 +81,14 @@
   },
   "hero": {
     "kicker": "Quality Build & Management",
-    "title1": "Unglaubliches",
-    "title2": "Design",
-    "subtitle": "Wir bauen, sanieren und gestalten — Lösungen für jedes Budget, individuell auf Ihre Wünsche zugeschnitten.",
+    "title1": "Qualitätsbau",
+    "title2": "aus einer Hand",
+    "subtitle": "Schlüsselfertiger Hausbau, Kernsanierung und Fassade — komplexe Lösungen mit einem Ansprechpartner, Festpreis und Termintreue.",
     "points": {
-      "p1": "Moderne, einzigartige Stile und praktisches Design",
-      "p2": "Intelligente Planung und Projektierung",
-      "p3": "Kostenlose Auswahl von Varianten für Neubau oder Renovierung",
-      "p4": "3D-Visualisierung mit Anpassungen vor Baubeginn"
+      "p1": "Komplettlösungen: Planung, Bau und Ausbau aus einer Hand",
+      "p2": "Mehrstufige Qualitätskontrolle in jeder Bauphase",
+      "p3": "Transparente Festpreise ohne Nachverhandlung",
+      "p4": "Energieeffiziente, langlebige Materialien und Technik"
     },
     "ctaPrimary": "Kostenlose, professionelle Beratung",
     "ctaSecondary": "Unsere Leistungen",
@@ -118,7 +118,7 @@
         "description": "Bau von Häusern verschiedener Stilrichtungen, Komplexität und Preisklassen."
       },
       "restaurierung": {
-        "title": "Restaurierung des Hauses",
+        "title": "Kernsanierung",
         "description": "Wiederherstellung des Aussehens des Gebäudes und Verlängerung seiner Lebensdauer."
       },
       "innenrenovierung": {
@@ -226,16 +226,6 @@
           "b3": "Auswahl der Optionen nach Budget und Wünschen"
         },
         "cta": "Mehr über die Renovierung"
-      },
-      "design": {
-        "label": "Design",
-        "title": "Unglaubliches Design",
-        "bullets": {
-          "b1": "Moderne, einzigartige Stile und praktisches Design",
-          "b2": "Freie Wahl der Varianten für Renovierung oder Neubau",
-          "b3": "3D-Visualisierung und Anpassung vor Baubeginn"
-        },
-        "cta": "Kostenlose, professionelle Beratung"
       }
     }
   },
@@ -300,7 +290,7 @@
     "orCall": "Oder rufen Sie uns direkt an:"
   },
   "footer": {
-    "tagline": "Bauunternehmen für Hausbau, Renovierung, Restaurierung und Außenanlagen — Qualität in jeder Phase.",
+    "tagline": "Bauunternehmen für Hausbau, Renovierung, Kernsanierung und Außenanlagen — Qualität in jeder Phase.",
     "copyright": "Alle Rechte vorbehalten.",
     "privacyPolicy": "Datenschutzerklärung"
   },
@@ -426,7 +416,7 @@
         "description": "Komplette Renovierung von Küche, Bad und Wohnräumen — schlüsselfertig."
       },
       "restaurierung": {
-        "title": "Restaurierung",
+        "title": "Kernsanierung",
         "description": "Fachgerechte Sanierung — vom Wohnhaus bis zum historischen Gebäude."
       },
       "garten": {
@@ -874,22 +864,22 @@
   "restaurierung": {
     "hero": {
       "kicker": "Leistung 04",
-      "title": "Restaurierung des Hauses",
+      "title": "Kernsanierung",
       "subtitle": "Wir geben Gebäuden ihr Gesicht zurück — und verlängern ihre Lebensdauer um Jahrzehnte."
     },
     "intro": {
-      "kicker": "Was ist Restaurierung?",
+      "kicker": "Was ist Kernsanierung?",
       "title": "Wann und für wen ist sie nötig?",
-      "p1": "Unter Restaurierung versteht man die Wiederherstellung eines Gebäudes und die Verlängerung seines komfortablen Betriebs über einen langen Zeitraum.",
+      "p1": "Unter Kernsanierung versteht man die Wiederherstellung eines Gebäudes und die Verlängerung seines komfortablen Betriebs über einen langen Zeitraum.",
       "question": "Woher weiß man, ob ein Gebäude saniert werden muss?",
       "p2": "Nichtfachleute können das oft nicht selbst feststellen — die meisten sagen: „Ein kleiner Riss an der Fassade ist kein Problem, das hält schon.“ In manchen Fällen können jedoch selbst kleine Risse und eindringende Feuchtigkeit kritisch sein und zu ernsthaften Schäden führen — je nach Materialien und Konstruktion des Gebäudes.",
       "p3": "Die einfachste Lösung: Machen Sie detaillierte Fotos des Hauses und der Problembereiche und senden Sie sie uns für eine erste Einschätzung. Sie erhalten Empfehlungen zur Pflege und verstehen die Situation — dieser Service ist bei uns kostenlos."
     },
     "problems": {
-      "title": "Häufige Probleme bei der Restaurierung — und ihre Folgen",
+      "title": "Häufige Probleme bei der Kernsanierung — und ihre Folgen",
       "items": {
         "p1": {
-          "title": "Restaurierung in Eigenregie",
+          "title": "Kernsanierung in Eigenregie",
           "text": "Ohne geeignete Werkzeuge, Kenntnisse und Erfahrung verschlechtert sich der Zustand des Gebäudes oft. Unprofessionelle Lösungen verschleiern das Problem nur und verschlimmern es — was in der Zukunft zu erheblichen Kosten führt."
         },
         "p2": {
@@ -902,7 +892,7 @@
         },
         "p4": {
           "title": "Verlust des ursprünglichen Erscheinungsbildes",
-          "text": "Ein auf den ersten Blick unbedeutender, aber häufiger Fehler: Farben, Technologien und Materialien verändern das Aussehen des Gebäudes erheblich. Nach der Restaurierung wirkt das Gebäude schlechter, weil der einheitliche Stil verloren geht."
+          "text": "Ein auf den ersten Blick unbedeutender, aber häufiger Fehler: Farben, Technologien und Materialien verändern das Aussehen des Gebäudes erheblich. Nach der Kernsanierung wirkt das Gebäude schlechter, weil der einheitliche Stil verloren geht."
         }
       },
       "hint": "Tippen Sie die markierten Stellen am Gebäude an"
@@ -924,7 +914,7 @@
         },
         "a4": {
           "title": "Definierte Technologie",
-          "text": "Vor Beginn bestimmen wir per Materialvergleich die Technologie und Tiefe des Restaurierungsprozesses — von der Farbbeständigkeit bis zum Verhalten der restaurierten Bereiche im Laufe der Zeit."
+          "text": "Vor Beginn bestimmen wir per Materialvergleich die Technologie und Tiefe des Kernsanierungsprozesses — von der Farbbeständigkeit bis zum Verhalten der sanierten Bereiche im Laufe der Zeit."
         }
       }
     },
@@ -934,7 +924,7 @@
       "cta": "Kostenlose Beratung anfordern"
     },
     "benefits": {
-      "title": "Was eine professionelle Restaurierung leistet",
+      "title": "Was eine professionelle Kernsanierung leistet",
       "items": {
         "b1": {
           "title": "Durchdachte Erneuerung",
@@ -950,7 +940,7 @@
         },
         "b4": {
           "title": "Investition",
-          "text": "Ein rechtzeitig restauriertes Gebäude verliert nicht an Wert: Eine fachgerechte Restaurierung steigert ihn und deckt die Kosten um ein Vielfaches."
+          "text": "Ein rechtzeitig kernsaniertes Gebäude verliert nicht an Wert: Eine fachgerechte Kernsanierung steigert ihn und deckt die Kosten um ein Vielfaches."
         },
         "b5": {
           "title": "Substanz statt Kosmetik",
@@ -958,7 +948,7 @@
         },
         "b6": {
           "title": "Erbe bewahren",
-          "text": "Wir restaurieren auch historische Gebäude und wertvolles Kulturgut — bis sie wieder so dastehen wie unmittelbar nach ihrer Fertigstellung."
+          "text": "Wir sanieren auch historische Gebäude und wertvolles Kulturgut — bis sie wieder so dastehen wie unmittelbar nach ihrer Fertigstellung."
         }
       }
     }
@@ -1089,7 +1079,7 @@
     "sections": {
       "s1": {
         "title": "1. Verantwortlicher",
-        "text": "Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) für die Verarbeitung personenbezogener Daten auf dieser Website ist die Quality Build & Management Sp. z o.o., Plac Przyjaźni 18/12, 69-100 Słubice, Polen (NIP: 5981661547, REGON: 54288397100000). Sie erreichen uns per E-Mail unter info@quality-b.com sowie telefonisch unter +49 (0) 151 270 39 320. Bei allen Fragen zum Datenschutz und zur Verarbeitung Ihrer personenbezogenen Daten können Sie sich jederzeit über diese Kontaktwege an uns wenden."
+        "text": "Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) für die Verarbeitung personenbezogener Daten auf dieser Website ist die Quality Build & Management Sp. z o.o., Plac Przyjaźni 18/12, 69-100 Słubice, Polen (NIP: 5981661547, REGON: 54288397100000). Sie erreichen uns per E-Mail unter info@quality-b.com sowie telefonisch unter +49 152 372 284 36. Bei allen Fragen zum Datenschutz und zur Verarbeitung Ihrer personenbezogenen Daten können Sie sich jederzeit über diese Kontaktwege an uns wenden."
       },
       "s2": {
         "title": "2. Allgemeine Hinweise und Verschlüsselung",

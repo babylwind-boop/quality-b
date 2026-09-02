@@ -8,7 +8,7 @@ import { JsonLd, serviceJsonLd } from '@/components/seo/JsonLd';
 import { Container } from '@/components/ui/Container';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { Reveal, RevealItem } from '@/components/ui/Reveal';
-import { SkillBars } from '@/components/ui/SkillBars';
+import { SkillGauges } from '@/components/ui/SkillGauges';
 import { IllustratedSteps } from '@/components/ui/IllustratedSteps';
 import { ServiceHero } from '@/components/services/ServiceHero';
 import { OtherServices } from '@/components/services/OtherServices';
@@ -137,7 +137,7 @@ export default async function GartenPage({ params }: Props) {
               </Reveal>
             </div>
             <Reveal delay={0.15} className="card-luxe rounded-sm p-7 sm:p-9 lg:mt-4">
-              <SkillBars skills={skills} />
+              <SkillGauges skills={skills} />
             </Reveal>
           </div>
         </Container>
