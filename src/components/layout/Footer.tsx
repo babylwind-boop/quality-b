@@ -106,6 +106,7 @@ export async function Footer() {
               {(
                 [
                   ['/ueber-uns', tn('about')],
+                  ['/generalunternehmer', tn('partner')],
                   ['/kontakt', tn('contact')],
                 ] as const
               ).map(([href, label]) => (

@@ -6,7 +6,7 @@ import { JsonLd, serviceJsonLd } from '@/components/seo/JsonLd';
 import { Container } from '@/components/ui/Container';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionHeading } from '@/components/ui/SectionHeading';
-import { SkillGauges } from '@/components/ui/SkillGauges';
+import { FacadeScene } from '@/components/services/fassade/FacadeScene';
 import { IllustratedSteps } from '@/components/ui/IllustratedSteps';
 import { ServiceHero } from '@/components/services/ServiceHero';
 import { OtherServices } from '@/components/services/OtherServices';
@@ -19,19 +19,12 @@ import { LeadCtaButton } from '@/components/services/fassade/LeadCtaButton';
 const PATH = '/leistungen/fassadenarbeiten';
 const HERO_IMAGE = '/images/service-fassade-2.jpg';
 
-/** Values mirror `fassade.approach.skills.*` labels in messages. */
-const SKILLS = [
-  ['s1', 100],
-  ['s2', 80],
-  ['s3', 75],
-  ['s4', 83],
-] as const;
-
+/** Wärmedämmung · Putzarbeiten · Beschichtung · Kleinere Reparaturen */
 const WORK_IMAGES: Record<'w1' | 'w2' | 'w3' | 'w4', string> = {
-  w1: '/images/restaurierung-work.jpg',
-  w2: '/images/concrete-work.jpg',
-  w3: '/images/fassade-crane.jpg',
-  w4: '/images/fassade-after.jpg',
+  w1: '/images/fassade-daemmung.jpg',
+  w2: '/images/fassade-putz.jpg',
+  w3: '/images/fassade-beschichtung.jpg',
+  w4: '/images/fassade-reparatur.jpg',
 };
 
 const STEP_ICONS = [
@@ -71,10 +64,12 @@ export default async function FassadenarbeitenPage({ params }: Props) {
     getTranslations({ locale, namespace: 'meta' }),
   ]);
 
-  const skills = SKILLS.map(([key, value]) => ({
-    label: t(`approach.skills.${key}.label`),
-    value,
-  }));
+  const scenePhases: [string, string, string, string] = [
+    t('scene.phases.p1'),
+    t('scene.phases.p2'),
+    t('scene.phases.p3'),
+    t('scene.phases.p4'),
+  ];
 
   const layers = (['l1', 'l2', 'l3', 'l4', 'l5'] as const).map((k) => ({
     label: t(`layers.items.${k}.label`),
@@ -145,8 +140,8 @@ export default async function FassadenarbeitenPage({ params }: Props) {
                 />
               </Reveal>
             </div>
-            <Reveal delay={0.15} className="card-luxe rounded-sm p-8">
-              <SkillGauges skills={skills} />
+            <Reveal delay={0.15} className="card-luxe rounded-sm p-4 sm:p-6">
+              <FacadeScene phaseLabels={scenePhases} />
             </Reveal>
           </div>
         </Container>

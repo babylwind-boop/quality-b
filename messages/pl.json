@@ -43,6 +43,10 @@
     "datenschutz": {
       "title": "Polityka prywatności",
       "description": "Polityka prywatności Quality Build & Management."
+    },
+    "partner": {
+      "title": "Dla generalnych wykonawców — podwykonawca budowy i remontów",
+      "description": "Quality Build jako podwykonawca dla generalnych wykonawców: własne ekipy, stan surowy, elewacje ETICS, wykończenia, remonty kapitalne i zagospodarowanie terenu — warunki do uzgodnienia, w Niemczech i Polsce."
     }
   },
   "nav": {
@@ -62,7 +66,8 @@
     "menu": "Menu",
     "close": "Zamknij",
     "breadcrumbHome": "Strona główna",
-    "skipToContent": "Przejdź do treści"
+    "skipToContent": "Przejdź do treści",
+    "partner": "Generalni wykonawcy"
   },
   "common": {
     "learnMore": "Dowiedz się więcej",
@@ -152,22 +157,19 @@
     "p2": "Proponujemy warianty rozwiązań i realizujemy wszystko terminowo, bez przekraczania budżetu — a przede wszystkim profesjonalnie.",
     "skills": {
       "s1": {
-        "label": "Dobór rozwiązania",
-        "value": 75
+        "label": "Dobór rozwiązania"
       },
       "s2": {
-        "label": "Jakość wykonania",
-        "value": 100
+        "label": "Jakość wykonania"
       },
       "s3": {
-        "label": "Tempo pracy",
-        "value": 80
+        "label": "Tempo pracy"
       },
       "s4": {
-        "label": "Efektywność kosztowa",
-        "value": 90
+        "label": "Efektywność kosztowa"
       }
-    }
+    },
+    "sealText": "Sprawdzone"
   },
   "process": {
     "eyebrow": "Jak pracujemy",
@@ -441,25 +443,7 @@
     },
     "approach": {
       "title": "Nasze podejście do budowy",
-      "text": "Oferujemy szeroki wachlarz wysokiej jakości, unikalnych rozwiązań w budowie domów mieszkalnych i obiektów komercyjnych. Nasze podejście opiera się na najwyższej jakości wykonania na każdym etapie budowy, technologiach energooszczędnych oraz inteligentnych rozwiązaniach pozwalających efektywnie wykorzystać przestrzeń — w połączeniu z architekturą, która przyciąga spojrzenia. Budowa domu z zespołem Quality Build to jakość na każdym etapie współpracy oraz rozsądne, całkowicie przejrzyste koszty.",
-      "skills": {
-        "s1": {
-          "label": "Jakość",
-          "value": 100
-        },
-        "s2": {
-          "label": "Efektywność kosztowa",
-          "value": 90
-        },
-        "s3": {
-          "label": "Tempo pracy",
-          "value": 80
-        },
-        "s4": {
-          "label": "Skuteczność",
-          "value": 77
-        }
-      }
+      "text": "Oferujemy szeroki wachlarz wysokiej jakości, unikalnych rozwiązań w budowie domów mieszkalnych i obiektów komercyjnych. Nasze podejście opiera się na najwyższej jakości wykonania na każdym etapie budowy, technologiach energooszczędnych oraz inteligentnych rozwiązaniach pozwalających efektywnie wykorzystać przestrzeń — w połączeniu z architekturą, która przyciąga spojrzenia. Budowa domu z zespołem Quality Build to jakość na każdym etapie współpracy oraz rozsądne, całkowicie przejrzyste koszty."
     },
     "reasons": {
       "title": "Dlaczego klienci budują z nami",
@@ -607,45 +591,27 @@
     },
     "approach": {
       "title": "Nasze podejście do prac elewacyjnych",
-      "text": "Jakość prac zewnętrznych to jeden z najważniejszych etapów budowy. Wpływa bezpośrednio na efektywność energetyczną i trwałość budynku — nie wspominając o jego wyglądzie. Wysokiej jakości, trwałe prace elewacyjne wymagają doświadczenia, nowoczesnych materiałów i profesjonalnego podejścia do każdego etapu.",
-      "skills": {
-        "s1": {
-          "label": "Jakość",
-          "value": 100
-        },
-        "s2": {
-          "label": "Materiały",
-          "value": 80
-        },
-        "s3": {
-          "label": "Tempo pracy",
-          "value": 75
-        },
-        "s4": {
-          "label": "Efektywność kosztowa",
-          "value": 83
-        }
-      }
+      "text": "Jakość prac zewnętrznych to jeden z najważniejszych etapów budowy. Wpływa bezpośrednio na efektywność energetyczną i trwałość budynku — nie wspominając o jego wyglądzie. Wysokiej jakości, trwałe prace elewacyjne wymagają doświadczenia, nowoczesnych materiałów i profesjonalnego podejścia do każdego etapu."
     },
     "works": {
       "kicker": "Czym się zajmujemy",
       "title": "Główne rodzaje prac",
       "items": {
         "w1": {
-          "title": "Wykończenie ścian",
-          "text": "Ściany czyścimy, szpachlujemy, malujemy i zabezpieczamy dodatkową ochroną przed warunkami atmosferycznymi."
+          "title": "Ocieplenie",
+          "text": "System ociepleń ETICS z płytami EPS lub wełną mineralną, siatką zbrojącą i tynkiem wierzchnim — wyraźnie obniża koszty ogrzewania i chroni mur."
         },
         "w2": {
-          "title": "Ocieplenie",
-          "text": "Od izolacji zewnętrznej i łączonej po wymianę wszystkich elementów wpływających na efektywność energetyczną."
+          "title": "Tynkowanie",
+          "text": "Tynk podkładowy, warstwa zbrojąca i tynk wierzchni (baranek, kornik lub gładki) — równo, bez pęknięć i odpornie na pogodę."
         },
         "w3": {
-          "title": "Pokrycia dachowe",
-          "text": "Dobór materiału pod konkretne wymagania i kompletny montaż — każdy materiał, każda skala, każdy poziom trudności."
+          "title": "Malowanie i powłoki",
+          "text": "Malowanie elewacji farbą silikatową lub silikonową z gruntowaniem i ochroną przed algami — trwały kolor, hydrofobowość, paroprzepuszczalność."
         },
         "w4": {
           "title": "Drobne naprawy",
-          "text": "Odświeżenie powłoki malarskiej, naprawa pęknięć, usuwanie pleśni, wymiana pojedynczych elementów elewacji i więcej."
+          "text": "Zamykanie pęknięć, uzupełnianie odpadniętego tynku, naprawa cokołów i ościeży, usuwanie alg i zabrudzeń."
         }
       }
     },
@@ -672,7 +638,7 @@
     },
     "layers": {
       "kicker": "System ociepleń ETICS",
-      "title": "Jak zbudowana jest ocieplona elewacja",
+      "title": "Jak zbudowana jest elewacja w systemie ETICS (WDVS)",
       "subtitle": "Pięć warstw, które razem trzymają ciepło, odpychają wilgoć i służą przez dziesięciolecia.",
       "hint": "Dotknij warstwy, aby dowiedzieć się więcej",
       "items": {
@@ -718,6 +684,14 @@
       "cta": "Zamów bezpłatną ocenę",
       "hint": "Bez zobowiązań — odpowiedź w ciągu 24 godzin.",
       "contextLabel": "Diagnoza elewacji"
+    },
+    "scene": {
+      "phases": {
+        "p1": "Ocieplenie",
+        "p2": "Tynk",
+        "p3": "Malowanie",
+        "p4": "Gotowe"
+      }
     }
   },
   "innen": {
@@ -728,29 +702,7 @@
     },
     "approach": {
       "title": "Nasze podejście do remontów",
-      "text": "Aby nasi klienci uniknęli trudności, a wszystkie prace przebiegały zgodnie z planem i oczekiwaniami, trzymamy się jasnych zasad: precyzyjnie wyceniamy robociznę i materiały, aby ustalona kwota nie została przekroczona. Poznajemy Twoje wymagania, tworzymy harmonogram prac i informujemy każdego członka zespołu o jego zadaniach. A przede wszystkim organizujemy pracę tak, by przebiegała szybko i w najwyższej możliwej jakości.",
-      "skills": {
-        "s1": {
-          "label": "Dobór zespołu",
-          "value": 80
-        },
-        "s2": {
-          "label": "Wycena prac",
-          "value": 70
-        },
-        "s3": {
-          "label": "Jakość wykonania",
-          "value": 100
-        },
-        "s4": {
-          "label": "Efektywność kosztowa",
-          "value": 75
-        },
-        "s5": {
-          "label": "Projekt i design",
-          "value": 72
-        }
-      }
+      "text": "Aby nasi klienci uniknęli trudności, a wszystkie prace przebiegały zgodnie z planem i oczekiwaniami, trzymamy się jasnych zasad: precyzyjnie wyceniamy robociznę i materiały, aby ustalona kwota nie została przekroczona. Poznajemy Twoje wymagania, tworzymy harmonogram prac i informujemy każdego członka zespołu o jego zadaniach. A przede wszystkim organizujemy pracę tak, by przebiegała szybko i w najwyższej możliwej jakości."
     },
     "styles": {
       "title": "Style wykończenia wnętrz",
@@ -782,7 +734,7 @@
     },
     "services": {
       "kicker": "Czym się zajmujemy",
-      "title": "Pełen zakres usług",
+      "title": "Wszystkie usługi w jednych rękach",
       "items": {
         "l1": {
           "title": "Projekt",
@@ -858,6 +810,14 @@
           "diy": "Za pracę własną nikt nie odpowiada — poprawki płacisz podwójnie.",
           "pro": "Umowne terminy, stała cena i gwarancja na wszystkie prace."
         }
+      }
+    },
+    "scene": {
+      "phases": {
+        "p1": "Demontaż",
+        "p2": "Instalacje",
+        "p3": "Wykończenie",
+        "p4": "Gotowe"
       }
     }
   },
@@ -961,25 +921,7 @@
     },
     "approach": {
       "title": "Nasze podejście do architektury krajobrazu",
-      "text": "Z reguły podejmujemy się zleceń kompleksowych, bo zagospodarowanie działki obejmuje wiele branż. Ważne jest nie tylko samo solidne wykonanie — specjalność Quality Build — lecz także właściwa organizacja procesu: jak zrealizować Twój plan możliwie sprawnie i precyzyjnie?",
-      "skills": {
-        "s1": {
-          "label": "Kompleksowość",
-          "value": 70
-        },
-        "s2": {
-          "label": "Jakość",
-          "value": 90
-        },
-        "s3": {
-          "label": "Tempo pracy",
-          "value": 85
-        },
-        "s4": {
-          "label": "Efektywność kosztowa",
-          "value": 80
-        }
-      }
+      "text": "Z reguły podejmujemy się zleceń kompleksowych, bo zagospodarowanie działki obejmuje wiele branż. Ważne jest nie tylko samo solidne wykonanie — specjalność Quality Build — lecz także właściwa organizacja procesu: jak zrealizować Twój plan możliwie sprawnie i precyzyjnie?"
     },
     "why": {
       "title": "Dlaczego przemyślane otoczenie domu się opłaca",
@@ -1030,8 +972,170 @@
         }
       }
     },
-    "gallery": {
-      "title": "Zrealizowane aranżacje terenu"
+    "scene": {
+      "phases": {
+        "p1": "Projekt",
+        "p2": "Roboty ziemne",
+        "p3": "Nasadzenia",
+        "p4": "Instalacje"
+      }
+    },
+    "blocks": {
+      "stuetzwand": {
+        "kicker": "Mury oporowe",
+        "title": "Mury oporowe, które oswajają skarpy",
+        "text": "Tarasowanie zbocza, zabezpieczenie skarpy czy równe miejsce wypoczynku w ogrodzie: projektujemy i budujemy mury oporowe z fundamentem, drenażem i zasypką zgodnie z wymaganiami statycznymi — trwale stabilne i dopasowane do domu.",
+        "facts": {
+          "f1": "Statyka i posadowienie według warunków gruntowych",
+          "f2": "Drenaż i zasypka przeciw naporowi wody",
+          "f3": "Materiały od betonu architektonicznego po kamień naturalny"
+        },
+        "hint": "Wybierz typ muru",
+        "cta": "Zapytaj o mur oporowy",
+        "types": {
+          "winkel": {
+            "label": "Ściana kątowa z betonu",
+            "text": "Prefabrykowane elementy L lub beton wylewany: smukłe, bardzo nośne, idealne przy dużych różnicach poziomów i wjazdach."
+          },
+          "naturstein": {
+            "label": "Mur z kamienia naturalnego",
+            "text": "Suchy lub na zaprawie z piaskowca, granitu lub wapienia — żywe fugi, siedlisko dla roślin."
+          },
+          "gabionen": {
+            "label": "Gabiony",
+            "text": "Kosze z drutu wypełnione kamieniem łamanym: szybkie w budowie, przepuszczalne, nowoczesne w wyrazie."
+          },
+          "pflanzsteine": {
+            "label": "Pierścienie roślinne",
+            "text": "Stopniowane betonowe pierścienie z roślinami: miękkie, zielone zabezpieczenie skarp i przedogródków."
+          }
+        }
+      },
+      "parken": {
+        "kicker": "Parkingi i podjazdy",
+        "title": "Miejsca postojowe i wjazdy, które udźwigną obciążenie",
+        "text": "Od podbudowy z warstwą mrozoochronną po nawierzchnię: budujemy podjazdy, miejsca pod wiaty i place parkingowe dla domów i firm — przepuszczalne, przejezdne dla aut osobowych i dostawczych, z prawidłowym odwodnieniem i obrzeżami.",
+        "facts": {
+          "f1": "Nośna podbudowa według klasy obciążenia",
+          "f2": "Spadki, korytka i wsiąkanie zaprojektowane od razu",
+          "f3": "Od pojedynczego miejsca po plac firmowy"
+        },
+        "hint": "Wybierz nawierzchnię",
+        "cta": "Zaplanuj miejsce postojowe",
+        "surfaces": {
+          "pflaster": {
+            "label": "Kostka betonowa",
+            "text": "Solidna, ekonomiczna, w wielu formatach i kolorach — klasyka podjazdów.",
+            "facts": {
+              "f1": "Nośna do ciężarówek",
+              "f2": "Łatwa w naprawie",
+              "f3": "Duży wybór kolorów"
+            }
+          },
+          "rasengitter": {
+            "label": "Kratka trawnikowa",
+            "text": "Zielona i przejezdna jednocześnie: woda wsiąka, powierzchnia nie liczy się jako uszczelniona.",
+            "facts": {
+              "f1": "Przepuszczalna",
+              "f2": "Niższa opłata za deszczówkę",
+              "f3": "Ekologiczna"
+            }
+          },
+          "naturstein": {
+            "label": "Kostka kamienna",
+            "text": "Granit lub bazalt: ponadczasowa, niezwykle trwała, pasuje do klasycznych domów.",
+            "facts": {
+              "f1": "Trwałość na dekady",
+              "f2": "Mrozoodporna",
+              "f3": "Szlachetny wygląd"
+            }
+          },
+          "asphalt": {
+            "label": "Asfalt i tłuczeń",
+            "text": "Ekonomicznie na dużych powierzchniach i długich wjazdach, opcjonalnie nawierzchnia tłuczniowa z obrzeżem.",
+            "facts": {
+              "f1": "Szybko przejezdna",
+              "f2": "Ekonomiczna",
+              "f3": "Idealna na długie drogi"
+            }
+          }
+        }
+      },
+      "pool": {
+        "kicker": "Budowa basenów",
+        "title": "Twój basen — od wykopu do pierwszego skoku",
+        "text": "Budujemy baseny kompleksowo: roboty ziemne, niecka, technika, obrzeże i nasadzenia. Basen betonowy na wymiar, gotowa niecka z laminatu lub staw kąpielowy z filtrem roślinnym — całość z jednej ręki, zgrana z tarasem i ogrodem.",
+        "facts": {
+          "f1": "Basen betonowy na wymiar — każdy kształt i rozmiar",
+          "f2": "Niecka z laminatu (GFK) — szybki montaż",
+          "f3": "Staw kąpielowy — pielęgnacja wody bez chloru",
+          "f4": "Technika: filtracja, pompa ciepła, zadaszenie, oświetlenie"
+        },
+        "phases": {
+          "p1": "Wykop",
+          "p2": "Niecka",
+          "p3": "Technika",
+          "p4": "Gotowe"
+        },
+        "cta": "Zapytaj o basen"
+      },
+      "zaun": {
+        "kicker": "Ogrodzenia",
+        "title": "Ogrodzić posesję — ze stylem i prywatnością",
+        "text": "Od ogrodzenia panelowego przez drewniane osłony po mur z przęsłami i bramą: osadzamy fundamenty, słupki i przęsła w pionie — łącznie z bramami, furtkami i napędami.",
+        "hint": "Wybierz typ ogrodzenia",
+        "cta": "Zapytaj o ogrodzenie",
+        "types": {
+          "doppelstab": {
+            "label": "Panel 2D/3D",
+            "text": "Łatwy w utrzymaniu, ocynkowany i malowany proszkowo, opcjonalnie z taśmą osłonową — standard nowoczesnych posesji."
+          },
+          "holz": {
+            "label": "Drewniana osłona",
+            "text": "Modrzew lub daglezja, pionowo lub poziomo — ciepło, naturalnie, bez prześwitu."
+          },
+          "gabione": {
+            "label": "Ogrodzenie gabionowe",
+            "text": "Wąskie kosze kamienne jako osłona przed hałasem i wzrokiem, do łączenia z drewnem lub szkłem."
+          },
+          "mauer": {
+            "label": "Mur z przęsłami",
+            "text": "Murowany lub tynkowany cokół z przęsłami metalowymi lub drewnianymi — reprezentacyjnie, w stylu domu."
+          }
+        }
+      },
+      "aussen": {
+        "kicker": "Zagospodarowanie terenu",
+        "title": "Trawnik, nawadnianie, światło — wszystko, co utrzymuje ogród przy życiu",
+        "text": "Skomponuj swój teren: dostarczamy trawę z rolki lub siew, układamy automatyczne nawadnianie i drenaż, montujemy oświetlenie ogrodu i na życzenie przejmujemy regularną pielęgnację.",
+        "hint": "Wybierz, czego potrzebuje Twój ogród",
+        "cta": "Poproś o ofertę",
+        "contextLabel": "Zagospodarowanie terenu",
+        "selectedLabel": "Wybrano",
+        "emptyText": "Nic jeszcze nie wybrano",
+        "layers": {
+          "rasen": {
+            "label": "Trawa z rolki i siew",
+            "text": "Przygotowanie gruntu, niwelacja, trawa z rolki lub siew — gęsta i odporna."
+          },
+          "bewaesserung": {
+            "label": "Automatyczne nawadnianie",
+            "text": "Zraszacze wynurzalne i linie kroplujące ze sterownikiem i czujnikiem deszczu."
+          },
+          "drainage": {
+            "label": "Drenaż",
+            "text": "Rury drenarskie i studnie chłonne przeciw zastoinom wody."
+          },
+          "beleuchtung": {
+            "label": "Oświetlenie ogrodu",
+            "text": "Światło ścieżek, drzew i tarasu, LED, sterowane zmierzchem."
+          },
+          "pflege": {
+            "label": "Umowa pielęgnacyjna",
+            "text": "Koszenie, cięcie, nawożenie i odśnieżanie według planu."
+          }
+        }
+      }
     }
   },
   "projectsExplorer": {
@@ -1123,5 +1227,190 @@
     "title": "Nie znaleziono strony",
     "description": "Strona, której szukasz, nie istnieje lub została przeniesiona.",
     "backHome": "Powrót do strony głównej"
+  },
+  "partner": {
+    "hero": {
+      "kicker": "Partner dla generalnych wykonawców",
+      "title": "Niezawodny podwykonawca budowy domów i remontów",
+      "subtitle": "Własne ekipy, stali opiekunowie projektu i przejrzyste warunki — realizujemy pojedyncze branże lub całe etapy budowy w terminie, w Niemczech i w Polsce."
+    },
+    "facts": {
+      "f1": {
+        "title": "Własne ekipy",
+        "text": "Ponad 40 zatrudnionych na stałe fachowców — bez łańcucha podwykonawców."
+      },
+      "f2": {
+        "title": "Dwujęzyczne kierownictwo",
+        "text": "Niemiecki i polski na budowie, w umowie i w dokumentacji."
+      },
+      "f3": {
+        "title": "Planowalne moce",
+        "text": "Ekipy na szczyty terminowe — także dostępne od ręki."
+      }
+    },
+    "trades": {
+      "title": "Branże, które przejmujemy dla Ciebie",
+      "subtitle": "Pojedynczo według przedmiaru lub jako kompletny etap budowy.",
+      "items": {
+        "rohbau": {
+          "title": "Stan surowy i mury",
+          "text": "Fundamenty, mury, stropy i więźba dachowa — pod klucz lub jako pojedyncza branża."
+        },
+        "fassade": {
+          "title": "Elewacje i ETICS",
+          "text": "Ocieplenie, tynk, malowanie i rusztowania zgodnie z systemem."
+        },
+        "innen": {
+          "title": "Wykończenie wnętrz",
+          "text": "Zabudowy G-K, wylewki, płytki, malowanie i podłogi aż do odbioru."
+        },
+        "sanierung": {
+          "title": "Remont kapitalny",
+          "text": "Wyburzenia, wzmocnienie konstrukcji i pełna odbudowa w istniejącym budynku."
+        },
+        "aussen": {
+          "title": "Zagospodarowanie terenu",
+          "text": "Kostka, mury oporowe, ogrodzenia, nawadnianie i zieleń."
+        }
+      }
+    },
+    "models": {
+      "title": "Modele współpracy",
+      "subtitle": "Dopasowujemy się do struktury Twojego projektu — warunki ustalamy wspólnie.",
+      "items": {
+        "m1": {
+          "title": "Podwykonawca branżowy",
+          "text": "Zlecasz pojedyncze branże według przedmiaru, my dostarczamy wykonanie, materiał i dokumentację."
+        },
+        "m2": {
+          "title": "Kompletny etap budowy",
+          "text": "Od stanu surowego po elewację lub od wylewki po odbiór — jeden opiekun, jeden harmonogram."
+        },
+        "m3": {
+          "title": "Umowa ramowa",
+          "text": "Stałe warunki i zarezerwowane moce przerobowe dla wielu projektów."
+        },
+        "m4": {
+          "title": "Moce na wezwanie",
+          "text": "Dodatkowe ekipy na szczyty terminowe — dostępne szybko, wdrożone w Twoje procesy."
+        }
+      },
+      "phases": {
+        "p1": "Zapytanie",
+        "p2": "Oferta",
+        "p3": "Realizacja",
+        "p4": "Odbiór"
+      }
+    },
+    "terms": {
+      "kicker": "Warunki",
+      "title": "Warunki do uzgodnienia",
+      "text": "Każdy projekt jest inny — dlatego harmonogram płatności, gwarancję i procedury ustalamy wspólnie w umowie. Kluczowe punkty:",
+      "rows": {
+        "t1": {
+          "label": "Wynagrodzenie",
+          "text": "Ceny ryczałtowe lub jednostkowe według przedmiaru, płatności częściowe wraz z postępem prac."
+        },
+        "t2": {
+          "label": "Gwarancja",
+          "text": "Według VOB/B lub BGB — zgodnie z zapisami umowy."
+        },
+        "t3": {
+          "label": "Ubezpieczenie i zaświadczenia",
+          "text": "OC działalności oraz zaświadczenia standardowe w Niemczech — szczegóły ustalamy na pierwszej rozmowie."
+        },
+        "t4": {
+          "label": "Kierownictwo i komunikacja",
+          "text": "Stały opiekun, cotygodniowy raport, dziennik budowy i dokumentacja fotograficzna."
+        },
+        "t5": {
+          "label": "Bezpieczeństwo i jakość",
+          "text": "BHP według zasad BG BAU, kontrola jakości każdej branży przed odbiorem."
+        },
+        "t6": {
+          "label": "Języki",
+          "text": "Niemiecki i polski — umowy, plany i narady budowlane."
+        }
+      },
+      "sealCaption": "Pieczęć firmowa Quality Build & Management Sp. z o.o."
+    },
+    "why": {
+      "title": "Dlaczego generalni wykonawcy pracują z nami",
+      "items": {
+        "w1": {
+          "title": "Własne ekipy",
+          "text": "Nasze zespoły są zatrudnione na stałe i zgrane — wiesz, kto stoi na Twojej budowie."
+        },
+        "w2": {
+          "title": "Terminowość",
+          "text": "Realistyczne harmonogramy, raportowane postępy, bez niespodzianek przy odbiorze."
+        },
+        "w3": {
+          "title": "Stałe ceny",
+          "text": "Kalkulacja według przedmiaru z jasnymi pozycjami — roboty dodatkowe tylko przy zmianie zakresu."
+        },
+        "w4": {
+          "title": "Dokumentacja",
+          "text": "Obmiary, dziennik budowy, zdjęcia i protokoły — gotowe do Twojej teczki projektu."
+        }
+      }
+    },
+    "wizard": {
+      "kicker": "Zapytanie projektowe",
+      "title": "Zapytaj o projekt — w trzech krokach",
+      "subtitle": "Wybierz branże, opisz projekt i zostaw dane kontaktowe. Odezwiemy się w ciągu jednego dnia roboczego z pierwszą oceną.",
+      "steps": {
+        "s1": "Branże",
+        "s2": "Projekt",
+        "s3": "Kontakt"
+      },
+      "tradesTitle": "Które branże mamy przejąć?",
+      "tradesHint": "Można wybrać kilka",
+      "projectTitle": "Podstawowe dane projektu",
+      "objectType": "Rodzaj obiektu",
+      "objectTypePlaceholder": "Wybierz",
+      "objectTypes": {
+        "efh": "Dom jednorodzinny",
+        "mfh": "Budynek wielorodzinny",
+        "gewerbe": "Obiekt komercyjny",
+        "bestand": "Istniejący budynek / remont"
+      },
+      "volume": "Wartość zlecenia (ok.)",
+      "volumePlaceholder": "Wybierz",
+      "volumes": {
+        "v1": "do 100 000 €",
+        "v2": "100 000 – 500 000 €",
+        "v3": "500 000 € – 2 mln €",
+        "v4": "ponad 2 mln €"
+      },
+      "start": "Planowany start",
+      "startPlaceholder": "Wybierz",
+      "starts": {
+        "s1": "Natychmiast",
+        "s2": "Za 1–3 miesiące",
+        "s3": "Za 3–6 miesięcy",
+        "s4": "Później / w planowaniu"
+      },
+      "location": "Lokalizacja (kod / miasto)",
+      "locationPlaceholder": "np. 10115 Berlin",
+      "message": "Uwagi (opcjonalnie)",
+      "messagePlaceholder": "Czy jest przedmiar? Szczególne wymagania projektu?",
+      "contactTitle": "Firma i osoba kontaktowa",
+      "company": "Firma",
+      "companyPlaceholder": "Przykład Bud Sp. z o.o.",
+      "summaryTitle": "Twoje zapytanie",
+      "summaryEmpty": "Brak danych",
+      "back": "Wstecz",
+      "next": "Dalej",
+      "submit": "Wyślij zapytanie",
+      "successTitle": "Dziękujemy za zapytanie!",
+      "successText": "Sprawdzimy dane i odezwiemy się w ciągu jednego dnia roboczego.",
+      "privacyNote": "Wysyłając formularz, wyrażasz zgodę na przetwarzanie danych zgodnie z naszą",
+      "privacyLink": "Polityką prywatności"
+    },
+    "contact": {
+      "title": "Wolisz porozmawiać bezpośrednio?",
+      "text": "Zadzwoń lub napisz — chętnie omówimy Twój projekt osobiście, po niemiecku lub po polsku."
+    }
   }
 }

@@ -43,6 +43,10 @@
     "datenschutz": {
       "title": "Datenschutzerklärung",
       "description": "Datenschutzerklärung von Quality Build & Management."
+    },
+    "partner": {
+      "title": "Für Generalunternehmer — Nachunternehmer für Hausbau & Sanierung",
+      "description": "Quality Build als Nachunternehmer für Generalunternehmer: eigene Kolonnen, Rohbau, Fassade/WDVS, Innenausbau, Kernsanierung und Außenanlagen — Konditionen nach Vereinbarung, in Deutschland und Polen."
     }
   },
   "nav": {
@@ -62,7 +66,8 @@
     "menu": "Menü",
     "close": "Schließen",
     "breadcrumbHome": "Startseite",
-    "skipToContent": "Zum Inhalt springen"
+    "skipToContent": "Zum Inhalt springen",
+    "partner": "Generalunternehmer"
   },
   "common": {
     "learnMore": "Mehr erfahren",
@@ -152,22 +157,19 @@
     "p2": "Wir bieten Lösungsvarianten, führen alles pünktlich, ohne Kostenüberschreitungen und vor allem professionell aus.",
     "skills": {
       "s1": {
-        "label": "Auswahl der Lösung",
-        "value": 75
+        "label": "Auswahl der Lösung"
       },
       "s2": {
-        "label": "Qualität der Ausführung",
-        "value": 100
+        "label": "Qualität der Ausführung"
       },
       "s3": {
-        "label": "Geschwindigkeit",
-        "value": 80
+        "label": "Geschwindigkeit"
       },
       "s4": {
-        "label": "Kosten-Effizienz",
-        "value": 90
+        "label": "Kosten-Effizienz"
       }
-    }
+    },
+    "sealText": "Geprüft"
   },
   "process": {
     "eyebrow": "So arbeiten wir",
@@ -441,25 +443,7 @@
     },
     "approach": {
       "title": "Unser Ansatz für die Konstruktion",
-      "text": "Wir bieten ein umfassendes Angebot an hochwertigen und einzigartigen Lösungen für den Bau von Wohn- und Geschäftshäusern. Unser Ansatz basiert auf höchster Ausführungsqualität in jedem Bauprozess, Energieeffizienz-Technologien und intelligenten Lösungen für die effiziente Raumnutzung — kombiniert mit einem Erscheinungsbild, das Blicke auf sich zieht. Das Hausbau-Angebot des Quality-Build-Teams steht für Qualität in jeder Etappe der Zusammenarbeit, verbunden mit vernünftigen und völlig transparenten Kosten.",
-      "skills": {
-        "s1": {
-          "label": "Qualität",
-          "value": 100
-        },
-        "s2": {
-          "label": "Kosten-Effizienz",
-          "value": 90
-        },
-        "s3": {
-          "label": "Geschwindigkeit",
-          "value": 80
-        },
-        "s4": {
-          "label": "Wirkungsgrad",
-          "value": 77
-        }
-      }
+      "text": "Wir bieten ein umfassendes Angebot an hochwertigen und einzigartigen Lösungen für den Bau von Wohn- und Geschäftshäusern. Unser Ansatz basiert auf höchster Ausführungsqualität in jedem Bauprozess, Energieeffizienz-Technologien und intelligenten Lösungen für die effiziente Raumnutzung — kombiniert mit einem Erscheinungsbild, das Blicke auf sich zieht. Das Hausbau-Angebot des Quality-Build-Teams steht für Qualität in jeder Etappe der Zusammenarbeit, verbunden mit vernünftigen und völlig transparenten Kosten."
     },
     "reasons": {
       "title": "Warum Kunden mit uns bauen",
@@ -607,45 +591,27 @@
     },
     "approach": {
       "title": "Unser Ansatz für Fassadenarbeiten",
-      "text": "Die Qualität der Außenarbeiten ist einer der wichtigsten Schritte beim Bau. Sie wirkt sich unmittelbar auf die Energieeffizienz und die Dauerhaftigkeit des Gebäudes aus — ganz zu schweigen vom Aussehen. Qualitativ hochwertige und langlebige Fassadenarbeiten erfordern Erfahrung, moderne Materialien und eine professionelle Herangehensweise an jede einzelne Phase.",
-      "skills": {
-        "s1": {
-          "label": "Qualität",
-          "value": 100
-        },
-        "s2": {
-          "label": "Materialien",
-          "value": 80
-        },
-        "s3": {
-          "label": "Geschwindigkeit",
-          "value": 75
-        },
-        "s4": {
-          "label": "Kosten-Effizienz",
-          "value": 83
-        }
-      }
+      "text": "Die Qualität der Außenarbeiten ist einer der wichtigsten Schritte beim Bau. Sie wirkt sich unmittelbar auf die Energieeffizienz und die Dauerhaftigkeit des Gebäudes aus — ganz zu schweigen vom Aussehen. Qualitativ hochwertige und langlebige Fassadenarbeiten erfordern Erfahrung, moderne Materialien und eine professionelle Herangehensweise an jede einzelne Phase."
     },
     "works": {
       "kicker": "Was wir tun",
       "title": "Hauptarten der Arbeit",
       "items": {
         "w1": {
-          "title": "Wandgestaltung",
-          "text": "Wände werden gereinigt, gespachtelt, gestrichen und mit zusätzlichem Wetterschutz versehen."
+          "title": "Wärmedämmung",
+          "text": "Wärmedämmverbundsystem (WDVS) mit EPS- oder Mineralwolleplatten, Armierung und Oberputz — senkt die Heizkosten spürbar und schützt das Mauerwerk."
         },
         "w2": {
-          "title": "Wärmedämmung",
-          "text": "Von der externen und kombinierten Dämmung bis zum Austausch aller Elemente, die die Energieeffizienz beeinflussen."
+          "title": "Putzarbeiten",
+          "text": "Unterputz, Armierungsschicht und Oberputz als Kratz-, Reibe- oder Scheibenputz — eben, rissfrei und witterungsbeständig."
         },
         "w3": {
-          "title": "Bedachung",
-          "text": "Materialauswahl nach Anforderung und die komplette Montage — jedes Material, jedes Volumen, jede Komplexität."
+          "title": "Beschichtung",
+          "text": "Fassadenanstrich mit Silikat- oder Silikonharzfarbe inklusive Grundierung und Algenschutz — farbstabil, wasserabweisend und diffusionsoffen."
         },
         "w4": {
           "title": "Kleinere Reparaturen",
-          "text": "Erneuerung des Anstrichs, Ausbesserung von Rissen, Beseitigung von Schimmel, Austausch einzelner Fassadenteile und mehr."
+          "text": "Risse schließen, abgeplatzten Putz ausbessern, Sockel und Laibungen sanieren, Algen und Verschmutzungen entfernen."
         }
       }
     },
@@ -672,7 +638,7 @@
     },
     "layers": {
       "kicker": "Wärmedämmverbundsystem",
-      "title": "So ist eine gedämmte Fassade aufgebaut",
+      "title": "So ist eine WDVS-Fassade aufgebaut",
       "subtitle": "Fünf Schichten, die zusammen Wärme halten, Feuchtigkeit abweisen und Jahrzehnte überdauern.",
       "hint": "Tippen Sie eine Schicht an, um mehr zu erfahren",
       "items": {
@@ -718,6 +684,14 @@
       "cta": "Kostenlose Einschätzung anfordern",
       "hint": "Unverbindlich — Antwort innerhalb von 24 Stunden.",
       "contextLabel": "Fassaden-Check"
+    },
+    "scene": {
+      "phases": {
+        "p1": "Dämmung",
+        "p2": "Putz",
+        "p3": "Beschichtung",
+        "p4": "Fertig"
+      }
     }
   },
   "innen": {
@@ -728,29 +702,7 @@
     },
     "approach": {
       "title": "Unser Ansatz für die Renovierung",
-      "text": "Damit unsere Kunden keine Schwierigkeiten haben und alle Arbeiten nach Plan und Erwartung laufen, halten wir uns an klare Grundsätze: Wir bewerten Arbeits- und Materialkosten präzise, damit der genannte Betrag nicht überschritten wird. Wir ermitteln Ihre Anforderungen, erstellen einen Arbeitsplan und informieren jedes Teammitglied über seine Aufgaben. Und vor allem: Wir organisieren die Arbeit so, dass sie schnell und in höchstmöglicher Qualität ausgeführt wird.",
-      "skills": {
-        "s1": {
-          "label": "Team-Auswahl",
-          "value": 80
-        },
-        "s2": {
-          "label": "Bewertung der Arbeiten",
-          "value": 70
-        },
-        "s3": {
-          "label": "Qualität der Ausführung",
-          "value": 100
-        },
-        "s4": {
-          "label": "Kosten-Effizienz",
-          "value": 75
-        },
-        "s5": {
-          "label": "Entwurf & Design",
-          "value": 72
-        }
-      }
+      "text": "Damit unsere Kunden keine Schwierigkeiten haben und alle Arbeiten nach Plan und Erwartung laufen, halten wir uns an klare Grundsätze: Wir bewerten Arbeits- und Materialkosten präzise, damit der genannte Betrag nicht überschritten wird. Wir ermitteln Ihre Anforderungen, erstellen einen Arbeitsplan und informieren jedes Teammitglied über seine Aufgaben. Und vor allem: Wir organisieren die Arbeit so, dass sie schnell und in höchstmöglicher Qualität ausgeführt wird."
     },
     "styles": {
       "title": "Stile für die Inneneinrichtung",
@@ -782,7 +734,7 @@
     },
     "services": {
       "kicker": "Was wir tun",
-      "title": "Vollständige Palette von Leistungen",
+      "title": "Alle Leistungen aus einer Hand",
       "items": {
         "l1": {
           "title": "Projekt",
@@ -858,6 +810,14 @@
           "diy": "Für Eigenleistungen haftet niemand — Nachbesserungen zahlen Sie doppelt.",
           "pro": "Vertraglich fixierte Fristen, Festpreis und Gewährleistung auf alle Arbeiten."
         }
+      }
+    },
+    "scene": {
+      "phases": {
+        "p1": "Demontage",
+        "p2": "Installation",
+        "p3": "Ausbau",
+        "p4": "Fertig"
       }
     }
   },
@@ -961,25 +921,7 @@
     },
     "approach": {
       "title": "Unser Ansatz für die Landschaftsgestaltung",
-      "text": "In der Regel übernehmen wir komplexe Aufträge, denn die Gestaltung des Grundstücks umfasst viele Gewerke. Wichtig ist nicht nur die hochwertige Ausführung selbst — unsere Spezialität bei Quality Build —, sondern auch die richtige Organisation des Ablaufs: Wie lässt sich Ihr Plan so effizient und präzise wie möglich umsetzen?",
-      "skills": {
-        "s1": {
-          "label": "Komplexität",
-          "value": 70
-        },
-        "s2": {
-          "label": "Qualität",
-          "value": 90
-        },
-        "s3": {
-          "label": "Geschwindigkeit",
-          "value": 85
-        },
-        "s4": {
-          "label": "Kosten-Effizienz",
-          "value": 80
-        }
-      }
+      "text": "In der Regel übernehmen wir komplexe Aufträge, denn die Gestaltung des Grundstücks umfasst viele Gewerke. Wichtig ist nicht nur die hochwertige Ausführung selbst — unsere Spezialität bei Quality Build —, sondern auch die richtige Organisation des Ablaufs: Wie lässt sich Ihr Plan so effizient und präzise wie möglich umsetzen?"
     },
     "why": {
       "title": "Warum sich durchdachte Außenanlagen lohnen",
@@ -1030,8 +972,170 @@
         }
       }
     },
-    "gallery": {
-      "title": "Fertig gestaltete Außenanlagen"
+    "scene": {
+      "phases": {
+        "p1": "Planung",
+        "p2": "Erdarbeiten",
+        "p3": "Bepflanzung",
+        "p4": "Technik"
+      }
+    },
+    "blocks": {
+      "stuetzwand": {
+        "kicker": "Stützwandbau",
+        "title": "Stützwände, die Hanglagen nutzbar machen",
+        "text": "Ob Terrassierung am Hang, Abfangen einer Böschung oder ein ebener Sitzplatz im Garten: Wir planen und bauen Stützwände mit Fundament, Drainage und Hinterfüllung nach statischen Vorgaben — dauerhaft standsicher und optisch passend zum Haus.",
+        "facts": {
+          "f1": "Statik und Gründung nach Bodenbeschaffenheit",
+          "f2": "Drainage und Hinterfüllung gegen Wasserdruck",
+          "f3": "Materialwahl von Sichtbeton bis Naturstein"
+        },
+        "hint": "Wählen Sie einen Wandtyp",
+        "cta": "Stützwand anfragen",
+        "types": {
+          "winkel": {
+            "label": "Betonwinkelstützwand",
+            "text": "Vorgefertigte L-Elemente oder Ortbeton: schlank, hoch belastbar, ideal für große Höhenunterschiede und Zufahrten."
+          },
+          "naturstein": {
+            "label": "Natursteinmauer",
+            "text": "Trockenmauer oder vermörtelt aus Sandstein, Granit oder Muschelkalk — lebendige Fugen, Lebensraum für Pflanzen."
+          },
+          "gabionen": {
+            "label": "Gabionen",
+            "text": "Drahtkörbe mit Bruchstein gefüllt: schnell gebaut, dränagefähig, modern in der Anmutung."
+          },
+          "pflanzsteine": {
+            "label": "Pflanzsteine",
+            "text": "Gestufte Betonringe, begrünt: weiche, grüne Hangsicherung für Vorgärten und Böschungen."
+          }
+        }
+      },
+      "parken": {
+        "kicker": "Parkplätze & Zufahrten",
+        "title": "Stellplätze und Einfahrten, die Lasten tragen",
+        "text": "Vom Unterbau mit Frostschutzschicht bis zur Oberfläche: Wir bauen Zufahrten, Carport-Stellplätze und Parkflächen für Wohnhäuser und Gewerbe — versickerungsfähig, befahrbar mit Pkw und Lieferwagen, mit sauberer Entwässerung und Randeinfassung.",
+        "facts": {
+          "f1": "Tragfähiger Unterbau nach Belastungsklasse",
+          "f2": "Gefälle, Rinnen und Versickerung mitgeplant",
+          "f3": "Vom Einzelstellplatz bis zur Gewerbefläche"
+        },
+        "hint": "Belag wählen",
+        "cta": "Stellplatz planen lassen",
+        "surfaces": {
+          "pflaster": {
+            "label": "Betonpflaster",
+            "text": "Robust, günstig, in vielen Formaten und Farben — der Klassiker für Einfahrten.",
+            "facts": {
+              "f1": "Belastbar bis Lkw",
+              "f2": "Leicht zu reparieren",
+              "f3": "Große Farbauswahl"
+            }
+          },
+          "rasengitter": {
+            "label": "Rasengitter",
+            "text": "Grün und befahrbar zugleich: Regenwasser versickert, die Fläche gilt nicht als versiegelt.",
+            "facts": {
+              "f1": "Versickerungsfähig",
+              "f2": "Geringere Abwassergebühr",
+              "f3": "Ökologisch"
+            }
+          },
+          "naturstein": {
+            "label": "Natursteinpflaster",
+            "text": "Granit- oder Basaltpflaster: zeitlos, extrem langlebig, passend zu klassischen Häusern.",
+            "facts": {
+              "f1": "Jahrzehnte haltbar",
+              "f2": "Frostsicher",
+              "f3": "Hochwertige Optik"
+            }
+          },
+          "asphalt": {
+            "label": "Asphalt & Schotter",
+            "text": "Wirtschaftlich für große Flächen und lange Zufahrten, wahlweise als Schotterdecke mit Randstein.",
+            "facts": {
+              "f1": "Schnell befahrbar",
+              "f2": "Wirtschaftlich",
+              "f3": "Ideal für lange Wege"
+            }
+          }
+        }
+      },
+      "pool": {
+        "kicker": "Poolbau",
+        "title": "Ihr Pool — vom Aushub bis zum ersten Sprung",
+        "text": "Wir bauen Schwimmbecken komplett: Erdarbeiten, Beckenkörper, Technik, Umrandung und Bepflanzung. Ob Betonpool nach Maß, GFK-Fertigbecken oder Naturpool mit Pflanzenfilter — Sie erhalten eine Anlage aus einer Hand, abgestimmt mit Terrasse und Garten.",
+        "facts": {
+          "f1": "Betonpool nach Maß — jede Form und Größe",
+          "f2": "GFK-Fertigbecken — schnell montiert",
+          "f3": "Naturpool — Wasserpflege ohne Chlor",
+          "f4": "Technik: Filter, Wärmepumpe, Abdeckung, Beleuchtung"
+        },
+        "phases": {
+          "p1": "Aushub",
+          "p2": "Becken",
+          "p3": "Technik",
+          "p4": "Fertig"
+        },
+        "cta": "Pool anfragen"
+      },
+      "zaun": {
+        "kicker": "Zäune & Einfriedungen",
+        "title": "Grundstück einfassen — mit Stil und Sichtschutz",
+        "text": "Vom Doppelstabmattenzaun über Holz-Sichtschutz bis zur Mauer mit Zaunelement und Tor: Wir setzen Fundamente, Pfosten und Elemente lotgerecht — inklusive Toren, Türen und Antrieben.",
+        "hint": "Zauntyp wählen",
+        "cta": "Zaun anfragen",
+        "types": {
+          "doppelstab": {
+            "label": "Doppelstabmatte",
+            "text": "Pflegeleicht, verzinkt und pulverbeschichtet, optional mit Sichtschutzstreifen — der Standard für moderne Grundstücke."
+          },
+          "holz": {
+            "label": "Holz-Sichtschutz",
+            "text": "Lärche oder Douglasie, senkrecht oder waagerecht — warm, natürlich, blickdicht."
+          },
+          "gabione": {
+            "label": "Gabionenzaun",
+            "text": "Schmale Steinkörbe als Lärm- und Sichtschutz, kombinierbar mit Holz oder Glas."
+          },
+          "mauer": {
+            "label": "Mauer mit Zaunelement",
+            "text": "Gemauerter oder verputzter Sockel mit Metall- oder Holzelementen — repräsentativ zum Haus."
+          }
+        }
+      },
+      "aussen": {
+        "kicker": "Außenanlagen komplett",
+        "title": "Rasen, Bewässerung, Licht — alles, was den Garten am Leben hält",
+        "text": "Stellen Sie sich Ihre Außenanlage zusammen: Wir liefern Rollrasen oder Saat, verlegen automatische Bewässerung und Drainage, setzen Gartenbeleuchtung und übernehmen auf Wunsch die regelmäßige Pflege.",
+        "hint": "Wählen Sie, was Ihr Garten braucht",
+        "cta": "Angebot anfragen",
+        "contextLabel": "Außenanlage",
+        "selectedLabel": "Ausgewählt",
+        "emptyText": "Noch nichts ausgewählt",
+        "layers": {
+          "rasen": {
+            "label": "Rollrasen & Saat",
+            "text": "Bodenvorbereitung, Planie, Rollrasen oder Rasensaat — dicht und belastbar."
+          },
+          "bewaesserung": {
+            "label": "Automatische Bewässerung",
+            "text": "Versenkregner und Tropfleitungen mit Steuerung und Regensensor."
+          },
+          "drainage": {
+            "label": "Drainage",
+            "text": "Drainrohre und Sickerschächte gegen Staunässe."
+          },
+          "beleuchtung": {
+            "label": "Gartenbeleuchtung",
+            "text": "Wege-, Baum- und Terrassenlicht, LED, dämmerungsgesteuert."
+          },
+          "pflege": {
+            "label": "Pflegevertrag",
+            "text": "Mähen, Schnitt, Düngung und Winterdienst nach Plan."
+          }
+        }
+      }
     }
   },
   "projectsExplorer": {
@@ -1123,5 +1227,190 @@
     "title": "Seite nicht gefunden",
     "description": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
     "backHome": "Zurück zur Startseite"
+  },
+  "partner": {
+    "hero": {
+      "kicker": "Partner für Generalunternehmer",
+      "title": "Zuverlässiger Nachunternehmer für Hausbau und Sanierung",
+      "subtitle": "Eigene Kolonnen, feste Ansprechpartner und transparente Konditionen — wir liefern einzelne Gewerke oder ganze Bauabschnitte termingerecht, in Deutschland und Polen."
+    },
+    "facts": {
+      "f1": {
+        "title": "Eigene Kolonnen",
+        "text": "Über 40 fest angestellte Fachkräfte — keine Kette von Subunternehmern."
+      },
+      "f2": {
+        "title": "Zweisprachige Bauleitung",
+        "text": "Deutsch und Polnisch auf der Baustelle, im Vertrag und in der Dokumentation."
+      },
+      "f3": {
+        "title": "Planbare Kapazität",
+        "text": "Kolonnen für Terminspitzen — auch kurzfristig abrufbar."
+      }
+    },
+    "trades": {
+      "title": "Gewerke, die wir für Sie übernehmen",
+      "subtitle": "Einzeln nach Leistungsverzeichnis oder als kompletter Bauabschnitt.",
+      "items": {
+        "rohbau": {
+          "title": "Rohbau & Mauerwerk",
+          "text": "Fundamente, Mauerwerk, Decken und Dachstuhl — schlüsselfertig oder als Einzelgewerk."
+        },
+        "fassade": {
+          "title": "Fassade & WDVS",
+          "text": "Dämmung, Putz, Beschichtung und Gerüststellung nach Systemvorgabe."
+        },
+        "innen": {
+          "title": "Innenausbau",
+          "text": "Trockenbau, Estrich, Fliesen, Maler- und Bodenarbeiten bis zur Übergabe."
+        },
+        "sanierung": {
+          "title": "Kernsanierung",
+          "text": "Entkernung, Substanzertüchtigung und kompletter Wiederaufbau im Bestand."
+        },
+        "aussen": {
+          "title": "Außenanlagen",
+          "text": "Pflaster, Stützwände, Zäune, Bewässerung und Begrünung."
+        }
+      }
+    },
+    "models": {
+      "title": "Kooperationsmodelle",
+      "subtitle": "Wir passen uns Ihrer Projektstruktur an — die Konditionen legen wir gemeinsam fest.",
+      "items": {
+        "m1": {
+          "title": "Nachunternehmer je Gewerk",
+          "text": "Sie vergeben einzelne Gewerke nach Leistungsverzeichnis, wir liefern Ausführung, Material und Dokumentation."
+        },
+        "m2": {
+          "title": "Kompletter Bauabschnitt",
+          "text": "Vom Rohbau bis zur Fassade oder vom Estrich bis zur Übergabe — ein Ansprechpartner, ein Terminplan."
+        },
+        "m3": {
+          "title": "Rahmenvertrag",
+          "text": "Feste Konditionen und reservierte Kapazitäten über mehrere Projekte hinweg."
+        },
+        "m4": {
+          "title": "Kapazität auf Abruf",
+          "text": "Zusätzliche Kolonnen für Terminspitzen — kurzfristig verfügbar, eingearbeitet in Ihre Abläufe."
+        }
+      },
+      "phases": {
+        "p1": "Anfrage",
+        "p2": "Angebot",
+        "p3": "Ausführung",
+        "p4": "Abnahme"
+      }
+    },
+    "terms": {
+      "kicker": "Konditionen",
+      "title": "Konditionen nach Vereinbarung",
+      "text": "Jedes Projekt ist anders — deshalb legen wir Zahlungsplan, Gewährleistung und Abläufe gemeinsam vertraglich fest. Die Eckpunkte:",
+      "rows": {
+        "t1": {
+          "label": "Vergütung",
+          "text": "Pauschal- oder Einheitspreise nach Leistungsverzeichnis, Abschlagszahlungen nach Baufortschritt."
+        },
+        "t2": {
+          "label": "Gewährleistung",
+          "text": "Nach VOB/B oder BGB — wie im Vertrag vereinbart."
+        },
+        "t3": {
+          "label": "Versicherung & Nachweise",
+          "text": "Betriebshaftpflicht und die in Deutschland üblichen Bescheinigungen — Details klären wir im Erstgespräch."
+        },
+        "t4": {
+          "label": "Bauleitung & Kommunikation",
+          "text": "Fester Ansprechpartner, wöchentlicher Statusbericht, Bautagebuch und Fotodokumentation."
+        },
+        "t5": {
+          "label": "Sicherheit & Qualität",
+          "text": "Arbeitsschutz nach den Regeln der BG BAU, Qualitätskontrolle je Gewerk vor der Freigabe."
+        },
+        "t6": {
+          "label": "Sprachen",
+          "text": "Deutsch und Polnisch — Verträge, Pläne und Baubesprechungen."
+        }
+      },
+      "sealCaption": "Firmenstempel der Quality Build & Management Sp. z o.o."
+    },
+    "why": {
+      "title": "Warum Generalunternehmer mit uns arbeiten",
+      "items": {
+        "w1": {
+          "title": "Eigene Kolonnen",
+          "text": "Unsere Teams sind fest angestellt und eingespielt — Sie wissen, wer auf Ihrer Baustelle steht."
+        },
+        "w2": {
+          "title": "Termintreue",
+          "text": "Realistische Terminpläne, gemeldete Fortschritte, keine Überraschungen bei der Abnahme."
+        },
+        "w3": {
+          "title": "Festpreise",
+          "text": "Kalkulation nach LV mit klaren Positionen — Nachträge nur bei geänderter Leistung."
+        },
+        "w4": {
+          "title": "Dokumentation",
+          "text": "Aufmaße, Bautagebuch, Fotos und Prüfprotokolle — übergabefertig für Ihre Projektakte."
+        }
+      }
+    },
+    "wizard": {
+      "kicker": "Projektanfrage",
+      "title": "Projekt anfragen — in drei Schritten",
+      "subtitle": "Wählen Sie die Gewerke, beschreiben Sie das Projekt und hinterlassen Sie Ihre Kontaktdaten. Wir melden uns innerhalb eines Werktags mit einer ersten Einschätzung.",
+      "steps": {
+        "s1": "Gewerke",
+        "s2": "Projekt",
+        "s3": "Kontakt"
+      },
+      "tradesTitle": "Welche Gewerke sollen wir übernehmen?",
+      "tradesHint": "Mehrfachauswahl möglich",
+      "projectTitle": "Eckdaten des Projekts",
+      "objectType": "Objektart",
+      "objectTypePlaceholder": "Bitte wählen",
+      "objectTypes": {
+        "efh": "Einfamilienhaus",
+        "mfh": "Mehrfamilienhaus",
+        "gewerbe": "Gewerbeobjekt",
+        "bestand": "Bestand / Sanierung"
+      },
+      "volume": "Auftragsvolumen (ca.)",
+      "volumePlaceholder": "Bitte wählen",
+      "volumes": {
+        "v1": "bis 100.000 €",
+        "v2": "100.000 – 500.000 €",
+        "v3": "500.000 € – 2 Mio. €",
+        "v4": "über 2 Mio. €"
+      },
+      "start": "Geplanter Start",
+      "startPlaceholder": "Bitte wählen",
+      "starts": {
+        "s1": "Sofort",
+        "s2": "In 1–3 Monaten",
+        "s3": "In 3–6 Monaten",
+        "s4": "Später / in Planung"
+      },
+      "location": "Standort (PLZ / Ort)",
+      "locationPlaceholder": "z. B. 10115 Berlin",
+      "message": "Anmerkungen (optional)",
+      "messagePlaceholder": "Leistungsverzeichnis vorhanden? Besonderheiten des Projekts?",
+      "contactTitle": "Firma & Ansprechpartner",
+      "company": "Firma",
+      "companyPlaceholder": "Muster Bau GmbH",
+      "summaryTitle": "Ihre Anfrage",
+      "summaryEmpty": "Noch keine Angaben",
+      "back": "Zurück",
+      "next": "Weiter",
+      "submit": "Anfrage senden",
+      "successTitle": "Vielen Dank für Ihre Anfrage!",
+      "successText": "Wir prüfen Ihre Angaben und melden uns innerhalb eines Werktags.",
+      "privacyNote": "Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Daten gemäß unserer",
+      "privacyLink": "Datenschutzerklärung"
+    },
+    "contact": {
+      "title": "Lieber direkt sprechen?",
+      "text": "Rufen Sie an oder schreiben Sie uns — wir besprechen Ihr Projekt gern persönlich, auf Deutsch oder Polnisch."
+    }
   }
 }

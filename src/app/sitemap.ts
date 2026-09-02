@@ -21,6 +21,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly' as const,
     })),
     { path: '/ueber-uns', priority: 0.6, changeFrequency: 'monthly' },
+    { path: '/generalunternehmer', priority: 0.8, changeFrequency: 'monthly' },
     { path: '/kontakt', priority: 0.7, changeFrequency: 'monthly' },
     { path: '/datenschutz', priority: 0.2, changeFrequency: 'yearly' },
   ];

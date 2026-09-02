@@ -8,7 +8,7 @@ import { NextRequest, NextResponse } from 'next/server';
  *   TELEGRAM_CHAT_ID   — target chat/channel id
  */
 
-type LeadType = 'consultation' | 'contact' | 'callback' | 'visit';
+type LeadType = 'consultation' | 'contact' | 'callback' | 'visit' | 'partner';
 
 interface LeadPayload {
   formType: LeadType;
@@ -24,12 +24,19 @@ const TYPE_HEADERS: Record<LeadType, string> = {
   contact: '📞 Neue Kontaktanfrage',
   callback: '📲 Neue Rückrufanfrage',
   visit: '📅 Neuer Vor-Ort-Termin',
+  partner: '🤝 Neue GU-Partneranfrage',
 };
 
 const FIELD_LABELS: Record<string, string> = {
+  company: '🏢 Firma',
   name: '👤 Name',
   email: '📧 E-Mail',
   phone: '📱 Telefon',
+  trades: '🧱 Gewerke',
+  objectType: '🏠 Objektart',
+  volume: '💶 Volumen',
+  start: '🗓 Start',
+  location: '📍 Standort',
   message: '💬 Nachricht',
   service: '🔨 Leistung',
   preferredDate: '📆 Wunschtermin',

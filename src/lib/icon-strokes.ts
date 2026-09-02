@@ -148,6 +148,15 @@ export const STROKE_ICONS = {
       { d: 'M10 10 l3 3 M38 10 l-3 3', delay: 0.55, width: 1.5 },
     ],
   },
+  /** Stopwatch — speed / on-time delivery. */
+  clock: {
+    paths: [
+      { d: 'M37 27 a13 13 0 1 1 -26 0 a13 13 0 1 1 26 0' },
+      { d: 'M24 14 V8 M20 8 H28', delay: 0.3, width: 1.8 },
+      { d: 'M24 27 L31 20', delay: 0.5, width: 2.2 },
+      { d: 'M36 12 l3 3', delay: 0.6, width: 1.5 },
+    ],
+  },
   /** Overlapping frames — matching the original look. */
   frames: {
     paths: [

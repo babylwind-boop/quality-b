@@ -7,7 +7,6 @@ import { JsonLd, serviceJsonLd } from '@/components/seo/JsonLd';
 import { Container } from '@/components/ui/Container';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { Reveal, RevealItem } from '@/components/ui/Reveal';
-import { SkillGauges } from '@/components/ui/SkillGauges';
 import { StatCounter } from '@/components/ui/StatCounter';
 import { DrawIcon } from '@/components/ui/DrawIcon';
 import { IllustratedSteps } from '@/components/ui/IllustratedSteps';
@@ -22,8 +21,6 @@ import { HausKonfigurator } from '@/components/services/hausbau/HausKonfigurator
 const PATH = '/leistungen/hausbau';
 const HERO_IMAGE = '/images/service-hausbau.jpg';
 
-const SKILL_KEYS = ['s1', 's2', 's3', 's4'] as const;
-const SKILL_VALUES = [100, 90, 80, 77] as const;
 const REASON_KEYS = ['r1', 'r2', 'r3', 'r4'] as const;
 const REASON_ICONS = [
   STROKE_ICONS.keyHandover,
@@ -76,11 +73,6 @@ export default async function HausbauPage({ params }: Props) {
     { name: tNav('services'), path: '/leistungen' },
     { name: t('hero.title'), path: PATH },
   ];
-
-  const skills = SKILL_KEYS.map((k, i) => ({
-    label: t(`approach.skills.${k}.label`),
-    value: SKILL_VALUES[i],
-  }));
 
   const styles = HOUSE_STYLES.map((key) => ({
     key,
@@ -137,7 +129,6 @@ export default async function HausbauPage({ params }: Props) {
                 <p className="max-w-2xl leading-relaxed text-sand-400">
                   {t('approach.text')}
                 </p>
-                <SkillGauges skills={skills} className="mt-10 max-w-xl" />
                 <div className="mt-10">
                   <LeadCtaButton
                     label={tService('requestCta')}

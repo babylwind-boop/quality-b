@@ -61,7 +61,7 @@ export function Reveal({
   delay?: number;
   /** Seconds between children; 0 = animate as one block. */
   stagger?: number;
-  as?: 'div' | 'section' | 'ul' | 'span';
+  as?: 'div' | 'section' | 'ul' | 'ol' | 'span';
 }) {
   const reduce = useReducedMotion();
   const { ref, shown } = useRevealed<HTMLDivElement>();

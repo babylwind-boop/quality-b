@@ -3,21 +3,12 @@ import { getTranslations } from 'next-intl/server';
 import { Container } from '@/components/ui/Container';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionHeading } from '@/components/ui/SectionHeading';
-import { SkillGauges } from '@/components/ui/SkillGauges';
+import { QualityScene } from './QualityScene';
 import { QualityMedia } from './QualityMedia';
 import type { Locale } from '@/i18n/routing';
 
-/**
- * Skill values mirror `quality.skills.*.value` in messages/de.json. next-intl
- * `t()` only returns strings here, so the numbers are kept in code — keep both
- * in sync if the copy ever changes.
- */
-const SKILLS = [
-  ['s1', 75],
-  ['s2', 100],
-  ['s3', 80],
-  ['s4', 90],
-] as const;
+/** The four quality criteria become the checklist rows of the scene. */
+const CRITERIA = ['s1', 's2', 's3', 's4'] as const;
 
 /**
  * Quality promise, structured like the original homepage: manifesto copy with
@@ -29,10 +20,7 @@ const SKILLS = [
 export async function QualityPromise({ locale }: { locale: Locale }) {
   const t = await getTranslations({ locale, namespace: 'quality' });
 
-  const skills = SKILLS.map(([key, value]) => ({
-    label: t(`skills.${key}.label`),
-    value,
-  }));
+  const criteria = CRITERIA.map((key) => t(`skills.${key}.label`));
 
   return (
     <section className="relative isolate overflow-hidden py-20 sm:py-24 lg:py-28">
@@ -65,7 +53,7 @@ export async function QualityPromise({ locale }: { locale: Locale }) {
               <p className="max-w-prose leading-relaxed text-sand-300">{t('p2')}</p>
             </Reveal>
             <Reveal delay={0.2} className="mt-9">
-              <SkillGauges skills={skills} className="max-w-xl" />
+              <QualityScene items={criteria} sealText={t('sealText')} className="max-w-xl" />
             </Reveal>
           </div>
 

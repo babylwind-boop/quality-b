@@ -7,7 +7,7 @@ import { STROKE_ICONS } from '@/lib/icon-strokes';
 import { Container } from '@/components/ui/Container';
 import { Reveal, RevealItem } from '@/components/ui/Reveal';
 import { SectionHeading } from '@/components/ui/SectionHeading';
-import { SkillGauges } from '@/components/ui/SkillGauges';
+import { InteriorScene } from '@/components/services/innen/InteriorScene';
 import { DrawIcon } from '@/components/ui/DrawIcon';
 import { JsonLd, serviceJsonLd } from '@/components/seo/JsonLd';
 import { ServiceHero } from '@/components/services/ServiceHero';
@@ -22,8 +22,6 @@ type Props = { params: Promise<{ locale: string }> };
 const PATH = '/leistungen/innenrenovierung';
 const SERVICE_IMAGE = '/images/service-innen.jpg';
 
-const SKILL_KEYS = ['s1', 's2', 's3', 's4', 's5'] as const;
-const SKILL_VALUES = [80, 70, 100, 75, 72] as const;
 
 const USP_ITEMS = [
   { key: 'u1', icon: STROKE_ICONS.layers },
@@ -78,10 +76,12 @@ export default async function InnenrenovierungPage({ params }: Props) {
   const tNav = await getTranslations('nav');
   const tMeta = await getTranslations('meta');
 
-  const skills = SKILL_KEYS.map((k, i) => ({
-    label: t(`approach.skills.${k}.label`),
-    value: SKILL_VALUES[i],
-  }));
+  const scenePhases: [string, string, string, string] = [
+    t('scene.phases.p1'),
+    t('scene.phases.p2'),
+    t('scene.phases.p3'),
+    t('scene.phases.p4'),
+  ];
 
   const repairItems = REPAIR_ITEMS.map(({ key, image }) => ({
     key,
@@ -142,8 +142,8 @@ export default async function InnenrenovierungPage({ params }: Props) {
                 </div>
               </Reveal>
             </div>
-            <Reveal delay={0.15} className="card-luxe rounded-sm p-7 sm:p-9">
-              <SkillGauges skills={skills} />
+            <Reveal delay={0.15} className="card-luxe rounded-sm p-4 sm:p-6">
+              <InteriorScene phaseLabels={scenePhases} />
             </Reveal>
           </div>
         </Container>

@@ -18,6 +18,7 @@ const NAV = [
   { key: 'home', href: '/' },
   { key: 'about', href: '/ueber-uns' },
   { key: 'services', href: '/leistungen', children: SERVICES },
+  { key: 'partner', href: '/generalunternehmer' },
   { key: 'contact', href: '/kontakt' },
 ] as const;
 
