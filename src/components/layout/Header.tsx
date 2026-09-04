@@ -124,7 +124,7 @@ export function Header() {
             : 'border-white/5 bg-ink-900/40',
         )}
       >
-        <div className="relative mx-auto grid h-[var(--header-h)] w-full max-w-7xl grid-cols-[auto_1fr_auto] items-center gap-4 px-4 sm:px-6 lg:px-8 xl:grid-cols-[1fr_auto_1fr]">
+        <div className="relative mx-auto grid h-[var(--header-h)] w-full max-w-7xl grid-cols-[auto_1fr_auto] items-center gap-4 px-4 sm:px-6 lg:px-8 xl:gap-6">
           {/* Original site logo (vectorized, tagline updated to Management) */}
           <Link href="/" aria-label={site.brandLine} className="flex shrink-0 items-center">
             <Image
@@ -139,7 +139,7 @@ export function Header() {
           </Link>
 
           <nav aria-label="Main" className="hidden items-center justify-center justify-self-center xl:flex">
-            <ul className="flex items-center gap-5 2xl:gap-6">
+            <ul className="flex items-center gap-4 whitespace-nowrap 2xl:gap-6 min-[1700px]:gap-7">
               {NAV.map((item) => {
                 const active = isActive(item.href);
                 if (!('children' in item)) {
@@ -247,20 +247,20 @@ export function Header() {
             </ul>
           </nav>
 
-          <div className="flex items-center justify-end gap-3 justify-self-end">
+          <div className="flex shrink-0 items-center justify-end gap-3 justify-self-end xl:gap-4 2xl:gap-5">
             <a
               href={`tel:${site.phoneHref}`}
-              className="hidden min-h-11 items-center gap-2 text-sm whitespace-nowrap text-sand-100 transition-colors hover:text-bronze-300 2xl:flex"
+              className="hidden min-h-11 shrink-0 items-center gap-2 text-sm whitespace-nowrap text-sand-100 transition-colors hover:text-bronze-300 min-[1700px]:flex"
               dir="ltr"
             >
               <Phone className="size-4 text-bronze-400" aria-hidden />
               <span>{site.phones[0]}</span>
             </a>
             <LanguageSwitcher className="hidden sm:flex" />
-            <div className="hidden md:block">
+            <div className="hidden shrink-0 md:block">
               <BronzeButton
                 onClick={() => open('consultation')}
-                className="min-h-11 px-5 py-2.5 text-sm whitespace-nowrap"
+                className="min-h-11 px-4 py-2.5 text-[0.8rem] whitespace-nowrap 2xl:px-5 2xl:text-sm"
               >
                 {t('getConsultation')}
               </BronzeButton>

@@ -38,7 +38,7 @@ export function LanguageSwitcher({ className }: { className?: string }) {
       role="group"
       aria-label="Sprache / Język"
       className={cn(
-        'relative flex items-center gap-0.5 rounded-sm border border-sand-50/12 bg-ink-900/55 p-0.5',
+        'relative flex shrink-0 items-center gap-0.5 rounded-sm border border-sand-50/12 bg-ink-900/55 p-0.5',
         className,
       )}
     >
@@ -53,7 +53,7 @@ export function LanguageSwitcher({ className }: { className?: string }) {
             aria-label={localeMeta[l].nativeName}
             onClick={() => switchTo(l)}
             className={cn(
-              'relative flex min-h-6 cursor-pointer items-center gap-1 rounded-sm px-2 py-1 text-[0.65rem] font-semibold tracking-wide transition-colors duration-300',
+              'relative flex min-h-7 shrink-0 cursor-pointer items-center gap-1.5 rounded-sm px-2.5 py-1 text-[0.72rem] font-semibold tracking-wide whitespace-nowrap transition-colors duration-300',
               active ? 'text-ink-950' : 'text-sand-300 hover:text-bronze-200',
             )}
           >
@@ -69,10 +69,10 @@ export function LanguageSwitcher({ className }: { className?: string }) {
               src={`/flags/${l}.svg`}
               alt=""
               aria-hidden
-              width={14}
-              height={10}
+              width={18}
+              height={12}
               unoptimized
-              className="relative z-10 h-2.5 w-3.5 rounded-[1px] object-cover"
+              className="relative z-10 h-3 w-[18px] shrink-0 rounded-[1px] object-cover"
             />
             <span className="relative z-10">{localeMeta[l].short}</span>
           </button>
