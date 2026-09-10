@@ -1,0 +1,38 @@
+<!doctype html>
+<!--
+  Static form definition for Netlify Forms detection (deploy-time).
+  Next.js does not emit static HTML for the React forms, so every lead is
+  relayed server-side from /api/lead to this file (POST /__forms.html);
+  Netlify stores it and sends the e-mail notification configured under
+  "Forms -> Form notifications". The field names below are what the e-mail
+  shows. Keep them in sync with MAIL_FIELDS in src/app/api/lead/route.ts.
+-->
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <title>Quality Build &amp; Management – Formulare</title>
+  </head>
+  <body>
+    <form name="lead" method="POST" data-netlify="true" hidden>
+      <input type="hidden" name="form-name" value="lead" />
+      <input type="hidden" name="subject" />
+      <input name="Anfrage" type="text" />
+      <input name="Firma" type="text" />
+      <input name="Name" type="text" />
+      <input name="Telefon" type="text" />
+      <input name="email" type="email" />
+      <input name="Leistung" type="text" />
+      <input name="Wunschtermin" type="text" />
+      <input name="Gewerke" type="text" />
+      <input name="Objektart" type="text" />
+      <input name="Volumen" type="text" />
+      <input name="Start" type="text" />
+      <input name="Standort" type="text" />
+      <textarea name="Nachricht"></textarea>
+      <input name="Kontext" type="text" />
+      <input name="Sprache" type="text" />
+      <input name="Seite" type="text" />
+    </form>
+  </body>
+</html>
