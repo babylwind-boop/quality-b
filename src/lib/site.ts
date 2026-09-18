@@ -4,9 +4,9 @@ export const site = {
   /** Full brand line used in the header/footer. */
   brandLine: 'Quality Build & Management',
   legalName: 'Quality Build & Management Sp. z o.o.',
-  domain: 'quality-b.com',
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://quality-b.com',
-  email: 'info@quality-b.com',
+  domain: 'quality-bm.com',
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://quality-bm.com',
+  email: 'info@quality-bm.com',
   phones: ['+49 152 372 284 36'],
   phoneHref: '+4915237228436',
   whatsapp: 'https://wa.me/4915237228436',

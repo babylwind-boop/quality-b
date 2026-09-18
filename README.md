@@ -28,7 +28,7 @@ Copy `.env.example` → `.env.local`:
 
 - `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` — lead form notifications (`/api/lead`)
 - E-mail notifications: `/api/lead` relays every lead to Netlify Forms (static definition in `public/__forms.html`); recipients are managed in Netlify → Forms → Form notifications. `NETLIFY_FORMS_ORIGIN` optionally overrides the relay origin.
-- `NEXT_PUBLIC_SITE_URL` — canonical origin (defaults to `https://quality-b.com`)
+- `NEXT_PUBLIC_SITE_URL` — canonical origin (defaults to `https://quality-bm.com`)
 
 ## Structure
 
